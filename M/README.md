@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (578 Images)
+# Plex Meta Manager People - Signature (signature) - M (580 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -6,6 +6,7 @@
 * [M.C. Gainey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.C.%20Gainey.jpg)
 * [Ma Dong-seok](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Ma%20Dong-seok.jpg)
 * [Macaulay Culkin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Macaulay%20Culkin.jpg)
+* [Maciej Musiał](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maciej%20Musia%C5%82.jpg)
 * [Mack Miles](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mack%20Miles.jpg)
 * [Mackenzie Cardwell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mackenzie%20Cardwell.jpg)
 * [Mackenzie Crook](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mackenzie%20Crook.jpg)
@@ -501,6 +502,7 @@
 * [Micky Flanagan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Micky%20Flanagan.jpg)
 * [Miguel A. Lopez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20A.%20Lopez.jpg)
 * [Miguel Arteta](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Arteta.jpg)
+* [Miguel Bernardeau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Bernardeau.jpg)
 * [Miguel Ferrer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Ferrer.jpg)
 * [Miguel Herrán](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Herr%C3%A1n.jpg)
 * [Miguel Sandoval](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Sandoval.jpg)

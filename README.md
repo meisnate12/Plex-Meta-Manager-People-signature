@@ -1,6 +1,6 @@
-# Plex Meta Manager People - Signature (signature) (6540 Images)
+# Plex Meta Manager People - Signature (signature) (6544 Images)
 
-<details><summary><a href="A">A (529 Images)</a></summary>
+<details><summary><a href="A">A (531 Images)</a></summary>
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -302,6 +302,7 @@
 * [Andrea Bartlow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrea%20Bartlow.jpg)
 * [Andrea Martin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrea%20Martin.jpg)
 * [Andrea Rosen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrea%20Rosen.jpg)
+* [Andreas Pietschmann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andreas%20Pietschmann.jpg)
 * [Andreas Wisniewski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andreas%20Wisniewski.jpg)
 * [Andreea Păduraru](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andreea%20P%C4%83duraru.jpg)
 * [Andrei Arlovski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrei%20Arlovski.jpg)
@@ -341,6 +342,7 @@
 * [Andy Serkis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andy%20Serkis.jpg)
 * [Andy Thompson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andy%20Thompson.jpg)
 * [Anette Støvelbæk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anette%20St%C3%B8velb%C3%A6k.jpg)
+* [Aneurin Barnard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aneurin%20Barnard.jpg)
 * [Ang Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ang%20Lee.jpg)
 * [Angad Singh Ranyal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angad%20Singh%20Ranyal.jpg)
 * [Angel Coulby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angel%20Coulby.jpg)
@@ -4029,7 +4031,7 @@
 * [Léa Seydoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%A9a%20Seydoux.jpg)
 * [Lúcio Andrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%BAcio%20Andrey.jpg)
 </details>
-<details><summary><a href="M">M (578 Images)</a></summary>
+<details><summary><a href="M">M (580 Images)</a></summary>
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -4037,6 +4039,7 @@
 * [M.C. Gainey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.C.%20Gainey.jpg)
 * [Ma Dong-seok](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Ma%20Dong-seok.jpg)
 * [Macaulay Culkin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Macaulay%20Culkin.jpg)
+* [Maciej Musiał](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maciej%20Musia%C5%82.jpg)
 * [Mack Miles](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mack%20Miles.jpg)
 * [Mackenzie Cardwell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mackenzie%20Cardwell.jpg)
 * [Mackenzie Crook](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mackenzie%20Crook.jpg)
@@ -4532,6 +4535,7 @@
 * [Micky Flanagan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Micky%20Flanagan.jpg)
 * [Miguel A. Lopez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20A.%20Lopez.jpg)
 * [Miguel Arteta](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Arteta.jpg)
+* [Miguel Bernardeau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Bernardeau.jpg)
 * [Miguel Ferrer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Ferrer.jpg)
 * [Miguel Herrán](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Herr%C3%A1n.jpg)
 * [Miguel Sandoval](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miguel%20Sandoval.jpg)
