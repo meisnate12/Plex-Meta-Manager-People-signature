@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - I (79 Images)
+# Plex Meta Manager People - Signature (signature) - I (80 Images)
 
 * [Iain Armitage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Armitage.jpg)
 * [Iain Glen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Glen.jpg)
@@ -59,6 +59,7 @@
 * [Isabella Paul](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Isabella%20Paul.jpg)
 * [Isabella Rossellini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Isabella%20Rossellini.jpg)
 * [Isabella Sermon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Isabella%20Sermon.jpg)
+* [Isabella Wei](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Isabella%20Wei.jpg)
 * [Isabelle Fuhrman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Isabelle%20Fuhrman.jpg)
 * [Isao Takahata](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Isao%20Takahata.jpg)
 * [Ishirō Honda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ishir%C5%8D%20Honda.jpg)

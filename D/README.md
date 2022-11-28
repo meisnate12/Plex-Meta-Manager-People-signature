@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (463 Images)
+# Plex Meta Manager People - Signature (signature) - D (464 Images)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.R.%20Nanayakkara.jpg)
@@ -361,6 +361,7 @@
 * [Dimitri Diatchenko](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dimitri%20Diatchenko.jpg)
 * [Dina Meyer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dina%20Meyer.jpg)
 * [Dina Shihabi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dina%20Shihabi.jpg)
+* [Dirk Blocker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dirk%20Blocker.jpg)
 * [Divian Ladwa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Divian%20Ladwa.jpg)
 * [Djimon Hounsou](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Djimon%20Hounsou.jpg)
 * [Dmitrious Bistrevsky](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dmitrious%20Bistrevsky.jpg)

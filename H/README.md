@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (150 Images)
+# Plex Meta Manager People - Signature (signature) - H (151 Images)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
 * [Haaz Sleiman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haaz%20Sleiman.jpg)
@@ -54,6 +54,7 @@
 * [Harry Gregson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harry%20Gregson.jpg)
 * [Harry Kirton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harry%20Kirton.jpg)
 * [Harry Lennix](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harry%20Lennix.jpg)
+* [Harry Lloyd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harry%20Lloyd.jpg)
 * [Harry Melling](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harry%20Melling.jpg)
 * [Harry Saltzman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harry%20Saltzman.jpg)
 * [Harry Shum Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harry%20Shum%20Jr..jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (410 Images)
+# Plex Meta Manager People - Signature (signature) - R (412 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -101,6 +101,7 @@
 * [Reid Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Reid%20Scott.jpg)
 * [Reinaldo Marcus Green](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Reinaldo%20Marcus%20Green.jpg)
 * [Remo Girone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Remo%20Girone.jpg)
+* [Remy Hii](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Remy%20Hii.jpg)
 * [Renato Carpentieri](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Renato%20Carpentieri.jpg)
 * [Rene Russo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rene%20Russo.jpg)
 * [Renes Rivera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Renes%20Rivera.jpg)
@@ -334,6 +335,7 @@
 * [Rory Kinnear](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rory%20Kinnear.jpg)
 * [Rory McCann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rory%20McCann.jpg)
 * [Rory Scovel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rory%20Scovel.jpg)
+* [Rosalie Craig](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosalie%20Craig.jpg)
 * [Rosalind Chao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosalind%20Chao.jpg)
 * [Rosamund Pike](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosamund%20Pike.jpg)
 * [Rosana Sullivan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosana%20Sullivan.jpg)

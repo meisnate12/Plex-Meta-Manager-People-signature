@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (449 Images)
+# Plex Meta Manager People - Signature (signature) - S (451 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -44,6 +44,7 @@
 * [Sam Robards](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Robards.jpg)
 * [Sam Rockwell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Rockwell.jpg)
 * [Sam Shepard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Shepard.jpg)
+* [Sam Troughton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Troughton.jpg)
 * [Sam Worthington](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Worthington.jpg)
 * [Samantha Bond](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Samantha%20Bond.jpg)
 * [Samantha Morton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Samantha%20Morton.jpg)
@@ -324,6 +325,7 @@
 * [Stefanie Wiens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stefanie%20Wiens.jpg)
 * [Stella Stocker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stella%20Stocker.jpg)
 * [Stellan Skarsgård](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stellan%20Skarsg%C3%A5rd.jpg)
+* [Stephan Kampwirth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephan%20Kampwirth.jpg)
 * [Stephanie Beatriz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephanie%20Beatriz.jpg)
 * [Stephanie Czajkowski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephanie%20Czajkowski.jpg)
 * [Stephanie Hsu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephanie%20Hsu.jpg)

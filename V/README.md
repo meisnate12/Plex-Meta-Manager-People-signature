@@ -1,8 +1,9 @@
-# Plex Meta Manager People - Signature (signature) - V (76 Images)
+# Plex Meta Manager People - Signature (signature) - V (77 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vaibhav%20Sethia.jpg)
 * [Val Kilmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Val%20Kilmer.jpg)
+* [Valarie Rae Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valarie%20Rae%20Miller.jpg)
 * [Valerie Leon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valerie%20Leon.jpg)
 * [Van Quattro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Van%20Quattro.jpg)
 * [Vanessa Aspillaga](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Aspillaga.jpg)
