@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (840 Images)
+# Plex Meta Manager People - Signature (signature) - J (841 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -666,6 +666,7 @@
 * [Jon Watts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jon%20Watts.jpg)
 * [Jonah Hauer-King](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonah%20Hauer-King.jpg)
 * [Jonah Hill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonah%20Hill.jpg)
+* [Jonas Carpignano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonas%20Carpignano.jpg)
 * [Jonas Rivera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonas%20Rivera.jpg)
 * [Jonathan Aibel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Aibel.jpg)
 * [Jonathan Banks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Banks.jpg)

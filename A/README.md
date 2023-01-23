@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (537 Images)
+# Plex Meta Manager People - Signature (signature) - A (539 Images)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -148,6 +148,7 @@
 * [Albert Tsai](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Tsai.jpg)
 * [Alberto Rodríguez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alberto%20Rodr%C3%ADguez.jpg)
 * [Aldis Hodge](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aldis%20Hodge.jpg)
+* [Aldo Lado](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aldo%20Lado.jpg)
 * [Alec Baldwin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alec%20Baldwin.jpg)
 * [Alec Guinness](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alec%20Guinness.jpg)
 * [Alec McCowen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alec%20McCowen.jpg)
@@ -221,6 +222,7 @@
 * [Alice Eve](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alice%20Eve.jpg)
 * [Alice Krige](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alice%20Krige.jpg)
 * [Alice McMillan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alice%20McMillan.jpg)
+* [Alice Rohrwacher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alice%20Rohrwacher.jpg)
 * [Alice Walker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alice%20Walker.jpg)
 * [Alicia Johnston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alicia%20Johnston.jpg)
 * [Alicia Silverstone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alicia%20Silverstone.jpg)

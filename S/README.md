@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (451 Images)
+# Plex Meta Manager People - Signature (signature) - S (452 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -167,6 +167,7 @@
 * [Sergio Bini Bustric](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sergio%20Bini%20Bustric.jpg)
 * [Sergio Di Zio](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sergio%20Di%20Zio.jpg)
 * [Sergio Leone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sergio%20Leone.jpg)
+* [Sergio Martino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sergio%20Martino.jpg)
 * [Sergio Pablos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sergio%20Pablos.jpg)
 * [Seth Gordon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Seth%20Gordon.jpg)
 * [Seth Green](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Seth%20Green.jpg)

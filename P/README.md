@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (262 Images)
+# Plex Meta Manager People - Signature (signature) - P (263 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
@@ -18,6 +18,7 @@
 * [Pamela Salem](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pamela%20Salem.jpg)
 * [Panuvat Anthony Nanakornpanom](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Panuvat%20Anthony%20Nanakornpanom.jpg)
 * [Paola Nuñez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paola%20Nu%C3%B1ez.jpg)
+* [Paolo Sorrentino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paolo%20Sorrentino.jpg)
 * [Paris Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paris%20Jackson.jpg)
 * [Park Chan-wook](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Park%20Chan-wook.jpg)
 * [Park Hae-soo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Park%20Hae-soo.jpg)
