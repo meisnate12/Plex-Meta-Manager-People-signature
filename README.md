@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (6593 Images)
+# Plex Meta Manager People - Signature (signature) (6594 Images)
 
 <details><summary><a href="A">A (539 Images)</a></summary>
 
@@ -5586,7 +5586,7 @@
 * [Ryunosuke Kamiki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryunosuke%20Kamiki.jpg)
 * [Ryusuke Hamaguchi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryusuke%20Hamaguchi.jpg)
 </details>
-<details><summary><a href="S">S (452 Images)</a></summary>
+<details><summary><a href="S">S (453 Images)</a></summary>
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -6002,6 +6002,7 @@
 * [Stuart Beattie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stuart%20Beattie.jpg)
 * [Stuart Blumberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stuart%20Blumberg.jpg)
 * [Stuart Cornfeld](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stuart%20Cornfeld.jpg)
+* [Stuart Gordon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stuart%20Gordon.jpg)
 * [Stuart Rosenberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stuart%20Rosenberg.jpg)
 * [Stuart Rudin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stuart%20Rudin.jpg)
 * [Style Dayne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Style%20Dayne.jpg)
