@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (452 Images)
+# Plex Meta Manager People - Signature (signature) - C (454 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
@@ -23,6 +23,7 @@
 * [Camille Cottin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Camille%20Cottin.jpg)
 * [Camille Guaty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Camille%20Guaty.jpg)
 * [Camille Kostek](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Camille%20Kostek.jpg)
+* [Camillo Mastrocinque](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Camillo%20Mastrocinque.jpg)
 * [Candace Cameron Bure](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Candace%20Cameron%20Bure.jpg)
 * [Candice Bergen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Candice%20Bergen.jpg)
 * [Candy Clark](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Candy%20Clark.jpg)
@@ -342,6 +343,7 @@
 * [Claudia Karvan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudia%20Karvan.jpg)
 * [Claudia Kim](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudia%20Kim.jpg)
 * [Claudia Wells](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudia%20Wells.jpg)
+* [Claudio Fragasso](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudio%20Fragasso.jpg)
 * [Claudio Santamaria](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudio%20Santamaria.jpg)
 * [Claudius Peters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudius%20Peters.jpg)
 * [Clay Donahue Fontenot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Clay%20Donahue%20Fontenot.jpg)

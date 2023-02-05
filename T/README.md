@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (317 Images)
+# Plex Meta Manager People - Signature (signature) - T (319 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
 * [T.I.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.I..jpg)
@@ -73,6 +73,7 @@
 * [Terry Crews](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Crews.jpg)
 * [Terry Fator](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Fator.jpg)
 * [Terry Gilliam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Gilliam.jpg)
+* [Terry Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Jones.jpg)
 * [Terry Notary](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Notary.jpg)
 * [Terry Rossio](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Rossio.jpg)
 * [Terry Winsor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Winsor.jpg)
@@ -120,6 +121,7 @@
 * [Thure Lindhardt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Thure%20Lindhardt.jpg)
 * [Thurl Ravenscroft](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Thurl%20Ravenscroft.jpg)
 * [Thusitha Jayasundera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Thusitha%20Jayasundera.jpg)
+* [Ti West](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Ti%20West.jpg)
 * [Tiffany Denise Hobbs](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tiffany%20Denise%20Hobbs.jpg)
 * [Tiffany Haddish](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tiffany%20Haddish.jpg)
 * [Tiffany Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tiffany%20Smith.jpg)

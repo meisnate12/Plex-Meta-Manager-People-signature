@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (263 Images)
+# Plex Meta Manager People - Signature (signature) - P (266 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
@@ -18,6 +18,7 @@
 * [Pamela Salem](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pamela%20Salem.jpg)
 * [Panuvat Anthony Nanakornpanom](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Panuvat%20Anthony%20Nanakornpanom.jpg)
 * [Paola Nuñez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paola%20Nu%C3%B1ez.jpg)
+* [Paolo Genovese](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paolo%20Genovese.jpg)
 * [Paolo Sorrentino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paolo%20Sorrentino.jpg)
 * [Paris Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paris%20Jackson.jpg)
 * [Park Chan-wook](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Park%20Chan-wook.jpg)
@@ -40,6 +41,7 @@
 * [Patricia Velásquez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patricia%20Vel%C3%A1squez.jpg)
 * [Patrick Barlow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Barlow.jpg)
 * [Patrick Brammall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Brammall.jpg)
+* [Patrick Brice](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Brice.jpg)
 * [Patrick Crowley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Crowley.jpg)
 * [Patrick Dempsey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Dempsey.jpg)
 * [Patrick Doyle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Doyle.jpg)
@@ -262,4 +264,5 @@
 * [Pruitt Taylor Vince](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pruitt%20Taylor%20Vince.jpg)
 * [Prunella Scales](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Prunella%20Scales.jpg)
 * [Ptolemy Slocum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Ptolemy%20Slocum.jpg)
+* [Pupi Avati](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pupi%20Avati.jpg)
 * [Putter Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Putter%20Smith.jpg)
