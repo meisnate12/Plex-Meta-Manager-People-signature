@@ -27,7 +27,14 @@ jobs:
       - name: Run Update Readmes
         run: python auto_readme.py -s "signature" -d "imagerepo"
 
+      - name: Check Diff
+        id: verify_diff
+        working-directory: ./imagerepo
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
       - name: Commit & Push Changes
+        if: steps.verify_diff.outputs.changed == 'true'
         working-directory: ./imagerepo
         run: |
           git config --local user.email "action@github.com"
