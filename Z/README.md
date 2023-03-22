@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - Z (40 Images)
+# Plex Meta Manager People - Signature (signature) - Z (41 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Baylin.jpg)
@@ -36,6 +36,7 @@
 * [Zoey Deutch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zoey%20Deutch.jpg)
 * [Zola Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zola%20Williams.jpg)
 * [Zooey Deschanel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zooey%20Deschanel.jpg)
+* [Zora Kerova](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zora%20Kerova.jpg)
 * [Zosia Mamet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zosia%20Mamet.jpg)
 * [Zoë Bell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zo%C3%AB%20Bell.jpg)
 * [Zoë Kravitz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zo%C3%AB%20Kravitz.jpg)

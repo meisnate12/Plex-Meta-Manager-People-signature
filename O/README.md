@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - O (58 Images)
+# Plex Meta Manager People - Signature (signature) - O (60 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O.T. Fagbenle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O.T.%20Fagbenle.jpg)
@@ -9,6 +9,7 @@
 * [Oh Young-soo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oh%20Young-soo.jpg)
 * [Okieriete Onaodowan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Okieriete%20Onaodowan.jpg)
 * [Olalla Hernández](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olalla%20Hern%C3%A1ndez.jpg)
+* [Olga Karlatos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olga%20Karlatos.jpg)
 * [Olga Kurylenko](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olga%20Kurylenko.jpg)
 * [Olga Merediz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olga%20Merediz.jpg)
 * [Olive Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olive%20Gray.jpg)
@@ -49,6 +50,7 @@
 * [Oscar Novak](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oscar%20Novak.jpg)
 * [Oscar Nunez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oscar%20Nunez.jpg)
 * [Oscar Pearce](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oscar%20Pearce.jpg)
+* [Ottaviano Dell'Acqua](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Ottaviano%20Dell%27Acqua.jpg)
 * [Otto Farrant](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Otto%20Farrant.jpg)
 * [Otto Sanchez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Otto%20Sanchez.jpg)
 * [Ove Sprogøe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Ove%20Sprog%C3%B8e.jpg)
