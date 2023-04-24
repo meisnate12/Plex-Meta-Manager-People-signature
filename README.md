@@ -1,6 +1,6 @@
-# Plex Meta Manager People - Signature (signature) (6870 Images)
+# Plex Meta Manager People - Signature (signature) (6871 Images)
 
-<details><summary><a href="A">A (567 Images)</a></summary>
+<details><summary><a href="A">A (568 Images)</a></summary>
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -287,6 +287,7 @@
 * [Amber Tamblyn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amber%20Tamblyn.jpg)
 * [Amelia Bullmore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amelia%20Bullmore.jpg)
 * [Amer Chadha-Patel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amer%20Chadha-Patel.jpg)
+* [America Ferrera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/America%20Ferrera.jpg)
 * [Amerigo Fontani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amerigo%20Fontani.jpg)
 * [Amerigo Tot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amerigo%20Tot.jpg)
 * [Amir Ali Said](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amir%20Ali%20Said.jpg)
