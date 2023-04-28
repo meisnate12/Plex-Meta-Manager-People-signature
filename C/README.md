@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (466 Images)
+# Plex Meta Manager People - Signature (signature) - C (468 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
@@ -131,6 +131,7 @@
 * [Charles Bennett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Bennett.jpg)
 * [Charles Bronson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Bronson.jpg)
 * [Charles Chaplin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Chaplin.jpg)
+* [Charles Cooper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Cooper.jpg)
 * [Charles Dance](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Dance.jpg)
 * [Charles Dickens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Dickens.jpg)
 * [Charles Durning](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Durning.jpg)
@@ -261,6 +262,7 @@
 * [Christian Colson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Colson.jpg)
 * [Christian Hutcherson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Hutcherson.jpg)
 * [Christian Isaiah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Isaiah.jpg)
+* [Christian Kane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Kane.jpg)
 * [Christian Navarro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Navarro.jpg)
 * [Christian Slater](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Slater.jpg)
 * [Christian Tafdrup](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Tafdrup.jpg)

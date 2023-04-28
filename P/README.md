@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (274 Images)
+# Plex Meta Manager People - Signature (signature) - P (276 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
@@ -206,6 +206,7 @@
 * [Peter Safran](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Safran.jpg)
 * [Peter Sagal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Sagal.jpg)
 * [Peter Sarsgaard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Sarsgaard.jpg)
+* [Peter Segal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Segal.jpg)
 * [Peter Serafinowicz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Serafinowicz.jpg)
 * [Peter Sohn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Sohn.jpg)
 * [Peter Stormare](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Stormare.jpg)
@@ -233,6 +234,7 @@
 * [Philip Stone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philip%20Stone.jpg)
 * [Philip Tan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philip%20Tan.jpg)
 * [Philip Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philip%20Wang.jpg)
+* [Philip Winchester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philip%20Winchester.jpg)
 * [Philippa Boyens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philippa%20Boyens.jpg)
 * [Philippe Carcassonne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philippe%20Carcassonne.jpg)
 * [Philippe Nahon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philippe%20Nahon.jpg)

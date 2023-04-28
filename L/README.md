@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (304 Images)
+# Plex Meta Manager People - Signature (signature) - L (306 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -55,6 +55,7 @@
 * [Laura Linney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laura%20Linney.jpg)
 * [Laura Porta](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laura%20Porta.jpg)
 * [Laura Slade Wiggins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laura%20Slade%20Wiggins.jpg)
+* [Laura Vandervoort](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laura%20Vandervoort.jpg)
 * [Laurel Marsden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laurel%20Marsden.jpg)
 * [Lauren Adler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lauren%20Adler.jpg)
 * [Lauren Ambrose](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lauren%20Ambrose.jpg)
@@ -226,6 +227,7 @@
 * [Loretta Devine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Loretta%20Devine.jpg)
 * [Lori Alan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lori%20Alan.jpg)
 * [Lori Pelenise Tuisano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lori%20Pelenise%20Tuisano.jpg)
+* [Lorne Greene](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorne%20Greene.jpg)
 * [Lorne Michaels](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorne%20Michaels.jpg)
 * [Lorne Orleans](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorne%20Orleans.jpg)
 * [Lorraine Bracco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorraine%20Bracco.jpg)

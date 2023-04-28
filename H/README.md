@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (154 Images)
+# Plex Meta Manager People - Signature (signature) - H (155 Images)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
 * [Haaz Sleiman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haaz%20Sleiman.jpg)
@@ -117,6 +117,7 @@
 * [Hilarie Burton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hilarie%20Burton.jpg)
 * [Hilary Swank](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hilary%20Swank.jpg)
 * [Hildur Guðnadóttir](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hildur%20Gu%C3%B0nad%C3%B3ttir.jpg)
+* [Hill Harper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hill%20Harper.jpg)
 * [Hilton McRae](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hilton%20McRae.jpg)
 * [Hilty Bowen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hilty%20Bowen.jpg)
 * [Himesh Patel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Himesh%20Patel.jpg)

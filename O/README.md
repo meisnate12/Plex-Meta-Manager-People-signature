@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - O (60 Images)
+# Plex Meta Manager People - Signature (signature) - O (61 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O.T. Fagbenle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O.T.%20Fagbenle.jpg)
@@ -15,6 +15,7 @@
 * [Olive Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olive%20Gray.jpg)
 * [Oliver Chris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oliver%20Chris.jpg)
 * [Oliver Ford Davies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oliver%20Ford%20Davies.jpg)
+* [Oliver Hardy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oliver%20Hardy.jpg)
 * [Oliver Masucci](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oliver%20Masucci.jpg)
 * [Oliver Muirhead](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oliver%20Muirhead.jpg)
 * [Oliver Phelps](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oliver%20Phelps.jpg)
