@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (276 Images)
+# Plex Meta Manager People - Signature (signature) - P (277 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
@@ -193,6 +193,7 @@
 * [Peter Kay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Kay.jpg)
 * [Peter Kelamis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Kelamis.jpg)
 * [Peter Krause](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Krause.jpg)
+* [Peter Lorre](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Lorre.jpg)
 * [Peter Mayhew](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Mayhew.jpg)
 * [Peter McDonald](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20McDonald.jpg)
 * [Peter Mensah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Mensah.jpg)

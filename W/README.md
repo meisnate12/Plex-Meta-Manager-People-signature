@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (132 Images)
+# Plex Meta Manager People - Signature (signature) - W (133 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -73,6 +73,7 @@
 * [Willard E. Pugh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Willard%20E.%20Pugh.jpg)
 * [Willard Huyck](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Willard%20Huyck.jpg)
 * [Willem Dafoe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Willem%20Dafoe.jpg)
+* [William Asher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Asher.jpg)
 * [William Atherton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Atherton.jpg)
 * [William B. Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20B.%20Davis.jpg)
 * [William Bailey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Bailey.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (241 Images)
+# Plex Meta Manager People - Signature (signature) - G (242 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -175,6 +175,7 @@
 * [Goran Kostic](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Goran%20Kostic.jpg)
 * [Goran Kostić](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Goran%20Kosti%C4%87.jpg)
 * [Gordon Danniels](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gordon%20Danniels.jpg)
+* [Gordon Hessler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gordon%20Hessler.jpg)
 * [Gordon Liu Chia-Hui](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gordon%20Liu%20Chia-Hui.jpg)
 * [Gore Verbinski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gore%20Verbinski.jpg)
 * [Gottfried John](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gottfried%20John.jpg)

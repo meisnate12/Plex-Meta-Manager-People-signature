@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (870 Images)
+# Plex Meta Manager People - Signature (signature) - J (871 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -699,6 +699,7 @@
 * [Jonathan Eirich](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Eirich.jpg)
 * [Jonathan Glazer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Glazer.jpg)
 * [Jonathan Goldstein](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Goldstein.jpg)
+* [Jonathan Good](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Good.jpg)
 * [Jonathan Groff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Groff.jpg)
 * [Jonathan Haagensen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Haagensen.jpg)
 * [Jonathan Hughes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Hughes.jpg)

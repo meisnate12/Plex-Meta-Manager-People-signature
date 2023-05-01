@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (252 Images)
+# Plex Meta Manager People - Signature (signature) - E (253 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -209,6 +209,7 @@
 * [Erinn Hayes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erinn%20Hayes.jpg)
 * [Erinn Westbrook](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erinn%20Westbrook.jpg)
 * [Eriq La Salle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eriq%20La%20Salle.jpg)
+* [Erle C. Kenton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erle%20C.%20Kenton.jpg)
 * [Ernest Borgnine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ernest%20Borgnine.jpg)
 * [Ernest Cline](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ernest%20Cline.jpg)
 * [Ernest Lehman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ernest%20Lehman.jpg)

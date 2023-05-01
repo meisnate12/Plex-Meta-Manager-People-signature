@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (130 Images)
+# Plex Meta Manager People - Signature (signature) - F (131 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -107,6 +107,7 @@
 * [Frank Welker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Welker.jpg)
 * [Frank Wolff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Wolff.jpg)
 * [Frank Wood](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Wood.jpg)
+* [Frankie Avalon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frankie%20Avalon.jpg)
 * [Frankie Boyle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frankie%20Boyle.jpg)
 * [Frankie Faison](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frankie%20Faison.jpg)
 * [Franz Robert Wagner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Franz%20Robert%20Wagner.jpg)

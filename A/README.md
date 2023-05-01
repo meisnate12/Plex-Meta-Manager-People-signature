@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (572 Images)
+# Plex Meta Manager People - Signature (signature) - A (574 Images)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -364,6 +364,7 @@
 * [Andy Samberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andy%20Samberg.jpg)
 * [Andy Secombe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andy%20Secombe.jpg)
 * [Andy Serkis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andy%20Serkis.jpg)
+* [Andy Sidaris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andy%20Sidaris.jpg)
 * [Andy Thompson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andy%20Thompson.jpg)
 * [Anette Støvelbæk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anette%20St%C3%B8velb%C3%A6k.jpg)
 * [Aneurin Barnard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aneurin%20Barnard.jpg)
@@ -424,6 +425,7 @@
 * [Anne Wittman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anne%20Wittman.jpg)
 * [Annette Badland](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annette%20Badland.jpg)
 * [Annette Bening](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annette%20Bening.jpg)
+* [Annette Funicello](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annette%20Funicello.jpg)
 * [Annie Chang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annie%20Chang.jpg)
 * [Annie Girardot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annie%20Girardot.jpg)
 * [Annie Potts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annie%20Potts.jpg)

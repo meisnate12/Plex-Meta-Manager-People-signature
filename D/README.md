@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (478 Images)
+# Plex Meta Manager People - Signature (signature) - D (479 Images)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.R.%20Nanayakkara.jpg)
@@ -414,6 +414,7 @@
 * [Don Stark](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Stark.jpg)
 * [Don Stroud](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Stroud.jpg)
 * [Don Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Taylor.jpg)
+* [Dona Speir](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dona%20Speir.jpg)
 * [Donal Donnelly](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donal%20Donnelly.jpg)
 * [Donal Logue](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donal%20Logue.jpg)
 * [Donald Cammell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donald%20Cammell.jpg)

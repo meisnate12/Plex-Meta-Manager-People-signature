@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (306 Images)
+# Plex Meta Manager People - Signature (signature) - L (308 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -216,6 +216,7 @@
 * [Lois Maxwell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lois%20Maxwell.jpg)
 * [Lois Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lois%20Smith.jpg)
 * [Lombardo Boyar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lombardo%20Boyar.jpg)
+* [Lon Chaney Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lon%20Chaney%20Jr..jpg)
 * [Lonnie Farmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lonnie%20Farmer.jpg)
 * [Lora Martinez-Cunningham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lora%20Martinez-Cunningham.jpg)
 * [Lorcan Finnegan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorcan%20Finnegan.jpg)
@@ -236,6 +237,7 @@
 * [Lotte Andersen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lotte%20Andersen.jpg)
 * [Lotte Lenya](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lotte%20Lenya.jpg)
 * [Lou Castel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lou%20Castel.jpg)
+* [Lou Costello](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lou%20Costello.jpg)
 * [Lou Ferrigno](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lou%20Ferrigno.jpg)
 * [Louie Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louie%20Anderson.jpg)
 * [Louis Blaazer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Blaazer.jpg)
