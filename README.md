@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (6954 Images)
+# Plex Meta Manager People - Signature (signature) (6955 Images)
 
 <details><summary><a href="A">A (574 Images)</a></summary>
 
@@ -2778,7 +2778,7 @@
 * [Izaac Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izaac%20Wang.jpg)
 * [Izabella Scorupco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izabella%20Scorupco.jpg)
 </details>
-<details><summary><a href="J">J (871 Images)</a></summary>
+<details><summary><a href="J">J (872 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -3221,6 +3221,7 @@
 * [Jim Sturgess](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jim%20Sturgess.jpg)
 * [Jim Uhls](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jim%20Uhls.jpg)
 * [Jim Varney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jim%20Varney.jpg)
+* [Jim Ward](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jim%20Ward.jpg)
 * [Jimeoin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jimeoin.jpg)
 * [Jimi Stanton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jimi%20Stanton.jpg)
 * [Jimmi Simpson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jimmi%20Simpson.jpg)

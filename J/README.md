@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (871 Images)
+# Plex Meta Manager People - Signature (signature) - J (872 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -441,6 +441,7 @@
 * [Jim Sturgess](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jim%20Sturgess.jpg)
 * [Jim Uhls](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jim%20Uhls.jpg)
 * [Jim Varney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jim%20Varney.jpg)
+* [Jim Ward](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jim%20Ward.jpg)
 * [Jimeoin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jimeoin.jpg)
 * [Jimi Stanton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jimi%20Stanton.jpg)
 * [Jimmi Simpson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jimmi%20Simpson.jpg)
