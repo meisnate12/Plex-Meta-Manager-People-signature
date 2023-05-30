@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (321 Images)
+# Plex Meta Manager People - Signature (signature) - K (322 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K.J.%20Apa.jpg)
@@ -253,6 +253,7 @@
 * [Kimmy Shields](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kimmy%20Shields.jpg)
 * [Kinji Fukasaku](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kinji%20Fukasaku.jpg)
 * [Kip Chapman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kip%20Chapman.jpg)
+* [Kiran Shah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kiran%20Shah.jpg)
 * [Kirby Howell-Baptiste](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirby%20Howell-Baptiste.jpg)
 * [Kirill Nikiforov](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirill%20Nikiforov.jpg)
 * [Kirk Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirk%20Cameron.jpg)

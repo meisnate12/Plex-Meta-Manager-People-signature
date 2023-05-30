@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (514 Images)
+# Plex Meta Manager People - Signature (signature) - S (516 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -6,6 +6,7 @@
 * [Sabrina Carpenter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sabrina%20Carpenter.jpg)
 * [Sabrina Grdevich](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sabrina%20Grdevich.jpg)
 * [Sacha Baron Cohen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sacha%20Baron%20Cohen.jpg)
+* [Sachi Parker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sachi%20Parker.jpg)
 * [Sadie Sink](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sadie%20Sink.jpg)
 * [Saffron Hocking](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saffron%20Hocking.jpg)
 * [Sahil Shah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sahil%20Shah.jpg)
@@ -215,6 +216,7 @@
 * [Shane Harte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shane%20Harte.jpg)
 * [Shane Mauss](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shane%20Mauss.jpg)
 * [Shane Rangi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shane%20Rangi.jpg)
+* [Shane Rimmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shane%20Rimmer.jpg)
 * [Shane Salerno](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shane%20Salerno.jpg)
 * [Shannon Elizabeth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shannon%20Elizabeth.jpg)
 * [Shannon McIntosh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shannon%20McIntosh.jpg)

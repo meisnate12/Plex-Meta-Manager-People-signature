@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (266 Images)
+# Plex Meta Manager People - Signature (signature) - E (267 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -245,6 +245,7 @@
 * [Eva Green](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eva%20Green.jpg)
 * [Eva Longoria](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eva%20Longoria.jpg)
 * [Eva Mendes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eva%20Mendes.jpg)
+* [Eva Rueber-Staier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eva%20Rueber-Staier.jpg)
 * [Evan Agos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Evan%20Agos.jpg)
 * [Evan Assante](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Evan%20Assante.jpg)
 * [Evan Goldberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Evan%20Goldberg.jpg)
