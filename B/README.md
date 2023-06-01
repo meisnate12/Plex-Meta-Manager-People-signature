@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (389 Images)
+# Plex Meta Manager People - Signature (signature) - B (390 Images)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/BD%20Wong.jpg)
@@ -117,6 +117,7 @@
 * [Bethany Joy Lenz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bethany%20Joy%20Lenz.jpg)
 * [Bethlehem Million](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bethlehem%20Million.jpg)
 * [Betsy Brandt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Betsy%20Brandt.jpg)
+* [Betsy Russell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Betsy%20Russell.jpg)
 * [Bette Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bette%20Davis.jpg)
 * [Betty Gilpin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Betty%20Gilpin.jpg)
 * [Beverley Mitchell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Beverley%20Mitchell.jpg)
