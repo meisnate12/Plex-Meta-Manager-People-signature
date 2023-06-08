@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (462 Images)
+# Plex Meta Manager People - Signature (signature) - R (463 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -66,6 +66,7 @@
 * [Raven Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Raven%20Scott.jpg)
 * [Raven-Symoné](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Raven-Symon%C3%A9.jpg)
 * [Ravi Cabot-Conyers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ravi%20Cabot-Conyers.jpg)
+* [Ravi Kapoor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ravi%20Kapoor.jpg)
 * [Rawson Marshall Thurber](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rawson%20Marshall%20Thurber.jpg)
 * [Ray Campbell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ray%20Campbell.jpg)
 * [Ray Harryhausen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ray%20Harryhausen.jpg)
