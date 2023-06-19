@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (7384 Images)
+# Plex Meta Manager People - Signature (signature) (7385 Images)
 
 <details><summary><a href="A">A (607 Images)</a></summary>
 
@@ -2946,7 +2946,7 @@
 * [Izaac Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izaac%20Wang.jpg)
 * [Izabella Scorupco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izabella%20Scorupco.jpg)
 </details>
-<details><summary><a href="J">J (934 Images)</a></summary>
+<details><summary><a href="J">J (935 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -3279,6 +3279,7 @@
 * [Jennifer Carpenter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Carpenter.jpg)
 * [Jennifer Connelly](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Connelly.jpg)
 * [Jennifer Coolidge](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Coolidge.jpg)
+* [Jennifer Darling](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Darling.jpg)
 * [Jennifer Ehle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Ehle.jpg)
 * [Jennifer Finnigan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Finnigan.jpg)
 * [Jennifer Garner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Garner.jpg)
