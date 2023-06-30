@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (140 Images)
+# Plex Meta Manager People - Signature (signature) - W (141 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -129,6 +129,7 @@
 * [Wolf Kahler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolf%20Kahler.jpg)
 * [Wolf Roth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolf%20Roth.jpg)
 * [Wolfgang Petersen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolfgang%20Petersen.jpg)
+* [Wolfgang Reitherman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolfgang%20Reitherman.jpg)
 * [Wolfman Jack](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolfman%20Jack.jpg)
 * [Wong Kar-wai](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wong%20Kar-wai.jpg)
 * [Wood Harris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wood%20Harris.jpg)

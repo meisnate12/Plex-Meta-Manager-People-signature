@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (7385 Images)
+# Plex Meta Manager People - Signature (signature) (7387 Images)
 
 <details><summary><a href="A">A (607 Images)</a></summary>
 
@@ -6250,7 +6250,7 @@
 * [Ryunosuke Kamiki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryunosuke%20Kamiki.jpg)
 * [Ryusuke Hamaguchi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryusuke%20Hamaguchi.jpg)
 </details>
-<details><summary><a href="S">S (516 Images)</a></summary>
+<details><summary><a href="S">S (517 Images)</a></summary>
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -6662,6 +6662,7 @@
 * [Stephen Root](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Root.jpg)
 * [Stephen Schwartz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Schwartz.jpg)
 * [Stephen Sommers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Sommers.jpg)
+* [Stephen Stanton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Stanton.jpg)
 * [Stephen Tobolowsky](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Tobolowsky.jpg)
 * [Stephen Tompkinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Tompkinson.jpg)
 * [Stephen Ure](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Ure.jpg)
@@ -7232,7 +7233,7 @@
 * [Vladek Sheybal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vladek%20Sheybal.jpg)
 * [Von Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Von%20Lewis.jpg)
 </details>
-<details><summary><a href="W">W (140 Images)</a></summary>
+<details><summary><a href="W">W (141 Images)</a></summary>
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -7363,6 +7364,7 @@
 * [Wolf Kahler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolf%20Kahler.jpg)
 * [Wolf Roth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolf%20Roth.jpg)
 * [Wolfgang Petersen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolfgang%20Petersen.jpg)
+* [Wolfgang Reitherman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolfgang%20Reitherman.jpg)
 * [Wolfman Jack](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wolfman%20Jack.jpg)
 * [Wong Kar-wai](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wong%20Kar-wai.jpg)
 * [Wood Harris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wood%20Harris.jpg)
