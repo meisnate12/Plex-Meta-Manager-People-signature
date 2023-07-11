@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (390 Images)
+# Plex Meta Manager People - Signature (signature) - B (392 Images)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/BD%20Wong.jpg)
@@ -112,6 +112,7 @@
 * [Bert Kreischer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bert%20Kreischer.jpg)
 * [Bert Remsen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bert%20Remsen.jpg)
 * [Bertha Navarro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bertha%20Navarro.jpg)
+* [Bertie Carvel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bertie%20Carvel.jpg)
 * [Bess Flowers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bess%20Flowers.jpg)
 * [Beth Grant](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Beth%20Grant.jpg)
 * [Bethany Joy Lenz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bethany%20Joy%20Lenz.jpg)
@@ -183,6 +184,7 @@
 * [Blake Lively](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Blake%20Lively.jpg)
 * [Blake Ritson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Blake%20Ritson.jpg)
 * [Blanca Araceli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Blanca%20Araceli.jpg)
+* [Blanca Portillo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Blanca%20Portillo.jpg)
 * [Blu Hunt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Blu%20Hunt.jpg)
 * [Blythe Danner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Blythe%20Danner.jpg)
 * [Bo Burnham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bo%20Burnham.jpg)

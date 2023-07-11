@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (516 Images)
+# Plex Meta Manager People - Signature (signature) - D (517 Images)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.R.%20Nanayakkara.jpg)
@@ -79,6 +79,7 @@
 * [Daniel Di Tomasso](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Di%20Tomasso.jpg)
 * [Daniel Eghan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Eghan.jpg)
 * [Daniel Filho](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Filho.jpg)
+* [Daniel Grao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Grao.jpg)
 * [Daniel Henney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Henney.jpg)
 * [Daniel Kaluuya](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Kaluuya.jpg)
 * [Daniel Kwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Kwan.jpg)

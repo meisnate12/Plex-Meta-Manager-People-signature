@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (935 Images)
+# Plex Meta Manager People - Signature (signature) - J (937 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -241,6 +241,7 @@
 * [Javed Jaffrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Javed%20Jaffrey.jpg)
 * [Javier Bardem](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Javier%20Bardem.jpg)
 * [Javier Grajeda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Javier%20Grajeda.jpg)
+* [Javier Rey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Javier%20Rey.jpg)
 * [Javon Walton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Javon%20Walton.jpg)
 * [Jay Baruchel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jay%20Baruchel.jpg)
 * [Jay Brazeau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jay%20Brazeau.jpg)
@@ -786,6 +787,7 @@
 * [Jorge Lendeborg Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jorge%20Lendeborg%20Jr..jpg)
 * [Jorge Leon Martinez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jorge%20Leon%20Martinez.jpg)
 * [Jorja Fox](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jorja%20Fox.jpg)
+* [Jose Coronado](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jose%20Coronado.jpg)
 * [Jose Miguel Vasquez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jose%20Miguel%20Vasquez.jpg)
 * [Jose Palma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jose%20Palma.jpg)
 * [Josef Altin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josef%20Altin.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (141 Images)
+# Plex Meta Manager People - Signature (signature) - W (142 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -121,6 +121,7 @@
 * [Wilmar Zimosa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wilmar%20Zimosa.jpg)
 * [Wilmer Valderrama](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wilmer%20Valderrama.jpg)
 * [Wilson Yip](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wilson%20Yip.jpg)
+* [Wim Wenders](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wim%20Wenders.jpg)
 * [Winona Ryder](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Winona%20Ryder.jpg)
 * [Winslow Fegley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Winslow%20Fegley.jpg)
 * [Winston Duke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Winston%20Duke.jpg)

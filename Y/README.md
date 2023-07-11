@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - Y (29 Images)
+# Plex Meta Manager People - Signature (signature) - Y (30 Images)
 
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yahya%20Abdul-Mateen%20II.jpg)
 * [Yang Liang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yang%20Liang.jpg)
@@ -13,6 +13,7 @@
 * [Yi Han](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yi%20Han.jpg)
 * [Yoji Tanaka](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yoji%20Tanaka.jpg)
 * [Yolanda Lynes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yolanda%20Lynes.jpg)
+* [Yon González](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yon%20Gonz%C3%A1lez.jpg)
 * [Yoram Globus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yoram%20Globus.jpg)
 * [Yordanos Shifera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yordanos%20Shifera.jpg)
 * [Yorgos Lanthimos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yorgos%20Lanthimos.jpg)

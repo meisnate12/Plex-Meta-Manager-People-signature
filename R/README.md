@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (463 Images)
+# Plex Meta Manager People - Signature (signature) - R (464 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -155,6 +155,7 @@
 * [Richard Coyle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Coyle.jpg)
 * [Richard Curtis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Curtis.jpg)
 * [Richard Donner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Donner.jpg)
+* [Richard Dormer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Dormer.jpg)
 * [Richard Dreyfuss](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Dreyfuss.jpg)
 * [Richard E. Grant](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20E.%20Grant.jpg)
 * [Richard Edson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Edson.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (267 Images)
+# Plex Meta Manager People - Signature (signature) - E (268 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -63,6 +63,7 @@
 * [Elden Henson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elden%20Henson.jpg)
 * [Eleanor Columbus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eleanor%20Columbus.jpg)
 * [Eleanor Tomlinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eleanor%20Tomlinson.jpg)
+* [Elena Rivera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elena%20Rivera.jpg)
 * [Eli Roth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eli%20Roth.jpg)
 * [Eli Wallach](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eli%20Wallach.jpg)
 * [Elia Kazan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elia%20Kazan.jpg)

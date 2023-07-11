@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (319 Images)
+# Plex Meta Manager People - Signature (signature) - L (320 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -45,6 +45,7 @@
 * [Lasse Hallström](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lasse%20Hallstr%C3%B6m.jpg)
 * [Lateef Crowder](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lateef%20Crowder.jpg)
 * [Laughton Parchment](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laughton%20Parchment.jpg)
+* [Laura Bailey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laura%20Bailey.jpg)
 * [Laura Cayouette](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laura%20Cayouette.jpg)
 * [Laura Dern](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laura%20Dern.jpg)
 * [Laura Drasbæk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laura%20Drasb%C3%A6k.jpg)

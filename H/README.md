@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (163 Images)
+# Plex Meta Manager People - Signature (signature) - H (164 Images)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
 * [Haaz Sleiman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haaz%20Sleiman.jpg)
@@ -157,6 +157,7 @@
 * [Hugh Lofting](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hugh%20Lofting.jpg)
 * [Hugh Quarshie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hugh%20Quarshie.jpg)
 * [Hugh Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hugh%20Scott.jpg)
+* [Hugo Silva](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hugo%20Silva.jpg)
 * [Hugo Weaving](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hugo%20Weaving.jpg)
 * [Humphrey Bogart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Humphrey%20Bogart.jpg)
 * [Hunter Schafer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hunter%20Schafer.jpg)
