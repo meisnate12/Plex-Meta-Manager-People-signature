@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (268 Images)
+# Plex Meta Manager People - Signature (signature) - E (269 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -39,6 +39,7 @@
 * [Edie Falco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edie%20Falco.jpg)
 * [Edie McClurg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edie%20McClurg.jpg)
 * [Edmund Purdom](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edmund%20Purdom.jpg)
+* [Edna Purviance](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edna%20Purviance.jpg)
 * [Edoardo Leo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edoardo%20Leo.jpg)
 * [Edoardo Ponti](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edoardo%20Ponti.jpg)
 * [Edouard Philipponnat](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edouard%20Philipponnat.jpg)

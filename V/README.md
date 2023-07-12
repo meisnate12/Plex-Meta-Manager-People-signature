@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - V (88 Images)
+# Plex Meta Manager People - Signature (signature) - V (90 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vaibhav%20Sethia.jpg)
@@ -67,6 +67,7 @@
 * [Vincent Schiavelli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20Schiavelli.jpg)
 * [Vincent Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20Wong.jpg)
 * [Vincent van Hinte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20van%20Hinte.jpg)
+* [Vincente Minnelli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincente%20Minnelli.jpg)
 * [Vincenzo Cerami](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincenzo%20Cerami.jpg)
 * [Vineet Kumar Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vineet%20Kumar%20Singh.jpg)
 * [Ving Rhames](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Ving%20Rhames.jpg)
@@ -80,6 +81,7 @@
 * [Virginia Gardner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Virginia%20Gardner.jpg)
 * [Virginia Madsen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Virginia%20Madsen.jpg)
 * [Vitor Belfort](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vitor%20Belfort.jpg)
+* [Vittorio De Sica](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vittorio%20De%20Sica.jpg)
 * [Vittorio Duse](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vittorio%20Duse.jpg)
 * [Vittorio Gassman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vittorio%20Gassman.jpg)
 * [Vivan Bhatena](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vivan%20Bhatena.jpg)

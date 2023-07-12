@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (495 Images)
+# Plex Meta Manager People - Signature (signature) - C (496 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
@@ -30,6 +30,7 @@
 * [Candace Cameron Bure](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Candace%20Cameron%20Bure.jpg)
 * [Candice Bergen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Candice%20Bergen.jpg)
 * [Candy Clark](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Candy%20Clark.jpg)
+* [Cantinflas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cantinflas.jpg)
 * [Cara Buono](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cara%20Buono.jpg)
 * [Cara Delevingne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cara%20Delevingne.jpg)
 * [Cara Gee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cara%20Gee.jpg)

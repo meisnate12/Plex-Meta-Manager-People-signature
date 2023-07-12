@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (198 Images)
+# Plex Meta Manager People - Signature (signature) - N (199 Images)
 
 * [Na Hong-jin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Na%20Hong-jin.jpg)
 * [Nabhaan Rizwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nabhaan%20Rizwan.jpg)
@@ -194,6 +194,7 @@
 * [Norman J. Warren](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Norman%20J.%20Warren.jpg)
 * [Norman Jewison](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Norman%20Jewison.jpg)
 * [Norman Reedus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Norman%20Reedus.jpg)
+* [Norman Tokar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Norman%20Tokar.jpg)
 * [Noureen DeWulf](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noureen%20DeWulf.jpg)
 * [Numan Acar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Numan%20Acar.jpg)
 * [Nyasha Hatendi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nyasha%20Hatendi.jpg)

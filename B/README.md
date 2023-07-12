@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (392 Images)
+# Plex Meta Manager People - Signature (signature) - B (393 Images)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/BD%20Wong.jpg)
@@ -167,6 +167,7 @@
 * [Billy De Wolfe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20De%20Wolfe.jpg)
 * [Billy Dee Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Dee%20Williams.jpg)
 * [Billy Harris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Harris.jpg)
+* [Billy Howle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Howle.jpg)
 * [Billy J. Mitchell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20J.%20Mitchell.jpg)
 * [Billy Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Jackson.jpg)
 * [Billy Magnussen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Magnussen.jpg)

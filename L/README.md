@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (320 Images)
+# Plex Meta Manager People - Signature (signature) - L (322 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -260,6 +260,7 @@
 * [Louis Hofmann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Hofmann.jpg)
 * [Louis Lay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Lay.jpg)
 * [Louis Leterrier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Leterrier.jpg)
+* [Louis Malle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Malle.jpg)
 * [Louis Mandylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Mandylor.jpg)
 * [Louis Vanaria](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Vanaria.jpg)
 * [Louisa May Alcott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louisa%20May%20Alcott.jpg)
@@ -294,6 +295,7 @@
 * [Ludger Pistor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Ludger%20Pistor.jpg)
 * [Luigi Cozzi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luigi%20Cozzi.jpg)
 * [Luigi Pistilli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luigi%20Pistilli.jpg)
+* [Luis Buñuel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luis%20Bu%C3%B1uel.jpg)
 * [Luis Guzmán](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luis%20Guzm%C3%A1n.jpg)
 * [Luis Otávio](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luis%20Ot%C3%A1vio.jpg)
 * [Luis Richard Gomez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luis%20Richard%20Gomez.jpg)

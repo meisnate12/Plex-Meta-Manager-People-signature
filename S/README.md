@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (520 Images)
+# Plex Meta Manager People - Signature (signature) - S (522 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -61,6 +61,7 @@
 * [Sammi Rotibi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sammi%20Rotibi.jpg)
 * [Samuel Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Samuel%20Anderson.jpg)
 * [Samuel L. Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Samuel%20L.%20Jackson.jpg)
+* [Samuel West](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Samuel%20West.jpg)
 * [Samuel Witwer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Samuel%20Witwer.jpg)
 * [Sanaa Lathan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sanaa%20Lathan.jpg)
 * [Sandra Bullock](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sandra%20Bullock.jpg)
@@ -260,6 +261,7 @@
 * [Shia LaBeouf](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shia%20LaBeouf.jpg)
 * [Shiloh Coke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shiloh%20Coke.jpg)
 * [Shin Ha-kyun](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shin%20Ha-kyun.jpg)
+* [Shintarō Katsu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shintar%C5%8D%20Katsu.jpg)
 * [Shioli Kutsuna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shioli%20Kutsuna.jpg)
 * [Shirley Eaton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shirley%20Eaton.jpg)
 * [Shirley Henderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shirley%20Henderson.jpg)
