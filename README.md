@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (7437 Images)
+# Plex Meta Manager People - Signature (signature) (7438 Images)
 
 <details><summary><a href="A">A (611 Images)</a></summary>
 
@@ -2963,7 +2963,7 @@
 * [Izaac Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izaac%20Wang.jpg)
 * [Izabella Scorupco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izabella%20Scorupco.jpg)
 </details>
-<details><summary><a href="J">J (938 Images)</a></summary>
+<details><summary><a href="J">J (939 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -2995,6 +2995,7 @@
 * [Jack Epps Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Epps%20Jr..jpg)
 * [Jack Giarraputo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Giarraputo.jpg)
 * [Jack Gore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Gore.jpg)
+* [Jack Hannah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Hannah.jpg)
 * [Jack Hedley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Hedley.jpg)
 * [Jack Hoffman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Hoffman.jpg)
 * [Jack Huston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Huston.jpg)
