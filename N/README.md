@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (199 Images)
+# Plex Meta Manager People - Signature (signature) - N (200 Images)
 
 * [Na Hong-jin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Na%20Hong-jin.jpg)
 * [Nabhaan Rizwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nabhaan%20Rizwan.jpg)
@@ -132,6 +132,7 @@
 * [Nico De Jesus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nico%20De%20Jesus.jpg)
 * [Nicola Correia Damude](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicola%20Correia%20Damude.jpg)
 * [Nicola Valenzano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicola%20Valenzano.jpg)
+* [Nicola Walker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicola%20Walker.jpg)
 * [Nicolas Bro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicolas%20Bro.jpg)
 * [Nicolas Cage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicolas%20Cage.jpg)
 * [Nicolas Winding Refn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicolas%20Winding%20Refn.jpg)

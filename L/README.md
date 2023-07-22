@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (322 Images)
+# Plex Meta Manager People - Signature (signature) - L (323 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -299,6 +299,7 @@
 * [Luis Guzmán](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luis%20Guzm%C3%A1n.jpg)
 * [Luis Otávio](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luis%20Ot%C3%A1vio.jpg)
 * [Luis Richard Gomez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luis%20Richard%20Gomez.jpg)
+* [Luis Tosar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luis%20Tosar.jpg)
 * [Luka Peroš](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luka%20Pero%C5%A1.jpg)
 * [Lukas Haas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lukas%20Haas.jpg)
 * [Luke Evans](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Evans.jpg)

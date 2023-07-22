@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (939 Images)
+# Plex Meta Manager People - Signature (signature) - J (940 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -166,6 +166,7 @@
 * [Jamie Lee Curtis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20Lee%20Curtis.jpg)
 * [Jamie McShane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20McShane.jpg)
 * [Jamie Parker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20Parker.jpg)
+* [Jamie Sives](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20Sives.jpg)
 * [Jamie Szantyr](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20Szantyr.jpg)
 * [Jamie Waylett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20Waylett.jpg)
 * [Jamie-Lynn Sigler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie-Lynn%20Sigler.jpg)

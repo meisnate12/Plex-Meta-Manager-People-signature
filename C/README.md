@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (496 Images)
+# Plex Meta Manager People - Signature (signature) - C (497 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
@@ -131,6 +131,7 @@
 * [Channing Tatum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Channing%20Tatum.jpg)
 * [Charithra Chandran](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charithra%20Chandran.jpg)
 * [Charlene Amoia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlene%20Amoia.jpg)
+* [Charlene McKenna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlene%20McKenna.jpg)
 * [Charles Baker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Baker.jpg)
 * [Charles Band](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Band.jpg)
 * [Charles Bennett (2)](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Bennett%20%282%29.jpg)
