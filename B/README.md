@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (393 Images)
+# Plex Meta Manager People - Signature (signature) - B (395 Images)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/BD%20Wong.jpg)
@@ -161,6 +161,7 @@
 * [Billy Bob Thornton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Bob%20Thornton.jpg)
 * [Billy Boyd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Boyd.jpg)
 * [Billy Bryk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Bryk.jpg)
+* [Billy Choi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Choi.jpg)
 * [Billy Connolly](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Connolly.jpg)
 * [Billy Crudup](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Crudup.jpg)
 * [Billy Crystal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Crystal.jpg)
@@ -379,6 +380,7 @@
 * [Bráulio Mantovani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Br%C3%A1ulio%20Mantovani.jpg)
 * [Bud Abbott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bud%20Abbott.jpg)
 * [Buddy Sosthand](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Buddy%20Sosthand.jpg)
+* [Bugzy Malone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bugzy%20Malone.jpg)
 * [Burgess Meredith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Burgess%20Meredith.jpg)
 * [Burn Gorman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Burn%20Gorman.jpg)
 * [Burr Steers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Burr%20Steers.jpg)

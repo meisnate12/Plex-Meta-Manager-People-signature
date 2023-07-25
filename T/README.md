@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (356 Images)
+# Plex Meta Manager People - Signature (signature) - T (357 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20Love.jpg)
@@ -47,6 +47,7 @@
 * [Taylor Hickson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Hickson.jpg)
 * [Taylor James](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20James.jpg)
 * [Taylor John Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20John%20Smith.jpg)
+* [Taylor Kitsch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Kitsch.jpg)
 * [Taylor Lautner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Lautner.jpg)
 * [Taylor Murphy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Murphy.jpg)
 * [Taylor St. Clair](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20St.%20Clair.jpg)

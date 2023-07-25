@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (270 Images)
+# Plex Meta Manager People - Signature (signature) - E (271 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -238,6 +238,7 @@
 * [Ethan Embry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ethan%20Embry.jpg)
 * [Ethan Gross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ethan%20Gross.jpg)
 * [Ethan Hawke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ethan%20Hawke.jpg)
+* [Ethan Lawrence](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ethan%20Lawrence.jpg)
 * [Ethan Suplee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ethan%20Suplee.jpg)
 * [Eugene Cordero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eugene%20Cordero.jpg)
 * [Eugene Levy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eugene%20Levy.jpg)

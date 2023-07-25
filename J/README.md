@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (940 Images)
+# Plex Meta Manager People - Signature (signature) - J (942 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -322,6 +322,7 @@
 * [Jeffrey Silver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeffrey%20Silver.jpg)
 * [Jeffrey Tambor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeffrey%20Tambor.jpg)
 * [Jeffrey Wright](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeffrey%20Wright.jpg)
+* [Jemelia George](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jemelia%20George.jpg)
 * [Jen Lilley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jen%20Lilley.jpg)
 * [Jen Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jen%20Taylor.jpg)
 * [Jen Tullock](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jen%20Tullock.jpg)
@@ -910,6 +911,7 @@
 * [Julie Walters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Julie%20Walters.jpg)
 * [Juliet Rylance](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Juliet%20Rylance.jpg)
 * [Juliette Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Juliette%20Lewis.jpg)
+* [Juliette Motamed](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Juliette%20Motamed.jpg)
 * [Julio Cedillo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Julio%20Cedillo.jpg)
 * [Julio Oscar Mechoso](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Julio%20Oscar%20Mechoso.jpg)
 * [Julio Torres](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Julio%20Torres.jpg)

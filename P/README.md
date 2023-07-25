@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (296 Images)
+# Plex Meta Manager People - Signature (signature) - P (298 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
@@ -195,6 +195,7 @@
 * [Peter Dobson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Dobson.jpg)
 * [Peter Falk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Falk.jpg)
 * [Peter Farrelly](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Farrelly.jpg)
+* [Peter Ferdinando](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Ferdinando.jpg)
 * [Peter Fonda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Fonda.jpg)
 * [Peter Gallagher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Gallagher.jpg)
 * [Peter Gantzler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Gantzler.jpg)
@@ -229,6 +230,7 @@
 * [Peyton Manning](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peyton%20Manning.jpg)
 * [Peyton Reed](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peyton%20Reed.jpg)
 * [Pezhmaan Alinia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pezhmaan%20Alinia.jpg)
+* [Pharrell Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pharrell%20Williams.jpg)
 * [Phellipe Haagensen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phellipe%20Haagensen.jpg)
 * [Phil Daniels](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Daniels.jpg)
 * [Phil Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Davis.jpg)
