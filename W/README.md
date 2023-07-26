@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (142 Images)
+# Plex Meta Manager People - Signature (signature) - W (144 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -22,6 +22,7 @@
 * [Walton Goggins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Walton%20Goggins.jpg)
 * [Wang Xueqi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wang%20Xueqi.jpg)
 * [Ward Bond](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Ward%20Bond.jpg)
+* [Warren Beatty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Warren%20Beatty.jpg)
 * [Warren Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Warren%20Brown.jpg)
 * [Warren Christie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Warren%20Christie.jpg)
 * [Warren Kole](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Warren%20Kole.jpg)
@@ -49,6 +50,7 @@
 * [Wes Studi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wes%20Studi.jpg)
 * [Wesley Kimmel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wesley%20Kimmel.jpg)
 * [Wesley Snipes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wesley%20Snipes.jpg)
+* [Whitney Houston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Whitney%20Houston.jpg)
 * [Whoopi Goldberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Whoopi%20Goldberg.jpg)
 * [Wi Ha-jun](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wi%20Ha-jun.jpg)
 * [Wil Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wil%20Anderson.jpg)

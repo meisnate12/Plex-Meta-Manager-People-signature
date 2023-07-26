@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - O (68 Images)
+# Plex Meta Manager People - Signature (signature) - O (71 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O.T. Fagbenle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O.T.%20Fagbenle.jpg)
@@ -37,8 +37,11 @@
 * [Olivier Richters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olivier%20Richters.jpg)
 * [Olympia Dukakis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olympia%20Dukakis.jpg)
 * [Omar Benson Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omar%20Benson%20Miller.jpg)
+* [Omar Brunson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omar%20Brunson.jpg)
 * [Omar Dorsey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omar%20Dorsey.jpg)
 * [Omar Ghonim](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omar%20Ghonim.jpg)
+* [Omar Scroggins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omar%20Scroggins.jpg)
+* [Omar Sharif](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omar%20Sharif.jpg)
 * [Omar Sy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omar%20Sy.jpg)
 * [Omari Hardwick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omari%20Hardwick.jpg)
 * [Omi Vaidya](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omi%20Vaidya.jpg)
