@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (406 Images)
+# Plex Meta Manager People - Signature (signature) - B (407 Images)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/BD%20Wong.jpg)
@@ -83,6 +83,7 @@
 * [Ben Schwartz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Ben%20Schwartz.jpg)
 * [Ben Sidell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Ben%20Sidell.jpg)
 * [Ben Stiller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Ben%20Stiller.jpg)
+* [Ben Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Ben%20Wang.jpg)
 * [Ben Washam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Ben%20Washam.jpg)
 * [Ben Wheatley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Ben%20Wheatley.jpg)
 * [Ben Whishaw](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Ben%20Whishaw.jpg)

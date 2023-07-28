@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (261 Images)
+# Plex Meta Manager People - Signature (signature) - G (263 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -168,6 +168,7 @@
 * [Giovanni Storti](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Giovanni%20Storti.jpg)
 * [Girish Kulkarni](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Girish%20Kulkarni.jpg)
 * [Gissette E. Valentin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gissette%20E.%20Valentin.jpg)
+* [Giulia Dragotto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Giulia%20Dragotto.jpg)
 * [Giuliano Gemma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Giuliano%20Gemma.jpg)
 * [Giulietta Masina](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Giulietta%20Masina.jpg)
 * [Giuseppe Andrews](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Giuseppe%20Andrews.jpg)
@@ -213,6 +214,7 @@
 * [Grant Heslov](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Grant%20Heslov.jpg)
 * [Grant Hill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Grant%20Hill.jpg)
 * [Granville Saxton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Granville%20Saxton.jpg)
+* [Gratiela Brancusi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gratiela%20Brancusi.jpg)
 * [Gray Frederickson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gray%20Frederickson.jpg)
 * [Grayson Berry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Grayson%20Berry.jpg)
 * [Graziella Moretto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Graziella%20Moretto.jpg)

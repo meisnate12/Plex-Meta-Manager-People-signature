@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (958 Images)
+# Plex Meta Manager People - Signature (signature) - J (960 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -833,6 +833,7 @@
 * [Joseph Walker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20Walker.jpg)
 * [Joseph Williamson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20Williamson.jpg)
 * [Joseph Wiseman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20Wiseman.jpg)
+* [Josephine Langford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josephine%20Langford.jpg)
 * [Josh Banday](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josh%20Banday.jpg)
 * [Josh Blue](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josh%20Blue.jpg)
 * [Josh Boone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josh%20Boone.jpg)
@@ -958,3 +959,4 @@
 * [Justyn Shippelt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Justyn%20Shippelt.jpg)
 * [Jóhannes Haukur Jóhannesson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C3%B3hannes%20Haukur%20J%C3%B3hannesson.jpg)
 * [Jördis Triebel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C3%B6rdis%20Triebel.jpg)
+* [Jürgen Prochnow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C3%BCrgen%20Prochnow.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (331 Images)
+# Plex Meta Manager People - Signature (signature) - L (332 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -39,6 +39,7 @@
 * [Larry Mitchell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20Mitchell.jpg)
 * [Larry Storch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20Storch.jpg)
 * [Larry the Cable Guy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20the%20Cable%20Guy.jpg)
+* [Lars Eidinger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lars%20Eidinger.jpg)
 * [Lars Ranthe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lars%20Ranthe.jpg)
 * [Lars von Trier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lars%20von%20Trier.jpg)
 * [Lashana Lynch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lashana%20Lynch.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (622 Images)
+# Plex Meta Manager People - Signature (signature) - A (623 Images)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -163,6 +163,7 @@
 * [Albert Hughes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Hughes.jpg)
 * [Albert R. Broccoli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20R.%20Broccoli.jpg)
 * [Albert Tsai](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Tsai.jpg)
+* [Albert Uderzo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Uderzo.jpg)
 * [Alberto Rodríguez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alberto%20Rodr%C3%ADguez.jpg)
 * [Alberto Sordi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alberto%20Sordi.jpg)
 * [Alberto de Mendoza](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alberto%20de%20Mendoza.jpg)

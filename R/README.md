@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (480 Images)
+# Plex Meta Manager People - Signature (signature) - R (482 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -120,6 +120,7 @@
 * [Renji Ishibashi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Renji%20Ishibashi.jpg)
 * [Renny Harlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Renny%20Harlin.jpg)
 * [René Auberjonois](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ren%C3%A9%20Auberjonois.jpg)
+* [René Goscinny](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ren%C3%A9%20Goscinny.jpg)
 * [Renée Elise Goldsberry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ren%C3%A9e%20Elise%20Goldsberry.jpg)
 * [Renée Victor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ren%C3%A9e%20Victor.jpg)
 * [Renée Zellweger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ren%C3%A9e%20Zellweger.jpg)
@@ -345,6 +346,7 @@
 * [Roger Allam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Allam.jpg)
 * [Roger Avary](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Avary.jpg)
 * [Roger Birnbaum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Birnbaum.jpg)
+* [Roger Carel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Carel.jpg)
 * [Roger Corman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Corman.jpg)
 * [Roger Craig Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Craig%20Smith.jpg)
 * [Roger Cross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Cross.jpg)

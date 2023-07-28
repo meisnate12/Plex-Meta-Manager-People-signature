@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - V (91 Images)
+# Plex Meta Manager People - Signature (signature) - V (92 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vaibhav%20Sethia.jpg)
@@ -90,4 +90,5 @@
 * [Vivien Cardone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vivien%20Cardone.jpg)
 * [Vivien Lyra Blair](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vivien%20Lyra%20Blair.jpg)
 * [Vladek Sheybal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vladek%20Sheybal.jpg)
+* [Volker Bruch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Volker%20Bruch.jpg)
 * [Von Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Von%20Lewis.jpg)
