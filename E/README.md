@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (278 Images)
+# Plex Meta Manager People - Signature (signature) - E (279 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -90,6 +90,7 @@
 * [Elizabeth Debicki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Debicki.jpg)
 * [Elizabeth Dulau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Dulau.jpg)
 * [Elizabeth Faith Ludlow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Faith%20Ludlow.jpg)
+* [Elizabeth Gillies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Gillies.jpg)
 * [Elizabeth Healey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Healey.jpg)
 * [Elizabeth Hurley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Hurley.jpg)
 * [Elizabeth Judd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Judd.jpg)
