@@ -1,6 +1,6 @@
-# Plex Meta Manager People - Signature (signature) (7607 Images)
+# Plex Meta Manager People - Signature (signature) (7608 Images)
 
-<details><summary><a href="A">A (623 Images)</a></summary>
+<details><summary><a href="A">A (624 Images)</a></summary>
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -432,6 +432,7 @@
 * [Ann-Margret](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ann-Margret.jpg)
 * [Anna Akana](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Akana.jpg)
 * [Anna Boden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Boden.jpg)
+* [Anna Castillo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Castillo.jpg)
 * [Anna Chancellor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Chancellor.jpg)
 * [Anna Diop](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Diop.jpg)
 * [Anna Faris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Faris.jpg)
