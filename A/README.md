@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (624 Images)
+# Plex Meta Manager People - Signature (signature) - A (625 Images)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -295,6 +295,7 @@
 * [Amanda Burton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amanda%20Burton.jpg)
 * [Amanda Bynes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amanda%20Bynes.jpg)
 * [Amanda Donohoe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amanda%20Donohoe.jpg)
+* [Amanda Foreman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amanda%20Foreman.jpg)
 * [Amanda Lucas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amanda%20Lucas.jpg)
 * [Amanda Peet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amanda%20Peet.jpg)
 * [Amanda Plummer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amanda%20Plummer.jpg)
