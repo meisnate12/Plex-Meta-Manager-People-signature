@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - Z (43 Images)
+# Plex Meta Manager People - Signature (signature) - Z (44 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Baylin.jpg)
@@ -31,6 +31,7 @@
 * [Zena Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zena%20Marshall.jpg)
 * [Zendaya](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zendaya.jpg)
 * [Zenobia Shroff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zenobia%20Shroff.jpg)
+* [Zhang Yimou](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zhang%20Yimou.jpg)
 * [Zhang Ziyi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zhang%20Ziyi.jpg)
 * [Zhou Xun](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zhou%20Xun.jpg)
 * [Zoe Saldana](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zoe%20Saldana.jpg)

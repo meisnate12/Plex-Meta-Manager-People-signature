@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - Y (30 Images)
+# Plex Meta Manager People - Signature (signature) - Y (31 Images)
 
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yahya%20Abdul-Mateen%20II.jpg)
 * [Yang Liang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yang%20Liang.jpg)
@@ -9,6 +9,7 @@
 * [Yasha Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yasha%20Jackson.jpg)
 * [Yasiin Bey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yasiin%20Bey.jpg)
 * [Yasmeen Fletcher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yasmeen%20Fletcher.jpg)
+* [Yasujirō Ozu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yasujir%C5%8D%20Ozu.jpg)
 * [Yerin Ha](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yerin%20Ha.jpg)
 * [Yi Han](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yi%20Han.jpg)
 * [Yoji Tanaka](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yoji%20Tanaka.jpg)
