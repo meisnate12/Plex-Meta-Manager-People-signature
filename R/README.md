@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (483 Images)
+# Plex Meta Manager People - Signature (signature) - R (484 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -104,6 +104,7 @@
 * [Reggie Watts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Reggie%20Watts.jpg)
 * [Regina Hall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Regina%20Hall.jpg)
 * [Regina King](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Regina%20King.jpg)
+* [Regina Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Regina%20Taylor.jpg)
 * [Regina Ting Chen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Regina%20Ting%20Chen.jpg)
 * [Reginald Carter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Reginald%20Carter.jpg)
 * [Reginald D. Hunter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Reginald%20D.%20Hunter.jpg)
