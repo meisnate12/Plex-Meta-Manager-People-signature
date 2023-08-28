@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (531 Images)
+# Plex Meta Manager People - Signature (signature) - S (533 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -8,6 +8,7 @@
 * [Sacha Baron Cohen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sacha%20Baron%20Cohen.jpg)
 * [Sachi Parker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sachi%20Parker.jpg)
 * [Sadie Sink](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sadie%20Sink.jpg)
+* [Saeed Roustaee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saeed%20Roustaee.jpg)
 * [Saffron Hocking](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saffron%20Hocking.jpg)
 * [Sahil Shah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sahil%20Shah.jpg)
 * [Sai-Kit Yung](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sai-Kit%20Yung.jpg)
@@ -276,6 +277,7 @@
 * [Shohreh Aghdashloo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shohreh%20Aghdashloo.jpg)
 * [Shooter Jennings](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shooter%20Jennings.jpg)
 * [Shun Oguri](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shun%20Oguri.jpg)
+* [Shusuke Kaneko](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shusuke%20Kaneko.jpg)
 * [Sian Clifford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sian%20Clifford.jpg)
 * [Sian Reese](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sian%20Reese.jpg)
 * [Sid Haig](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sid%20Haig.jpg)

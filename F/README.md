@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (142 Images)
+# Plex Meta Manager People - Signature (signature) - F (145 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -46,6 +46,7 @@
 * [Fernando Meirelles](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fernando%20Meirelles.jpg)
 * [Fernando Rey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fernando%20Rey.jpg)
 * [Fernando Soto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fernando%20Soto.jpg)
+* [Feroz Abbasi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Feroz%20Abbasi.jpg)
 * [Fileena Bahris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fileena%20Bahris.jpg)
 * [Finn Cole](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Finn%20Cole.jpg)
 * [Finn Wolfhard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Finn%20Wolfhard.jpg)
@@ -82,6 +83,8 @@
 * [Francis Capra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francis%20Capra.jpg)
 * [Francis Ford Coppola](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francis%20Ford%20Coppola.jpg)
 * [Francis Lawrence](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francis%20Lawrence.jpg)
+* [Francis Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francis%20Lee.jpg)
+* [Francis Veber](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francis%20Veber.jpg)
 * [Francis de Wolff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francis%20de%20Wolff.jpg)
 * [Francisco Pablo Donadío](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francisco%20Pablo%20Donad%C3%ADo.jpg)
 * [Francisco Rabal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francisco%20Rabal.jpg)
