@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - O (74 Images)
+# Plex Meta Manager People - Signature (signature) - O (75 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O.T. Fagbenle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O.T.%20Fagbenle.jpg)
@@ -53,6 +53,7 @@
 * [Oren Hawxhurst](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oren%20Hawxhurst.jpg)
 * [Oren Uziel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oren%20Uziel.jpg)
 * [Ori Pfeffer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Ori%20Pfeffer.jpg)
+* [Oriol Paulo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oriol%20Paulo.jpg)
 * [Orion Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Orion%20Lee.jpg)
 * [Orla Brady](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Orla%20Brady.jpg)
 * [Orlando Bloom](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Orlando%20Bloom.jpg)

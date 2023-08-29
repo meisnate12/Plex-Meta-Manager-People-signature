@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (172 Images)
+# Plex Meta Manager People - Signature (signature) - H (173 Images)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
 * [Haaz Sleiman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haaz%20Sleiman.jpg)
@@ -100,6 +100,7 @@
 * [Helena Bonham Carter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helena%20Bonham%20Carter.jpg)
 * [Helmut Bakaitis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helmut%20Bakaitis.jpg)
 * [Helmut Berger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helmut%20Berger.jpg)
+* [Henri-Georges Clouzot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Henri-Georges%20Clouzot.jpg)
 * [Henry Cavill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Henry%20Cavill.jpg)
 * [Henry Fonda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Henry%20Fonda.jpg)
 * [Henry Gayden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Henry%20Gayden.jpg)

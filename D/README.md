@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (527 Images)
+# Plex Meta Manager People - Signature (signature) - D (529 Images)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.R.%20Nanayakkara.jpg)
@@ -101,6 +101,7 @@
 * [Daniel Stevens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Stevens.jpg)
 * [Daniel Sunjata](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Sunjata.jpg)
 * [Daniel Swain](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Swain.jpg)
+* [Daniel Sánchez Arévalo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20S%C3%A1nchez%20Ar%C3%A9valo.jpg)
 * [Daniel Tay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Tay.jpg)
 * [Daniel Tosh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Tosh.jpg)
 * [Daniel Weyman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Weyman.jpg)
@@ -195,6 +196,7 @@
 * [David Bowers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Bowers.jpg)
 * [David Bradley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Bradley.jpg)
 * [David Brisbin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Brisbin.jpg)
+* [David Bruckner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Bruckner.jpg)
 * [David Brückner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Br%C3%BCckner.jpg)
 * [David Carradine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Carradine.jpg)
 * [David Costabile](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Costabile.jpg)

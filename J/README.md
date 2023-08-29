@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (973 Images)
+# Plex Meta Manager People - Signature (signature) - J (974 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -833,6 +833,7 @@
 * [Joseph Gordon-Levitt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20Gordon-Levitt.jpg)
 * [Joseph Izzo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20Izzo.jpg)
 * [Joseph Kosinski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20Kosinski.jpg)
+* [Joseph L. Mankiewicz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20L.%20Mankiewicz.jpg)
 * [Joseph Mawle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20Mawle.jpg)
 * [Joseph May](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20May.jpg)
 * [Joseph Millson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joseph%20Millson.jpg)

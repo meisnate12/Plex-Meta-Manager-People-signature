@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (307 Images)
+# Plex Meta Manager People - Signature (signature) - P (308 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
@@ -39,6 +39,7 @@
 * [Pat Roach](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pat%20Roach.jpg)
 * [Pat Woodell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pat%20Woodell.jpg)
 * [Patina Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patina%20Miller.jpg)
+* [Patrice Leconte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrice%20Leconte.jpg)
 * [Patrice Ledoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrice%20Ledoux.jpg)
 * [Patrice O'Neal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrice%20O%27Neal.jpg)
 * [Patricia Arquette](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patricia%20Arquette.jpg)

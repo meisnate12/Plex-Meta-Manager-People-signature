@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (280 Images)
+# Plex Meta Manager People - Signature (signature) - E (281 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -127,6 +127,7 @@
 * [Ema Horvath](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ema%20Horvath.jpg)
 * [Embeth Davidtz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Embeth%20Davidtz.jpg)
 * [Emelina Adams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emelina%20Adams.jpg)
+* [Emerald Fennell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emerald%20Fennell.jpg)
 * [Emeson Nwolie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emeson%20Nwolie.jpg)
 * [Emil Beheshti](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emil%20Beheshti.jpg)
 * [Emile Hirsch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emile%20Hirsch.jpg)

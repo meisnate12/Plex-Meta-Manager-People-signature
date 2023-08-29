@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (372 Images)
+# Plex Meta Manager People - Signature (signature) - T (373 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20Love.jpg)
@@ -192,6 +192,7 @@
 * [Tito Ortiz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tito%20Ortiz.jpg)
 * [Titus Welliver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Titus%20Welliver.jpg)
 * [Tiya Sircar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tiya%20Sircar.jpg)
+* [Toa Fraser](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Toa%20Fraser.jpg)
 * [Tobe Hooper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tobe%20Hooper.jpg)
 * [Tobey Maguire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tobey%20Maguire.jpg)
 * [Tobias Menzies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tobias%20Menzies.jpg)

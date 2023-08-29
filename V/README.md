@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - V (92 Images)
+# Plex Meta Manager People - Signature (signature) - V (93 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vaibhav%20Sethia.jpg)
@@ -38,6 +38,7 @@
 * [Vicky Jenson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vicky%20Jenson.jpg)
 * [Vicky McClure](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vicky%20McClure.jpg)
 * [Victor Argo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victor%20Argo.jpg)
+* [Victor Fleming](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victor%20Fleming.jpg)
 * [Victor Garber](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victor%20Garber.jpg)
 * [Victor Hugo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victor%20Hugo.jpg)
 * [Victor Rasuk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victor%20Rasuk.jpg)
