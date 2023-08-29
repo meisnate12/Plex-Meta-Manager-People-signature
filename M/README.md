@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (696 Images)
+# Plex Meta Manager People - Signature (signature) - M (698 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -366,6 +366,7 @@
 * [Maxine Cunliffe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maxine%20Cunliffe.jpg)
 * [Maxine Peake](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maxine%20Peake.jpg)
 * [May Calamawy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/May%20Calamawy.jpg)
+* [Maya Deren](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maya%20Deren.jpg)
 * [Maya Erskine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maya%20Erskine.jpg)
 * [Maya Forbes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maya%20Forbes.jpg)
 * [Maya Hawke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maya%20Hawke.jpg)
@@ -640,6 +641,7 @@
 * [Minka Kelly](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Minka%20Kelly.jpg)
 * [Minnie Driver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Minnie%20Driver.jpg)
 * [Miquel Fernández](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miquel%20Fern%C3%A1ndez.jpg)
+* [Mira Nair](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mira%20Nair.jpg)
 * [Mira Sorvino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mira%20Sorvino.jpg)
 * [Miranda Nolan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miranda%20Nolan.jpg)
 * [Miranda Otto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miranda%20Otto.jpg)

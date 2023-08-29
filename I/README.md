@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - I (97 Images)
+# Plex Meta Manager People - Signature (signature) - I (98 Images)
 
 * [Iain Armitage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Armitage.jpg)
 * [Iain De Caestecker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20De%20Caestecker.jpg)
@@ -28,6 +28,7 @@
 * [Ibrahima Gueye](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ibrahima%20Gueye.jpg)
 * [Ice Cube](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ice%20Cube.jpg)
 * [Ida Galli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ida%20Galli.jpg)
+* [Ida Lupino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ida%20Lupino.jpg)
 * [Iddo Goldberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iddo%20Goldberg.jpg)
 * [Idina Menzel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Idina%20Menzel.jpg)
 * [Ido Mor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ido%20Mor.jpg)

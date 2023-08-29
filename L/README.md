@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (338 Images)
+# Plex Meta Manager People - Signature (signature) - L (339 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -23,6 +23,7 @@
 * [Langston Fishburne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Langston%20Fishburne.jpg)
 * [Lara McDonnell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lara%20McDonnell.jpg)
 * [Laraine Newman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laraine%20Newman.jpg)
+* [Larisa Shepitko](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larisa%20Shepitko.jpg)
 * [Larissa Andrade](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larissa%20Andrade.jpg)
 * [Larry Blamire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20Blamire.jpg)
 * [Larry Brandenburg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20Brandenburg.jpg)
