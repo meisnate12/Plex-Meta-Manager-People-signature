@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (7728 Images)
+# Plex Meta Manager People - Signature (signature) (7729 Images)
 
 <details><summary><a href="A">A (632 Images)</a></summary>
 
@@ -3079,7 +3079,7 @@
 * [Izaac Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izaac%20Wang.jpg)
 * [Izabella Scorupco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izabella%20Scorupco.jpg)
 </details>
-<details><summary><a href="J">J (974 Images)</a></summary>
+<details><summary><a href="J">J (975 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -3788,6 +3788,7 @@
 * [John Schlesinger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Schlesinger.jpg)
 * [John Schnabel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Schnabel.jpg)
 * [John Schneider](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Schneider.jpg)
+* [John Schwab](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Schwab.jpg)
 * [John Shrapnel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Shrapnel.jpg)
 * [John Simm](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Simm.jpg)
 * [John Singleton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Singleton.jpg)
