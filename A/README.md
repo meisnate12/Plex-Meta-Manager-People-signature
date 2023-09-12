@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (632 Images)
+# Plex Meta Manager People - Signature (signature) - A (633 Images)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -294,6 +294,7 @@
 * [Alysia Reiner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alysia%20Reiner.jpg)
 * [Alyson Hannigan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alyson%20Hannigan.jpg)
 * [Alyson Reed](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alyson%20Reed.jpg)
+* [Alyssa Diaz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alyssa%20Diaz.jpg)
 * [Alyvia Alyn Lind](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alyvia%20Alyn%20Lind.jpg)
 * [Amanda Abbington](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amanda%20Abbington.jpg)
 * [Amanda Burton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amanda%20Burton.jpg)

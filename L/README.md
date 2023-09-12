@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (339 Images)
+# Plex Meta Manager People - Signature (signature) - L (340 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -67,6 +67,7 @@
 * [Lauren E. Banks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lauren%20E.%20Banks.jpg)
 * [Lauren German](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lauren%20German.jpg)
 * [Lauren Hynek](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lauren%20Hynek.jpg)
+* [Lauren Lapkus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lauren%20Lapkus.jpg)
 * [Lauren Revard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lauren%20Revard.jpg)
 * [Lauren Ridloff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lauren%20Ridloff.jpg)
 * [Lauren Shuler Donner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lauren%20Shuler%20Donner.jpg)
