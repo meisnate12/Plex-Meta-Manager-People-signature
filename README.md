@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (7731 Images)
+# Plex Meta Manager People - Signature (signature) (7732 Images)
 
 <details><summary><a href="A">A (633 Images)</a></summary>
 
@@ -1049,7 +1049,7 @@
 * [Béla Tarr](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B%C3%A9la%20Tarr.jpg)
 * [Bérénice Bejo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B%C3%A9r%C3%A9nice%20Bejo.jpg)
 </details>
-<details><summary><a href="C">C (515 Images)</a></summary>
+<details><summary><a href="C">C (516 Images)</a></summary>
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
@@ -1436,6 +1436,7 @@
 * [Claude Poirier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claude%20Poirier.jpg)
 * [Claude Sautet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claude%20Sautet.jpg)
 * [Claude Starling](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claude%20Starling.jpg)
+* [Claudette Colbert](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudette%20Colbert.jpg)
 * [Claudia Doumit](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudia%20Doumit.jpg)
 * [Claudia Heinz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudia%20Heinz.jpg)
 * [Claudia Karvan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Claudia%20Karvan.jpg)
