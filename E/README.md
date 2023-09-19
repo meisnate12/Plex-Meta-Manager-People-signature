@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (281 Images)
+# Plex Meta Manager People - Signature (signature) - E (283 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -55,6 +55,7 @@
 * [Edward R. Pressman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20R.%20Pressman.jpg)
 * [Edward Saxon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Saxon.jpg)
 * [Edward Woodward](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Woodward.jpg)
+* [Edward Zwick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Zwick.jpg)
 * [Edwige Fenech](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edwige%20Fenech.jpg)
 * [Efka Kvaraciejus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Efka%20Kvaraciejus.jpg)
 * [Ehren Kruger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ehren%20Kruger.jpg)
@@ -267,6 +268,7 @@
 * [Evan Peters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Evan%20Peters.jpg)
 * [Evan Rachel Wood](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Evan%20Rachel%20Wood.jpg)
 * [Evan Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Evan%20Ross.jpg)
+* [Evan Whitten](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Evan%20Whitten.jpg)
 * [Evangeline Lilly](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Evangeline%20Lilly.jpg)
 * [Evanna Lynch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Evanna%20Lynch.jpg)
 * [Eve Best](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eve%20Best.jpg)

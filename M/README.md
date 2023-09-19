@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (699 Images)
+# Plex Meta Manager People - Signature (signature) - M (701 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -389,6 +389,7 @@
 * [Megan Park](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Megan%20Park.jpg)
 * [Megan Richards](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Megan%20Richards.jpg)
 * [Megan Tiernan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Megan%20Tiernan.jpg)
+* [Megumi Hayashibara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Megumi%20Hayashibara.jpg)
 * [Mehdi Nebbou](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mehdi%20Nebbou.jpg)
 * [Mehwish Hayat](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mehwish%20Hayat.jpg)
 * [Mel B](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mel%20B.jpg)
@@ -523,6 +524,7 @@
 * [Michael McIntyre](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20McIntyre.jpg)
 * [Michael McKean](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20McKean.jpg)
 * [Michael Mellinger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Mellinger.jpg)
+* [Michael Moore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Moore.jpg)
 * [Michael Murphy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Murphy.jpg)
 * [Michael Nyqvist](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Nyqvist.jpg)
 * [Michael O'Donoghue](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20O%27Donoghue.jpg)

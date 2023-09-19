@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (488 Images)
+# Plex Meta Manager People - Signature (signature) - R (489 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -236,6 +236,7 @@
 * [Rita Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rita%20Wilson.jpg)
 * [Ritchie Coster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ritchie%20Coster.jpg)
 * [Ritchie Montgomery](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ritchie%20Montgomery.jpg)
+* [Ritu Arya](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ritu%20Arya.jpg)
 * [Ritwik Sahore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ritwik%20Sahore.jpg)
 * [River Phoenix](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/River%20Phoenix.jpg)
 * [Riz Ahmed](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Riz%20Ahmed.jpg)

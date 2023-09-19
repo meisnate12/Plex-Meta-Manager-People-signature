@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (975 Images)
+# Plex Meta Manager People - Signature (signature) - J (977 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -212,6 +212,7 @@
 * [Jasmin Lawrence](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jasmin%20Lawrence.jpg)
 * [Jasmine Cephas Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jasmine%20Cephas%20Jones.jpg)
 * [Jasmyn Rae](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jasmyn%20Rae.jpg)
+* [Jason Acuña](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Acu%C3%B1a.jpg)
 * [Jason Alexander](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Alexander.jpg)
 * [Jason Bateman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Bateman.jpg)
 * [Jason Biggs](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Biggs.jpg)
@@ -696,6 +697,7 @@
 * [John Reynolds](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Reynolds.jpg)
 * [John Rhys-Davies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Rhys-Davies.jpg)
 * [John Rhys](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Rhys.jpg)
+* [John Ritter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Ritter.jpg)
 * [John Roberts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Roberts.jpg)
 * [John Rosengrant](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Rosengrant.jpg)
 * [John Rothman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Rothman.jpg)
