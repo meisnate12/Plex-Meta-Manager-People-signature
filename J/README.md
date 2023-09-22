@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (977 Images)
+# Plex Meta Manager People - Signature (signature) - J (978 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -163,6 +163,7 @@
 * [James Whale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Whale.jpg)
 * [James Woods](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Woods.jpg)
 * [Jameson Kraemer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jameson%20Kraemer.jpg)
+* [Jamie Bamber](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20Bamber.jpg)
 * [Jamie Bell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20Bell.jpg)
 * [Jamie Campbell Bower](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20Campbell%20Bower.jpg)
 * [Jamie Chung](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jamie%20Chung.jpg)

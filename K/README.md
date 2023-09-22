@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (330 Images)
+# Plex Meta Manager People - Signature (signature) - K (331 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K.J.%20Apa.jpg)
@@ -286,6 +286,7 @@
 * [Kotaro Isaka](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kotaro%20Isaka.jpg)
 * [Koyu Rankin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Koyu%20Rankin.jpg)
 * [Kris Kristofferson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kris%20Kristofferson.jpg)
+* [Kris Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kris%20Marshall.jpg)
 * [Kristen Bell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kristen%20Bell.jpg)
 * [Kristen Bellamy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kristen%20Bellamy.jpg)
 * [Kristen Dalton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kristen%20Dalton.jpg)

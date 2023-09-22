@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (489 Images)
+# Plex Meta Manager People - Signature (signature) - R (490 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -379,6 +379,7 @@
 * [Ron Howard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Howard.jpg)
 * [Ron Livingston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Livingston.jpg)
 * [Ron Perlman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Perlman.jpg)
+* [Ron Rifkin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Rifkin.jpg)
 * [Ron Shelton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Shelton.jpg)
 * [Ron White](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20White.jpg)
 * [Ron Yuan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Yuan.jpg)
