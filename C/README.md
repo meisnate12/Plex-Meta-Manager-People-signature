@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (517 Images)
+# Plex Meta Manager People - Signature (signature) - C (518 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
@@ -462,6 +462,7 @@
 * [Connie Nielsen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Connie%20Nielsen.jpg)
 * [Connor Jessup](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Connor%20Jessup.jpg)
 * [Connor Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Connor%20Jones.jpg)
+* [Connor Swindells](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Connor%20Swindells.jpg)
 * [Conor Moloney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Conor%20Moloney.jpg)
 * [Conrad Coates](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Conrad%20Coates.jpg)
 * [Conrad Vernon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Conrad%20Vernon.jpg)
