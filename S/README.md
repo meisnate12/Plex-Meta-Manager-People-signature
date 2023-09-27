@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (536 Images)
+# Plex Meta Manager People - Signature (signature) - S (537 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -509,6 +509,7 @@
 * [Susan Sarandon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Susan%20Sarandon.jpg)
 * [Susan Traylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Susan%20Traylor.jpg)
 * [Susanna Thompson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Susanna%20Thompson.jpg)
+* [Susanne Bormann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Susanne%20Bormann.jpg)
 * [Susie Abromeit](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Susie%20Abromeit.jpg)
 * [Susie Essman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Susie%20Essman.jpg)
 * [Suzanne Buirgy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Suzanne%20Buirgy.jpg)

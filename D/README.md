@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (530 Images)
+# Plex Meta Manager People - Signature (signature) - D (533 Images)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.R.%20Nanayakkara.jpg)
@@ -223,6 +223,8 @@
 * [David Hess](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Hess.jpg)
 * [David Heyman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Heyman.jpg)
 * [David Hoberman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Hoberman.jpg)
+* [David Holt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Holt.jpg)
+* [David Holthouse](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Holthouse.jpg)
 * [David Jason](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Jason.jpg)
 * [David Kallaway](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Kallaway.jpg)
 * [David Kaye](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Kaye.jpg)
@@ -290,6 +292,7 @@
 * [David Zucker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Zucker.jpg)
 * [David de Keyser](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20de%20Keyser.jpg)
 * [David-Paul Grove](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David-Paul%20Grove.jpg)
+* [Dawn Dininger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dawn%20Dininger.jpg)
 * [Dawn French](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dawn%20French.jpg)
 * [Daws Butler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daws%20Butler.jpg)
 * [Dax Griffin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dax%20Griffin.jpg)

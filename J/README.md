@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (978 Images)
+# Plex Meta Manager People - Signature (signature) - J (980 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -152,6 +152,7 @@
 * [James Ryan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Ryan.jpg)
 * [James Shigeta](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Shigeta.jpg)
 * [James Siderits](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Siderits.jpg)
+* [James Sie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Sie.jpg)
 * [James Spader](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Spader.jpg)
 * [James Stewart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Stewart.jpg)
 * [James Tolkan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Tolkan.jpg)
@@ -324,6 +325,7 @@
 * [Jeff Prewett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeff%20Prewett.jpg)
 * [Jeff Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeff%20Ross.jpg)
 * [Jeff Tremaine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeff%20Tremaine.jpg)
+* [Jeff Wilbusch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeff%20Wilbusch.jpg)
 * [Jeff Wolfe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeff%20Wolfe.jpg)
 * [Jeffrey Boam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeffrey%20Boam.jpg)
 * [Jeffrey Combs](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeffrey%20Combs.jpg)

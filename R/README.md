@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (490 Images)
+# Plex Meta Manager People - Signature (signature) - R (491 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -452,6 +452,7 @@
 * [Russell Brand](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Russell%20Brand.jpg)
 * [Russell Crowe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Russell%20Crowe.jpg)
 * [Russell Dennis Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Russell%20Dennis%20Lewis.jpg)
+* [Russell Hornsby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Russell%20Hornsby.jpg)
 * [Russell Howard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Russell%20Howard.jpg)
 * [Russell Kane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Russell%20Kane.jpg)
 * [Russell Peters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Russell%20Peters.jpg)

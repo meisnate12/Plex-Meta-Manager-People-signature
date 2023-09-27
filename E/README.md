@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (284 Images)
+# Plex Meta Manager People - Signature (signature) - E (285 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -194,6 +194,7 @@
 * [Eric Challier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eric%20Challier.jpg)
 * [Eric Clapton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eric%20Clapton.jpg)
 * [Eric Dane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eric%20Dane.jpg)
+* [Eric Edelstein](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eric%20Edelstein.jpg)
 * [Eric Etebari](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eric%20Etebari.jpg)
 * [Eric Fellner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eric%20Fellner.jpg)
 * [Eric Gold](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eric%20Gold.jpg)

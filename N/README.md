@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (211 Images)
+# Plex Meta Manager People - Signature (signature) - N (212 Images)
 
 * [Na Hong-jin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Na%20Hong-jin.jpg)
 * [Nabhaan Rizwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nabhaan%20Rizwan.jpg)
@@ -179,6 +179,7 @@
 * [Noah Emmerich](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noah%20Emmerich.jpg)
 * [Noah Harpster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noah%20Harpster.jpg)
 * [Noah Jupe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noah%20Jupe.jpg)
+* [Noah Kaye Bentley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noah%20Kaye%20Bentley.jpg)
 * [Noah Mills](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noah%20Mills.jpg)
 * [Noah Schnapp](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noah%20Schnapp.jpg)
 * [Noah Segan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noah%20Segan.jpg)
