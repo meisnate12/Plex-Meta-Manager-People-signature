@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (980 Images)
+# Plex Meta Manager People - Signature (signature) - J (982 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -58,6 +58,7 @@
 * [Jackie Chan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackie%20Chan.jpg)
 * [Jackie Earle Haley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackie%20Earle%20Haley.jpg)
 * [Jackie Mason](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackie%20Mason.jpg)
+* [Jackie Sandler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackie%20Sandler.jpg)
 * [Jackson Robert Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackson%20Robert%20Scott.jpg)
 * [Jackson Spidell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackson%20Spidell.jpg)
 * [Jacob Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jacob%20Anderson.jpg)
@@ -348,6 +349,7 @@
 * [Jena Malone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jena%20Malone.jpg)
 * [Jenifer Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jenifer%20Lewis.jpg)
 * [Jenn Murray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jenn%20Murray.jpg)
+* [Jenna Ortega](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jenna%20Ortega.jpg)
 * [Jennifer Aniston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Aniston.jpg)
 * [Jennifer Beals](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Beals.jpg)
 * [Jennifer Carpenter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jennifer%20Carpenter.jpg)
