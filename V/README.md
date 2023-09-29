@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - V (94 Images)
+# Plex Meta Manager People - Signature (signature) - V (95 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vaibhav%20Sethia.jpg)
@@ -9,6 +9,7 @@
 * [Valerio Aprea](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valerio%20Aprea.jpg)
 * [Valerio Mastandrea](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valerio%20Mastandrea.jpg)
 * [Van Quattro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Van%20Quattro.jpg)
+* [Vance Gerry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vance%20Gerry.jpg)
 * [Vanessa Aspillaga](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Aspillaga.jpg)
 * [Vanessa Hudgens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Hudgens.jpg)
 * [Vanessa Kirby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Kirby.jpg)

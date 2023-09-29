@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (144 Images)
+# Plex Meta Manager People - Signature (signature) - W (146 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -42,6 +42,7 @@
 * [Wentworth Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wentworth%20Miller.jpg)
 * [Werner Herzog](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Werner%20Herzog.jpg)
 * [Wes Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wes%20Anderson.jpg)
+* [Wes Ball](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wes%20Ball.jpg)
 * [Wes Bentley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wes%20Bentley.jpg)
 * [Wes Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wes%20Brown.jpg)
 * [Wes Chatham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wes%20Chatham.jpg)
@@ -107,6 +108,7 @@
 * [William Moulton Marston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Moulton%20Marston.jpg)
 * [William Nadylam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Nadylam.jpg)
 * [William Nicholson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Nicholson.jpg)
+* [William Roberts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Roberts.jpg)
 * [William Russ](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Russ.jpg)
 * [William Sadler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Sadler.jpg)
 * [William Shakespeare](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Shakespeare.jpg)

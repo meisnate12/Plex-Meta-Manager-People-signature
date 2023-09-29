@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (340 Images)
+# Plex Meta Manager People - Signature (signature) - L (342 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -92,6 +92,7 @@
 * [Leandro Firmino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Leandro%20Firmino.jpg)
 * [Leanne Best](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Leanne%20Best.jpg)
 * [Lee Byung-hun](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Byung-hun.jpg)
+* [Lee Daniels](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Daniels.jpg)
 * [Lee Evans](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Evans.jpg)
 * [Lee Horsley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Horsley.jpg)
 * [Lee Ji-ha](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Ji-ha.jpg)
@@ -101,6 +102,7 @@
 * [Lee Nicholas Harris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Nicholas%20Harris.jpg)
 * [Lee Pace](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Pace.jpg)
 * [Lee Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Ross.jpg)
+* [Lee Roy Reams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Roy%20Reams.jpg)
 * [Lee Sang-hee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Sang-hee.jpg)
 * [Lee Strasberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Strasberg.jpg)
 * [Lee Tamahori](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lee%20Tamahori.jpg)

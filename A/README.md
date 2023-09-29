@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (638 Images)
+# Plex Meta Manager People - Signature (signature) - A (640 Images)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -371,6 +371,7 @@
 * [Andrew Bujalski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrew%20Bujalski.jpg)
 * [Andrew Byron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrew%20Byron.jpg)
 * [Andrew Davies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrew%20Davies.jpg)
+* [Andrew Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrew%20Davis.jpg)
 * [Andrew Divoff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrew%20Divoff.jpg)
 * [Andrew Garfield](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrew%20Garfield.jpg)
 * [Andrew Havill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrew%20Havill.jpg)
@@ -629,6 +630,7 @@
 * [Ava Russo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ava%20Russo.jpg)
 * [Avery Brooks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Avery%20Brooks.jpg)
 * [Avi Arad](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Avi%20Arad.jpg)
+* [Avi Lerner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Avi%20Lerner.jpg)
 * [Awkwafina](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Awkwafina.jpg)
 * [Aya Cash](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aya%20Cash.jpg)
 * [Ayesha Dharker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ayesha%20Dharker.jpg)

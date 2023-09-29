@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (310 Images)
+# Plex Meta Manager People - Signature (signature) - P (313 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
@@ -230,6 +230,8 @@
 * [Peter Schneider](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Schneider.jpg)
 * [Peter Segal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Segal.jpg)
 * [Peter Serafinowicz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Serafinowicz.jpg)
+* [Peter Shin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Shin.jpg)
+* [Peter Shinkoda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Shinkoda.jpg)
 * [Peter Sohn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Sohn.jpg)
 * [Peter Stormare](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Stormare.jpg)
 * [Peter Ustinov](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Peter%20Ustinov.jpg)
@@ -276,6 +278,7 @@
 * [Pier Paolo Pasolini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pier%20Paolo%20Pasolini.jpg)
 * [Pierce Brosnan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pierce%20Brosnan.jpg)
 * [Pierfrancesco Favino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pierfrancesco%20Favino.jpg)
+* [Pierre Coffin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pierre%20Coffin.jpg)
 * [Pierre Even](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pierre%20Even.jpg)
 * [Pierre Tchernia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pierre%20Tchernia.jpg)
 * [Piers Morgan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Piers%20Morgan.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (174 Images)
+# Plex Meta Manager People - Signature (signature) - H (176 Images)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
 * [Haaz Sleiman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haaz%20Sleiman.jpg)
@@ -150,6 +150,7 @@
 * [Horatio Sanz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Horatio%20Sanz.jpg)
 * [Horst Buchholz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Horst%20Buchholz.jpg)
 * [Hovik Keuchkerian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hovik%20Keuchkerian.jpg)
+* [Howard Deutch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20Deutch.jpg)
 * [Howard G. Kazanjian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20G.%20Kazanjian.jpg)
 * [Howard Hawks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20Hawks.jpg)
 * [Howard Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20Ross.jpg)
@@ -170,6 +171,7 @@
 * [Hugo Silva](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hugo%20Silva.jpg)
 * [Hugo Weaving](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hugo%20Weaving.jpg)
 * [Humphrey Bogart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Humphrey%20Bogart.jpg)
+* [Hunter King](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hunter%20King.jpg)
 * [Hunter Schafer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hunter%20Schafer.jpg)
 * [Hutch Parker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hutch%20Parker.jpg)
 * [Hwang Jung-min](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hwang%20Jung-min.jpg)

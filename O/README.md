@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - O (75 Images)
+# Plex Meta Manager People - Signature (signature) - O (76 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O.T. Fagbenle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O.T.%20Fagbenle.jpg)
@@ -36,6 +36,7 @@
 * [Olivia Thirlby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olivia%20Thirlby.jpg)
 * [Olivia Wilde](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olivia%20Wilde.jpg)
 * [Olivia Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olivia%20Williams.jpg)
+* [Olivier Megaton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olivier%20Megaton.jpg)
 * [Olivier Nakache](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olivier%20Nakache.jpg)
 * [Olivier Richters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olivier%20Richters.jpg)
 * [Olympia Dukakis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Olympia%20Dukakis.jpg)

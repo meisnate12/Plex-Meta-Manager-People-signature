@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (148 Images)
+# Plex Meta Manager People - Signature (signature) - F (150 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -95,6 +95,7 @@
 * [Frank Adonis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Adonis.jpg)
 * [Frank C. Turner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20C.%20Turner.jpg)
 * [Frank Capra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Capra.jpg)
+* [Frank Coraci](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Coraci.jpg)
 * [Frank Darabont](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Darabont.jpg)
 * [Frank DiLeo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20DiLeo.jpg)
 * [Frank Dillane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Dillane.jpg)
@@ -135,6 +136,7 @@
 * [Fred Tatasciore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Tatasciore.jpg)
 * [Fred Ward](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Ward.jpg)
 * [Fred Willard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Willard.jpg)
+* [Fred Wolf](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Wolf.jpg)
 * [Fred Zinnemann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Zinnemann.jpg)
 * [Freda Foh Shen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Freda%20Foh%20Shen.jpg)
 * [Freddie Francis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Freddie%20Francis.jpg)
