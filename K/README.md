@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (341 Images)
+# Plex Meta Manager People - Signature (signature) - K (342 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K.J.%20Apa.jpg)
@@ -91,6 +91,7 @@
 * [Kathy Baker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kathy%20Baker.jpg)
 * [Kathy Bates](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kathy%20Bates.jpg)
 * [Katia Winter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katia%20Winter.jpg)
+* [Katie Aselton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katie%20Aselton.jpg)
 * [Katie Cassidy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katie%20Cassidy.jpg)
 * [Katie Douglas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katie%20Douglas.jpg)
 * [Katie Featherston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katie%20Featherston.jpg)

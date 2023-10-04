@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (288 Images)
+# Plex Meta Manager People - Signature (signature) - E (289 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -224,6 +224,7 @@
 * [Erik Knudsen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erik%20Knudsen.jpg)
 * [Erik Per Sullivan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erik%20Per%20Sullivan.jpg)
 * [Erika Coleman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erika%20Coleman.jpg)
+* [Erika Eleniak](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erika%20Eleniak.jpg)
 * [Erika Prevost](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erika%20Prevost.jpg)
 * [Erika von Tagen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erika%20von%20Tagen.jpg)
 * [Erin Cahill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erin%20Cahill.jpg)

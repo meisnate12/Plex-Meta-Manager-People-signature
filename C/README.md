@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (525 Images)
+# Plex Meta Manager People - Signature (signature) - C (527 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
@@ -24,6 +24,7 @@
 * [Cameron Monaghan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cameron%20Monaghan.jpg)
 * [Cameron Seely](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cameron%20Seely.jpg)
 * [Camila Mendes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Camila%20Mendes.jpg)
+* [Camilla Belle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Camilla%20Belle.jpg)
 * [Camille Cottin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Camille%20Cottin.jpg)
 * [Camille Guaty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Camille%20Guaty.jpg)
 * [Camille Kostek](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Camille%20Kostek.jpg)
@@ -164,6 +165,7 @@
 * [Charles Roven](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Roven.jpg)
 * [Charles S. Dutton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20S.%20Dutton.jpg)
 * [Charles Scorsese](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Scorsese.jpg)
+* [Charlie Adler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Adler.jpg)
 * [Charlie Brooker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Brooker.jpg)
 * [Charlie Brooks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Brooks.jpg)
 * [Charlie Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Cameron.jpg)

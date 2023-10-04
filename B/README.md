@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (419 Images)
+# Plex Meta Manager People - Signature (signature) - B (420 Images)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/BD%20Wong.jpg)
@@ -338,6 +338,7 @@
 * [Brian Trenchard-Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brian%20Trenchard-Smith.jpg)
 * [Brian Tyree Henry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brian%20Tyree%20Henry.jpg)
 * [Brian Yuzna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brian%20Yuzna.jpg)
+* [Brianna Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brianna%20Brown.jpg)
 * [Brianna Hildebrand](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brianna%20Hildebrand.jpg)
 * [Brianne Howey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brianne%20Howey.jpg)
 * [Brianne Tju](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brianne%20Tju.jpg)

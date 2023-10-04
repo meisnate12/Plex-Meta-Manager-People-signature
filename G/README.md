@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (273 Images)
+# Plex Meta Manager People - Signature (signature) - G (274 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -29,6 +29,7 @@
 * [Garrett Hedlund](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Garrett%20Hedlund.jpg)
 * [Garrett Morris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Garrett%20Morris.jpg)
 * [Garrett O'Brien](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Garrett%20O%27Brien.jpg)
+* [Garrick Hagon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Garrick%20Hagon.jpg)
 * [Garry Chalk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Garry%20Chalk.jpg)
 * [Garry Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Garry%20Marshall.jpg)
 * [Garry Owen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Garry%20Owen.jpg)

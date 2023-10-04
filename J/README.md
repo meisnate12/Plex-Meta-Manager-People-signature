@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1003 Images)
+# Plex Meta Manager People - Signature (signature) - J (1004 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -207,6 +207,7 @@
 * [Janell Shirtcliff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Janell%20Shirtcliff.jpg)
 * [Janelle Monáe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Janelle%20Mon%C3%A1e.jpg)
 * [Janeshia Adams-Ginyard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Janeshia%20Adams-Ginyard.jpg)
+* [Janet Healy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Janet%20Healy.jpg)
 * [Janet McTeer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Janet%20McTeer.jpg)
 * [Jang Young-hwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jang%20Young-hwan.jpg)
 * [Janina Elkin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Janina%20Elkin.jpg)

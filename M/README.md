@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (710 Images)
+# Plex Meta Manager People - Signature (signature) - M (711 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -132,6 +132,7 @@
 * [Marianna Hill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marianna%20Hill.jpg)
 * [Marianne Muellerleile](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marianne%20Muellerleile.jpg)
 * [Marianne Wibberley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marianne%20Wibberley.jpg)
+* [Maribel Verdú](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maribel%20Verd%C3%BA.jpg)
 * [Marie Avgeropoulos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marie%20Avgeropoulos.jpg)
 * [Marie Mouroum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marie%20Mouroum.jpg)
 * [Marie Wagenman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marie%20Wagenman.jpg)
