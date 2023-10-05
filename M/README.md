@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (711 Images)
+# Plex Meta Manager People - Signature (signature) - M (712 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -64,6 +64,7 @@
 * [Malin Åkerman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Malin%20%C3%85kerman.jpg)
 * [Malou Pantera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Malou%20Pantera.jpg)
 * [Maluma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maluma.jpg)
+* [Mamoru Hosoda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mamoru%20Hosoda.jpg)
 * [Mandeiya Flory](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mandeiya%20Flory.jpg)
 * [Mandy Moore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mandy%20Moore.jpg)
 * [Mandy Patinkin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mandy%20Patinkin.jpg)

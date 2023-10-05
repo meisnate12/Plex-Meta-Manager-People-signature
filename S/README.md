@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (547 Images)
+# Plex Meta Manager People - Signature (signature) - S (548 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -436,6 +436,7 @@
 * [Stephen Tompkinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Tompkinson.jpg)
 * [Stephen Ure](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Ure.jpg)
 * [Sterling Hayden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sterling%20Hayden.jpg)
+* [Sterling Holloway](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sterling%20Holloway.jpg)
 * [Sterling K. Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sterling%20K.%20Brown.jpg)
 * [Steve Agee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Steve%20Agee.jpg)
 * [Steve Barnett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Steve%20Barnett.jpg)
