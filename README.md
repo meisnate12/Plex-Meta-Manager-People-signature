@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (7903 Images)
+# Plex Meta Manager People - Signature (signature) (7904 Images)
 
 <details><summary><a href="A">A (640 Images)</a></summary>
 
@@ -3144,7 +3144,7 @@
 * [Izaac Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izaac%20Wang.jpg)
 * [Izabella Scorupco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izabella%20Scorupco.jpg)
 </details>
-<details><summary><a href="J">J (1004 Images)</a></summary>
+<details><summary><a href="J">J (1005 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -3183,6 +3183,7 @@
 * [Jack Huston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Huston.jpg)
 * [Jack Kehler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Kehler.jpg)
 * [Jack Kesy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Kesy.jpg)
+* [Jack Kinney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Kinney.jpg)
 * [Jack Kirby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Kirby.jpg)
 * [Jack Klaff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Klaff.jpg)
 * [Jack Lemmon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jack%20Lemmon.jpg)
