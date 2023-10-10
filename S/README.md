@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (548 Images)
+# Plex Meta Manager People - Signature (signature) - S (550 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -247,6 +247,7 @@
 * [Shaun Benson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shaun%20Benson.jpg)
 * [Shaun McKee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shaun%20McKee.jpg)
 * [Shaun Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shaun%20Scott.jpg)
+* [Shaun Sipos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shaun%20Sipos.jpg)
 * [Shaun Toub](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shaun%20Toub.jpg)
 * [Shauna Robertson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shauna%20Robertson.jpg)
 * [Shawn Ashmore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shawn%20Ashmore.jpg)
@@ -509,6 +510,7 @@
 * [Sullivan Stapleton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sullivan%20Stapleton.jpg)
 * [Sung Kang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sung%20Kang.jpg)
 * [Sunita Mani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sunita%20Mani.jpg)
+* [Sunshine Sammy Morrison](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sunshine%20Sammy%20Morrison.jpg)
 * [Supriya Shukla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Supriya%20Shukla.jpg)
 * [Suraj Sharma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Suraj%20Sharma.jpg)
 * [Suranne Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Suranne%20Jones.jpg)

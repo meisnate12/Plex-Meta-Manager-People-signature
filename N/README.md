@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (215 Images)
+# Plex Meta Manager People - Signature (signature) - N (217 Images)
 
 * [Na Hong-jin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Na%20Hong-jin.jpg)
 * [Nabhaan Rizwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nabhaan%20Rizwan.jpg)
@@ -146,6 +146,7 @@
 * [Nicolas de Pruyssenaere](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicolas%20de%20Pruyssenaere.jpg)
 * [Nicole Apelian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Apelian.jpg)
 * [Nicole Ari Parker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Ari%20Parker.jpg)
+* [Nicole Kang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Kang.jpg)
 * [Nicole Kidman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Kidman.jpg)
 * [Nicole LaPlaca](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20LaPlaca.jpg)
 * [Nicole Perlman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Perlman.jpg)
@@ -153,6 +154,7 @@
 * [Nicoletta Braschi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicoletta%20Braschi.jpg)
 * [Niecy Nash](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Niecy%20Nash.jpg)
 * [Nieves Navarro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nieves%20Navarro.jpg)
+* [Nigel Bruce](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nigel%20Bruce.jpg)
 * [Nigel Hawthorne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nigel%20Hawthorne.jpg)
 * [Nijiro Murakami](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nijiro%20Murakami.jpg)
 * [Nika King](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nika%20King.jpg)

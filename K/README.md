@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (343 Images)
+# Plex Meta Manager People - Signature (signature) - K (345 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K.J.%20Apa.jpg)
@@ -256,6 +256,7 @@
 * [Kim Joo-ryoung](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Joo-ryoung.jpg)
 * [Kim Kee-duk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Kee-duk.jpg)
 * [Kim Ki-duk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Ki-duk.jpg)
+* [Kim Raver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Raver.jpg)
 * [Kim Richards](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Richards.jpg)
 * [Kim Staunton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Staunton.jpg)
 * [Kim Young-ok](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Young-ok.jpg)
@@ -280,6 +281,7 @@
 * [Kirk Geiger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirk%20Geiger.jpg)
 * [Kirk Ward](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirk%20Ward.jpg)
 * [Kirk Wise](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirk%20Wise.jpg)
+* [Kirsten Cooke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirsten%20Cooke.jpg)
 * [Kirsten Dunst](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirsten%20Dunst.jpg)
 * [Kirstie Alley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirstie%20Alley.jpg)
 * [Kirsty Mitchell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kirsty%20Mitchell.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (506 Images)
+# Plex Meta Manager People - Signature (signature) - R (507 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -369,6 +369,7 @@
 * [Roger Craig Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Craig%20Smith.jpg)
 * [Roger Cross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Cross.jpg)
 * [Roger Deakins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Deakins.jpg)
+* [Roger Kumble](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Kumble.jpg)
 * [Roger Moore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Moore.jpg)
 * [Roger S.H. Schulman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20S.H.%20Schulman.jpg)
 * [Roger Spottiswoode](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Spottiswoode.jpg)
