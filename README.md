@@ -4786,7 +4786,7 @@
 * [Lorene Scafaria](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorene%20Scafaria.jpg)
 * [Lorenzo Bianchini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorenzo%20Bianchini.jpg)
 * [Lorenzo Caccialanza](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorenzo%20Caccialanza.jpg)
-* [Lorenzo ddi Bonaventura](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorenzo%20ddi%20Bonaventura.jpg)
+* [Lorenzo di Bonaventura](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lorenzo%20di%20Bonaventura.jpg)
 * [Loretta Devine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Loretta%20Devine.jpg)
 * [Lori Alan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lori%20Alan.jpg)
 * [Lori Forte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lori%20Forte.jpg)
