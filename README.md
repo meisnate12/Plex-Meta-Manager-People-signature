@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (7960 Images)
+# Plex Meta Manager People - Signature (signature) (7961 Images)
 
 <details><summary><a href="A">A (647 Images)</a></summary>
 
@@ -4189,7 +4189,7 @@
 * [Jördis Triebel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C3%B6rdis%20Triebel.jpg)
 * [Jürgen Prochnow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C3%BCrgen%20Prochnow.jpg)
 </details>
-<details><summary><a href="K">K (345 Images)</a></summary>
+<details><summary><a href="K">K (346 Images)</a></summary>
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K.J.%20Apa.jpg)
@@ -4254,6 +4254,7 @@
 * [Kate Miner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20Miner.jpg)
 * [Kate O'Mara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20O%27Mara.jpg)
 * [Kate Phillips](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20Phillips.jpg)
+* [Kate Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20Walsh.jpg)
 * [Kate Winslet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20Winslet.jpg)
 * [Kate del Castillo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20del%20Castillo.jpg)
 * [Katee Sackhoff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katee%20Sackhoff.jpg)
