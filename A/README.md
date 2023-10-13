@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (646 Images)
+# Plex Meta Manager People - Signature (signature) - A (647 Images)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Beelner.jpg)
@@ -316,6 +316,7 @@
 * [Amaury Nolasco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amaury%20Nolasco.jpg)
 * [Amber Heard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amber%20Heard.jpg)
 * [Amber Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amber%20Smith.jpg)
+* [Amber Stevens West](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amber%20Stevens%20West.jpg)
 * [Amber Tamblyn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amber%20Tamblyn.jpg)
 * [Ameenah Kaplan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ameenah%20Kaplan.jpg)
 * [Amelia Bullmore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amelia%20Bullmore.jpg)

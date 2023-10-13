@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1012 Images)
+# Plex Meta Manager People - Signature (signature) - J (1013 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -148,7 +148,7 @@
 * [James Newton Howard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Newton%20Howard.jpg)
 * [James Norton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Norton.jpg)
 * [James Parks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Parks.jpg)
-* [James Parrot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Parrot.jpg)
+* [James Parrott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Parrott.jpg)
 * [James Patrick Pitt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Patrick%20Pitt.jpg)
 * [James Payton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Payton.jpg)
 * [James Phelps](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Phelps.jpg)
@@ -547,6 +547,7 @@
 * [Joaquin Phoenix](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joaquin%20Phoenix.jpg)
 * [Joaquín Cosío](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joaqu%C3%ADn%20Cos%C3%ADo.jpg)
 * [Joaquín Martínez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joaqu%C3%ADn%20Mart%C3%ADnez.jpg)
+* [Jodelle Ferland](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jodelle%20Ferland.jpg)
 * [Jodi Benson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jodi%20Benson.jpg)
 * [Jodi Lyn O'Keefe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jodi%20Lyn%20O%27Keefe.jpg)
 * [Jodie Comer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jodie%20Comer.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (293 Images)
+# Plex Meta Manager People - Signature (signature) - E (294 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -146,6 +146,7 @@
 * [Emily Blunt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Blunt.jpg)
 * [Emily Browning](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Browning.jpg)
 * [Emily Coutts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Coutts.jpg)
+* [Emily Deschanel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Deschanel.jpg)
 * [Emily Haine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Haine.jpg)
 * [Emily Hampshire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Hampshire.jpg)
 * [Emily Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Jones.jpg)
