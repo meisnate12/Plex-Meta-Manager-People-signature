@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (7961 Images)
+# Plex Meta Manager People - Signature (signature) (7962 Images)
 
 <details><summary><a href="A">A (647 Images)</a></summary>
 
@@ -4884,7 +4884,7 @@
 * [Léa Seydoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%A9a%20Seydoux.jpg)
 * [Lúcio Andrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%BAcio%20Andrey.jpg)
 </details>
-<details><summary><a href="M">M (718 Images)</a></summary>
+<details><summary><a href="M">M (719 Images)</a></summary>
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -5186,6 +5186,7 @@
 * [Matt Berry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Berry.jpg)
 * [Matt Besser](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Besser.jpg)
 * [Matt Bettinelli-Olpin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Bettinelli-Olpin.jpg)
+* [Matt Bomer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Bomer.jpg)
 * [Matt Braunger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Braunger.jpg)
 * [Matt Clark](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Clark.jpg)
 * [Matt Damon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Damon.jpg)
