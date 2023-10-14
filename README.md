@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (7962 Images)
+# Plex Meta Manager People - Signature (signature) (7963 Images)
 
 <details><summary><a href="A">A (647 Images)</a></summary>
 
@@ -6232,7 +6232,7 @@
 * [Quinn Duffy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quinn%20Duffy.jpg)
 * [Quinton Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quinton%20Jackson.jpg)
 </details>
-<details><summary><a href="R">R (507 Images)</a></summary>
+<details><summary><a href="R">R (508 Images)</a></summary>
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -6669,6 +6669,7 @@
 * [Ross Noble](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Noble.jpg)
 * [Rossella Falk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rossella%20Falk.jpg)
 * [Rowan Atkinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rowan%20Atkinson.jpg)
+* [Rowan Blanchard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rowan%20Blanchard.jpg)
 * [Rowan Joffe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rowan%20Joffe.jpg)
 * [Roy Beck](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roy%20Beck.jpg)
 * [Roy Chiao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roy%20Chiao.jpg)
