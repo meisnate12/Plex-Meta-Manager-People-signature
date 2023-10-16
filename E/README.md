@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (294 Images)
+# Plex Meta Manager People - Signature (signature) - E (296 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -62,6 +62,7 @@
 * [Ehren Kruger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ehren%20Kruger.jpg)
 * [Eion Bailey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eion%20Bailey.jpg)
 * [Eiza González](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eiza%20Gonz%C3%A1lez.jpg)
+* [Ekta Kapoor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ekta%20Kapoor.jpg)
 * [Elaine Goldsmith-Thomas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elaine%20Goldsmith-Thomas.jpg)
 * [Elden Henson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elden%20Henson.jpg)
 * [Eleanor Columbus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eleanor%20Columbus.jpg)
@@ -128,6 +129,7 @@
 * [Elvis Presley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elvis%20Presley.jpg)
 * [Ely Galleani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ely%20Galleani.jpg)
 * [Ema Horvath](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ema%20Horvath.jpg)
+* [Eman Esfandi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eman%20Esfandi.jpg)
 * [Embeth Davidtz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Embeth%20Davidtz.jpg)
 * [Emelina Adams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emelina%20Adams.jpg)
 * [Emerald Fennell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emerald%20Fennell.jpg)

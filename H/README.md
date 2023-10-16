@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (180 Images)
+# Plex Meta Manager People - Signature (signature) - H (181 Images)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
 * [H.M. Walker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.M.%20Walker.jpg)
@@ -120,6 +120,7 @@
 * [Henry Winkler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Henry%20Winkler.jpg)
 * [Henry Zaga](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Henry%20Zaga.jpg)
 * [Heo Sung-tae](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Heo%20Sung-tae.jpg)
+* [Hera Hilmar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hera%20Hilmar.jpg)
 * [Herbert Lom](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Herbert%20Lom.jpg)
 * [Herbert Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Herbert%20Ross.jpg)
 * [Herbert Siguenza](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Herbert%20Siguenza.jpg)
