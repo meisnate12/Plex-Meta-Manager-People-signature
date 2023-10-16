@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (550 Images)
+# Plex Meta Manager People - Signature (signature) - D (551 Images)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.R.%20Nanayakkara.jpg)
@@ -57,6 +57,7 @@
 * [Dana Brunetti](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dana%20Brunetti.jpg)
 * [Dana Carvey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dana%20Carvey.jpg)
 * [Dana Fox](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dana%20Fox.jpg)
+* [Dana Gaier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dana%20Gaier.jpg)
 * [Dana Goldberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dana%20Goldberg.jpg)
 * [Dana Gourrier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dana%20Gourrier.jpg)
 * [Dana Ivey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dana%20Ivey.jpg)
