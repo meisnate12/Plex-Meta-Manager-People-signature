@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (730 Images)
+# Plex Meta Manager People - Signature (signature) - M (731 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -95,6 +95,7 @@
 * [Marc Rissmann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marc%20Rissmann.jpg)
 * [Marc Webb](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marc%20Webb.jpg)
 * [Marc Worden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marc%20Worden.jpg)
+* [Marcellite Garner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marcellite%20Garner.jpg)
 * [Marcello Mastroianni](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marcello%20Mastroianni.jpg)
 * [Marcello Melo Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marcello%20Melo%20Jr..jpg)
 * [Marcia Gay Harden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marcia%20Gay%20Harden.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (345 Images)
+# Plex Meta Manager People - Signature (signature) - L (346 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
@@ -167,6 +167,7 @@
 * [Li Jing](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Li%20Jing.jpg)
 * [Lia McHugh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lia%20McHugh.jpg)
 * [Liam Cunningham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liam%20Cunningham.jpg)
+* [Liam Garrigan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liam%20Garrigan.jpg)
 * [Liam Hemsworth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liam%20Hemsworth.jpg)
 * [Liam Hughes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liam%20Hughes.jpg)
 * [Liam MacDonald](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liam%20MacDonald.jpg)

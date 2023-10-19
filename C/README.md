@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (532 Images)
+# Plex Meta Manager People - Signature (signature) - C (533 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
@@ -59,6 +59,7 @@
 * [Carlos Guerrero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Guerrero.jpg)
 * [Carlos López Estrada](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20L%C3%B3pez%20Estrada.jpg)
 * [Carlos Navarro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Navarro.jpg)
+* [Carlos Reygadas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Reygadas.jpg)
 * [Carlos Saldanha](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Saldanha.jpg)
 * [Carlos Suárez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Su%C3%A1rez.jpg)
 * [Carmel Laniado](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carmel%20Laniado.jpg)

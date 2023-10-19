@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (317 Images)
+# Plex Meta Manager People - Signature (signature) - P (318 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
@@ -289,6 +289,7 @@
 * [Pilar Savone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pilar%20Savone.jpg)
 * [Pilou Asbæk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pilou%20Asb%C3%A6k.jpg)
 * [Pinar Toprak](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pinar%20Toprak.jpg)
+* [Pinto Colvig](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pinto%20Colvig.jpg)
 * [Piotr Adamczyk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Piotr%20Adamczyk.jpg)
 * [Piotr Michael](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Piotr%20Michael.jpg)
 * [Pip Carter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pip%20Carter.jpg)
