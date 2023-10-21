@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (224 Images)
+# Plex Meta Manager People - Signature (signature) - N (225 Images)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
 * [Na Hong-jin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Na%20Hong-jin.jpg)
@@ -200,6 +200,7 @@
 * [Nobu Matsuhisa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nobu%20Matsuhisa.jpg)
 * [Nobuaki Shimamoto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nobuaki%20Shimamoto.jpg)
 * [Noel Fisher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noel%20Fisher.jpg)
+* [Noel Gugliemi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noel%20Gugliemi.jpg)
 * [Nona Gaye](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nona%20Gaye.jpg)
 * [Nonso Anozie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nonso%20Anozie.jpg)
 * [Noomi Rapace](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noomi%20Rapace.jpg)
