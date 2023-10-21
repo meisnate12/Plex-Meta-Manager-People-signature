@@ -1,5 +1,6 @@
-# Plex Meta Manager People - Signature (signature) - W (146 Images)
+# Plex Meta Manager People - Signature (signature) - W (147 Images)
 
+* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/%21_Images_grid.jpg)
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Earl%20Brown.jpg)
 * [W. Kamau Bell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Kamau%20Bell.jpg)
