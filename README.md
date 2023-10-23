@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8127 Images)
+# Plex Meta Manager People - Signature (signature) (8128 Images)
 
 <details><summary><a href="A">A (669 Images)</a></summary>
 
@@ -6343,7 +6343,7 @@
 * [Quinn Duffy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quinn%20Duffy.jpg)
 * [Quinton Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quinton%20Jackson.jpg)
 </details>
-<details><summary><a href="R">R (521 Images)</a></summary>
+<details><summary><a href="R">R (522 Images)</a></summary>
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/%21_Images_grid.jpg)
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -6679,6 +6679,7 @@
 * [Robert Stevenson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Stevenson.jpg)
 * [Robert Tapert](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Tapert.jpg)
 * [Robert Tinsley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Tinsley.jpg)
+* [Robert Towne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Towne.jpg)
 * [Robert Wade](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Wade.jpg)
 * [Robert Wagner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Wagner.jpg)
 * [Robert Wahlberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Wahlberg.jpg)
