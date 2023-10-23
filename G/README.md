@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (284 Images)
+# Plex Meta Manager People - Signature (signature) - G (285 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -88,6 +88,7 @@
 * [Geoffrey Keen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Geoffrey%20Keen.jpg)
 * [Geoffrey Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Geoffrey%20Lewis.jpg)
 * [Geoffrey Rush](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Geoffrey%20Rush.jpg)
+* [Geoffrey Whitehead](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Geoffrey%20Whitehead.jpg)
 * [George A. Romero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20A.%20Romero.jpg)
 * [George Baker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Baker.jpg)
 * [George C. Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20C.%20Scott.jpg)

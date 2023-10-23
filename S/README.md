@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (563 Images)
+# Plex Meta Manager People - Signature (signature) - S (564 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -99,6 +99,7 @@
 * [Sarah Hyland](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Hyland.jpg)
 * [Sarah Jane Seymour](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Jane%20Seymour.jpg)
 * [Sarah Jessica Parker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Jessica%20Parker.jpg)
+* [Sarah Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Jones.jpg)
 * [Sarah Lancashire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Lancashire.jpg)
 * [Sarah Lo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Lo.jpg)
 * [Sarah Malin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Malin.jpg)
