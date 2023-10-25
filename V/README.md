@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - V (103 Images)
+# Plex Meta Manager People - Signature (signature) - V (104 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/%21_Images_grid.jpg)
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
@@ -15,6 +15,7 @@
 * [Vanessa Hudgens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Hudgens.jpg)
 * [Vanessa Kirby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Kirby.jpg)
 * [Vanessa Lengies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Lengies.jpg)
+* [Vanessa Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Marshall.jpg)
 * [Vanessa Morgan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Morgan.jpg)
 * [Vanessa Redgrave](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Redgrave.jpg)
 * [Vanessa Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vanessa%20Ross.jpg)

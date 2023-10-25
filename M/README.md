@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (732 Images)
+# Plex Meta Manager People - Signature (signature) - M (733 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -165,6 +165,7 @@
 * [Mario Scaccia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mario%20Scaccia.jpg)
 * [Mario de la Rosa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mario%20de%20la%20Rosa.jpg)
 * [Marion Cotillard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marion%20Cotillard.jpg)
+* [Marion Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marion%20Ross.jpg)
 * [Marisa Mell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marisa%20Mell.jpg)
 * [Marisa Paredes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marisa%20Paredes.jpg)
 * [Marisa Román](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marisa%20Rom%C3%A1n.jpg)

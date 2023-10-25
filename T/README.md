@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (391 Images)
+# Plex Meta Manager People - Signature (signature) - T (394 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -244,6 +244,8 @@
 * [Tom Cullen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Cullen.jpg)
 * [Tom DeFalco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20DeFalco.jpg)
 * [Tom Ellis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Ellis.jpg)
+* [Tom Everett Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Everett%20Scott.jpg)
+* [Tom Everett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Everett.jpg)
 * [Tom Felton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Felton.jpg)
 * [Tom Gleeson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Gleeson.jpg)
 * [Tom Goodman-Hill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Goodman-Hill.jpg)
@@ -270,6 +272,7 @@
 * [Tom Morello](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Morello.jpg)
 * [Tom Nolan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Nolan.jpg)
 * [Tom Noonan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Noonan.jpg)
+* [Tom O'Brien](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20O%27Brien.jpg)
 * [Tom O'Connor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20O%27Connor.jpg)
 * [Tom Papa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Papa.jpg)
 * [Tom Pevsner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tom%20Pevsner.jpg)

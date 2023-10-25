@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (147 Images)
+# Plex Meta Manager People - Signature (signature) - W (149 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/%21_Images_grid.jpg)
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -14,6 +14,8 @@
 * [Walt Becker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Walt%20Becker.jpg)
 * [Walt Disney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Walt%20Disney.jpg)
 * [Walt Dohrn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Walt%20Dohrn.jpg)
+* [Walt Flanagan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Walt%20Flanagan.jpg)
+* [Walter Brooke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Walter%20Brooke.jpg)
 * [Walter F. Parkes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Walter%20F.%20Parkes.jpg)
 * [Walter Gotell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Walter%20Gotell.jpg)
 * [Walter Hill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Walter%20Hill.jpg)
