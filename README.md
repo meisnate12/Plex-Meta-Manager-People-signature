@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8141 Images)
+# Plex Meta Manager People - Signature (signature) (8143 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -4621,7 +4621,7 @@
 * [Kym Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kym%20Miller.jpg)
 * [Kyra Sedgwick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kyra%20Sedgwick.jpg)
 </details>
-<details><summary><a href="L">L (347 Images)</a></summary>
+<details><summary><a href="L">L (348 Images)</a></summary>
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -4905,6 +4905,7 @@
 * [Louis Malle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Malle.jpg)
 * [Louis Mandylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Mandylor.jpg)
 * [Louis Vanaria](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20Vanaria.jpg)
+* [Louis de Funès](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louis%20de%20Fun%C3%A8s.jpg)
 * [Louisa May Alcott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louisa%20May%20Alcott.jpg)
 * [Louise Lombard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Louise%20Lombard.jpg)
 * [Lowell Cunningham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lowell%20Cunningham.jpg)
@@ -6018,7 +6019,7 @@
 * [Owen Teale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Owen%20Teale.jpg)
 * [Owen Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Owen%20Wilson.jpg)
 </details>
-<details><summary><a href="P">P (319 Images)</a></summary>
+<details><summary><a href="P">P (320 Images)</a></summary>
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/%21_Images_grid.jpg)
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
@@ -6291,6 +6292,7 @@
 * [Philip Winchester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philip%20Winchester.jpg)
 * [Philippa Boyens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philippa%20Boyens.jpg)
 * [Philippe Carcassonne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philippe%20Carcassonne.jpg)
+* [Philippe Lacheau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philippe%20Lacheau.jpg)
 * [Philippe Nahon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philippe%20Nahon.jpg)
 * [Philippe Rousselet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philippe%20Rousselet.jpg)
 * [Phill Jupitus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phill%20Jupitus.jpg)
