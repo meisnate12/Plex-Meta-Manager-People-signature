@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (394 Images)
+# Plex Meta Manager People - Signature (signature) - T (396 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -52,6 +52,7 @@
 * [Tawny Newsome](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tawny%20Newsome.jpg)
 * [Taye Diggs](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taye%20Diggs.jpg)
 * [Taylor Cole](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Cole.jpg)
+* [Taylor Hackford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Hackford.jpg)
 * [Taylor Hickson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Hickson.jpg)
 * [Taylor James](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20James.jpg)
 * [Taylor John Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20John%20Smith.jpg)
@@ -388,6 +389,7 @@
 * [Tyler Hilton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tyler%20Hilton.jpg)
 * [Tyler Hynes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tyler%20Hynes.jpg)
 * [Tyler James Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tyler%20James%20Williams.jpg)
+* [Tyler Labine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tyler%20Labine.jpg)
 * [Tyler Perry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tyler%20Perry.jpg)
 * [Tyra Banks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tyra%20Banks.jpg)
 * [Tyrese Gibson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tyrese%20Gibson.jpg)

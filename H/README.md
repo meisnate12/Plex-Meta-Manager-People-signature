@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (182 Images)
+# Plex Meta Manager People - Signature (signature) - H (183 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/%21_Images_grid.jpg)
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -159,6 +159,7 @@
 * [Howard Deutch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20Deutch.jpg)
 * [Howard G. Kazanjian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20G.%20Kazanjian.jpg)
 * [Howard Hawks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20Hawks.jpg)
+* [Howard Morris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20Morris.jpg)
 * [Howard Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20Ross.jpg)
 * [Howard Shore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20Shore.jpg)
 * [Howard Stern](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Howard%20Stern.jpg)

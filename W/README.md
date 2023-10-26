@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (149 Images)
+# Plex Meta Manager People - Signature (signature) - W (150 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/%21_Images_grid.jpg)
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -58,6 +58,7 @@
 * [Whoopi Goldberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Whoopi%20Goldberg.jpg)
 * [Wi Ha-jun](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wi%20Ha-jun.jpg)
 * [Wil Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wil%20Anderson.jpg)
+* [Wil Wheaton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wil%20Wheaton.jpg)
 * [Wilf Scolding](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wilf%20Scolding.jpg)
 * [Wilfred Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wilfred%20Jackson.jpg)
 * [Wilhelm von Homburg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wilhelm%20von%20Homburg.jpg)

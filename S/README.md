@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (564 Images)
+# Plex Meta Manager People - Signature (signature) - S (566 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -90,6 +90,7 @@
 * [Sara Waisglass](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sara%20Waisglass.jpg)
 * [Sarafina King](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarafina%20King.jpg)
 * [Sarah Bolger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Bolger.jpg)
+* [Sarah Burns](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Burns.jpg)
 * [Sarah Crowden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Crowden.jpg)
 * [Sarah Dumont](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Dumont.jpg)
 * [Sarah Gadon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Gadon.jpg)
@@ -449,6 +450,7 @@
 * [Sterling K. Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sterling%20K.%20Brown.jpg)
 * [Steve Agee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Steve%20Agee.jpg)
 * [Steve Barnett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Steve%20Barnett.jpg)
+* [Steve Blum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Steve%20Blum.jpg)
 * [Steve Buscemi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Steve%20Buscemi.jpg)
 * [Steve Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Steve%20Byrne.jpg)
 * [Steve Carell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Steve%20Carell.jpg)

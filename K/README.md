@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (355 Images)
+# Plex Meta Manager People - Signature (signature) - K (356 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -186,6 +186,7 @@
 * [Kenneth Welsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenneth%20Welsh.jpg)
 * [Kenny Baker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenny%20Baker.jpg)
 * [Kenny Everett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenny%20Everett.jpg)
+* [Kenny Ortega](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenny%20Ortega.jpg)
 * [Kenny Sebastian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenny%20Sebastian.jpg)
 * [Kent Faulcon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kent%20Faulcon.jpg)
 * [Kenta Fukasaku](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenta%20Fukasaku.jpg)

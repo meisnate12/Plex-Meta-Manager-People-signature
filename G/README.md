@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (285 Images)
+# Plex Meta Manager People - Signature (signature) - G (286 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -58,6 +58,7 @@
 * [Gary Weeks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gary%20Weeks.jpg)
 * [Gaspar Noé](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gaspar%20No%C3%A9.jpg)
 * [Gaspard Ulliel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gaspard%20Ulliel.jpg)
+* [Gaston Morrison](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gaston%20Morrison.jpg)
 * [Gastone Moschin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gastone%20Moschin.jpg)
 * [Gaten Matarazzo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gaten%20Matarazzo.jpg)
 * [Gavin Esler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gavin%20Esler.jpg)
