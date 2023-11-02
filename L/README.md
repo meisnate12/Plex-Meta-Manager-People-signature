@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (351 Images)
+# Plex Meta Manager People - Signature (signature) - L (352 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -127,6 +127,7 @@
 * [Lenny Jacobson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lenny%20Jacobson.jpg)
 * [Lenny Kravitz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lenny%20Kravitz.jpg)
 * [Lenny Montana](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lenny%20Montana.jpg)
+* [Lenora Crichlow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lenora%20Crichlow.jpg)
 * [Leo Bill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Leo%20Bill.jpg)
 * [Leo Heller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Leo%20Heller.jpg)
 * [Leo Stransky](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Leo%20Stransky.jpg)

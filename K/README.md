@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (356 Images)
+# Plex Meta Manager People - Signature (signature) - K (357 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -336,6 +336,7 @@
 * [Kunal Nayyar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kunal%20Nayyar.jpg)
 * [Kunichi Nomura](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kunichi%20Nomura.jpg)
 * [Kurt Braunohler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kurt%20Braunohler.jpg)
+* [Kurt David Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kurt%20David%20Anderson.jpg)
 * [Kurt Fuller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kurt%20Fuller.jpg)
 * [Kurt Russell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kurt%20Russell.jpg)
 * [Kurt Wimmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kurt%20Wimmer.jpg)

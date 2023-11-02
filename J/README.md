@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1032 Images)
+# Plex Meta Manager People - Signature (signature) - J (1034 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/%21_Images_grid.jpg)
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -144,6 +144,7 @@
 * [James MacDonald](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20MacDonald.jpg)
 * [James Mangold](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Mangold.jpg)
 * [James Marsden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Marsden.jpg)
+* [James Marsters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Marsters.jpg)
 * [James Mason](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Mason.jpg)
 * [James McAvoy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20McAvoy.jpg)
 * [James McGrath](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20McGrath.jpg)
@@ -292,6 +293,7 @@
 * [Jaycie Dotin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jaycie%20Dotin.jpg)
 * [Jaylen Barron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jaylen%20Barron.jpg)
 * [Jayme Lawson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jayme%20Lawson.jpg)
+* [Jayne Atkinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jayne%20Atkinson.jpg)
 * [Jayne Eastwood](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jayne%20Eastwood.jpg)
 * [Jayne-Ann Tenggren](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jayne-Ann%20Tenggren.jpg)
 * [Jean Becker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jean%20Becker.jpg)

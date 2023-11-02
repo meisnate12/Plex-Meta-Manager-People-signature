@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (566 Images)
+# Plex Meta Manager People - Signature (signature) - S (568 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -313,6 +313,7 @@
 * [Simon Emanuel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Emanuel.jpg)
 * [Simon Evans](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Evans.jpg)
 * [Simon Harrison](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Harrison.jpg)
+* [Simon Helberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Helberg.jpg)
 * [Simon Kinberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Kinberg.jpg)
 * [Simon Kunz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Kunz.jpg)
 * [Simon Pegg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Pegg.jpg)
@@ -330,6 +331,7 @@
 * [Siobhan Finneran](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Siobhan%20Finneran.jpg)
 * [Siobhan Redmond](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Siobhan%20Redmond.jpg)
 * [Siobhan Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Siobhan%20Williams.jpg)
+* [Siobhán McSweeney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Siobh%C3%A1n%20McSweeney.jpg)
 * [Sissy Spacek](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sissy%20Spacek.jpg)
 * [Skeet Ulrich](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Skeet%20Ulrich.jpg)
 * [Skip Schwink](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Skip%20Schwink.jpg)

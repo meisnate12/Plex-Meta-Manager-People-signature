@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (230 Images)
+# Plex Meta Manager People - Signature (signature) - N (231 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/%21_Images_grid.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -183,6 +183,7 @@
 * [Nina Arianda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nina%20Arianda.jpg)
 * [Nina Dobrev](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nina%20Dobrev.jpg)
 * [Nina Jacobson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nina%20Jacobson.jpg)
+* [Nina Sosanya](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nina%20Sosanya.jpg)
 * [Ninette Finch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Ninette%20Finch.jpg)
 * [Ninetto Davoli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Ninetto%20Davoli.jpg)
 * [Ning DanLin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Ning%20DanLin.jpg)
