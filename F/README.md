@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (152 Images)
+# Plex Meta Manager People - Signature (signature) - F (153 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/%21_Images_grid.jpg)
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -54,6 +54,7 @@
 * [Finn Cole](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Finn%20Cole.jpg)
 * [Finn Wolfhard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Finn%20Wolfhard.jpg)
 * [Finnegan Garay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Finnegan%20Garay.jpg)
+* [Fiona Dourif](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fiona%20Dourif.jpg)
 * [Fiona Glascott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fiona%20Glascott.jpg)
 * [Fiona O'Shaughnessy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fiona%20O%27Shaughnessy.jpg)
 * [Fiona Shaw](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fiona%20Shaw.jpg)

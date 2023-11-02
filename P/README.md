@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (325 Images)
+# Plex Meta Manager People - Signature (signature) - P (326 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/%21_Images_grid.jpg)
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
@@ -60,6 +60,7 @@
 * [Patrick Fabian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Fabian.jpg)
 * [Patrick Ferrell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Ferrell.jpg)
 * [Patrick Flanagan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Flanagan.jpg)
+* [Patrick Fugit](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Fugit.jpg)
 * [Patrick Gallagher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Gallagher.jpg)
 * [Patrick Huard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Huard.jpg)
 * [Patrick Hughes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Patrick%20Hughes.jpg)
