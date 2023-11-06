@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (231 Images)
+# Plex Meta Manager People - Signature (signature) - N (232 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/%21_Images_grid.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -93,6 +93,7 @@
 * [Nelson Ascencio](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nelson%20Ascencio.jpg)
 * [Nelson Dilipkumar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nelson%20Dilipkumar.jpg)
 * [Nelson Franklin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nelson%20Franklin.jpg)
+* [Nelson Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nelson%20Lee.jpg)
 * [Nemr Abou Nassar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nemr%20Abou%20Nassar.jpg)
 * [Nestor Carbonell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nestor%20Carbonell.jpg)
 * [Nestor Serrano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nestor%20Serrano.jpg)
