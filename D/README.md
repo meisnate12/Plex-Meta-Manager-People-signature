@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (562 Images)
+# Plex Meta Manager People - Signature (signature) - D (563 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -190,6 +190,7 @@
 * [David Acord](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Acord.jpg)
 * [David Alan Grier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Alan%20Grier.jpg)
 * [David Anders](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Anders.jpg)
+* [David Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Anderson.jpg)
 * [David Andrews](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Andrews.jpg)
 * [David Anthony Buglione](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Anthony%20Buglione.jpg)
 * [David Arquette](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/David%20Arquette.jpg)

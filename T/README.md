@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (396 Images)
+# Plex Meta Manager People - Signature (signature) - T (397 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -356,6 +356,7 @@
 * [Travis Nelson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Travis%20Nelson.jpg)
 * [Travis Pastrana](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Travis%20Pastrana.jpg)
 * [Travis Quentin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Travis%20Quentin.jpg)
+* [Travis Van Winkle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Travis%20Van%20Winkle.jpg)
 * [Treat Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Treat%20Williams.jpg)
 * [Tress MacNeille](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tress%20MacNeille.jpg)
 * [Trevor Devall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trevor%20Devall.jpg)

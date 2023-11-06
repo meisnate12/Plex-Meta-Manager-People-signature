@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (357 Images)
+# Plex Meta Manager People - Signature (signature) - K (358 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -300,6 +300,7 @@
 * [Kobna Holdbrook-Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kobna%20Holdbrook-Smith.jpg)
 * [Kodi Smit-McPhee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kodi%20Smit-McPhee.jpg)
 * [Kofi Yiadom](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kofi%20Yiadom.jpg)
+* [Koichi Yamadera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Koichi%20Yamadera.jpg)
 * [Kola Bokinni](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kola%20Bokinni.jpg)
 * [Kolby Mitchell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kolby%20Mitchell.jpg)
 * [Koratala Siva](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Koratala%20Siva.jpg)

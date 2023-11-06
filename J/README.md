@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1034 Images)
+# Plex Meta Manager People - Signature (signature) - J (1035 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/%21_Images_grid.jpg)
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -94,6 +94,7 @@
 * [Jaime Lorente](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jaime%20Lorente.jpg)
 * [Jaime Ray Newman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jaime%20Ray%20Newman.jpg)
 * [Jaimie Alexander](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jaimie%20Alexander.jpg)
+* [Jaina Lee Ortiz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jaina%20Lee%20Ortiz.jpg)
 * [Jake Busey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jake%20Busey.jpg)
 * [Jake Gyllenhaal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jake%20Gyllenhaal.jpg)
 * [Jake Johnson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jake%20Johnson.jpg)
