@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (184 Images)
+# Plex Meta Manager People - Signature (signature) - H (185 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/%21_Images_grid.jpg)
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -126,6 +126,7 @@
 * [Herbert Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Herbert%20Ross.jpg)
 * [Herbert Siguenza](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Herbert%20Siguenza.jpg)
 * [Hermione Norris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hermione%20Norris.jpg)
+* [Hero Fiennes Tiffin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hero%20Fiennes%20Tiffin.jpg)
 * [Herschell Gordon Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Herschell%20Gordon%20Lewis.jpg)
 * [Hervé Villechaize](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Herv%C3%A9%20Villechaize.jpg)
 * [Hettienne Park](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hettienne%20Park.jpg)
