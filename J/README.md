@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1035 Images)
+# Plex Meta Manager People - Signature (signature) - J (1036 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/%21_Images_grid.jpg)
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -863,6 +863,7 @@
 * [Jordan Long](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jordan%20Long.jpg)
 * [Jordan Marder](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jordan%20Marder.jpg)
 * [Jordan Peele](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jordan%20Peele.jpg)
+* [Jordan Yale Levine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jordan%20Yale%20Levine.jpg)
 * [Jordana Brewster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jordana%20Brewster.jpg)
 * [Jordana Lajoie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jordana%20Lajoie.jpg)
 * [Jordi Mollà](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jordi%20Moll%C3%A0.jpg)

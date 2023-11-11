@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (543 Images)
+# Plex Meta Manager People - Signature (signature) - C (544 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -91,6 +91,7 @@
 * [Cary Elwes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cary%20Elwes.jpg)
 * [Cary Grant](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cary%20Grant.jpg)
 * [Cary Joji Fukunaga](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cary%20Joji%20Fukunaga.jpg)
+* [Cary Murnion](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cary%20Murnion.jpg)
 * [Cary-Hiroyuki Tagawa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cary-Hiroyuki%20Tagawa.jpg)
 * [Casey Affleck](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Casey%20Affleck.jpg)
 * [Casey Bond](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Casey%20Bond.jpg)

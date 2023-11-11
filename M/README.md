@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (742 Images)
+# Plex Meta Manager People - Signature (signature) - M (743 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -63,6 +63,7 @@
 * [Malcolm Tierney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Malcolm%20Tierney.jpg)
 * [Malcolm-Jamal Warner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Malcolm-Jamal%20Warner.jpg)
 * [Malgorzata Gebel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Malgorzata%20Gebel.jpg)
+* [Malhar Thakar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Malhar%20Thakar.jpg)
 * [Maliah Arrayah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maliah%20Arrayah.jpg)
 * [Malin Buska](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Malin%20Buska.jpg)
 * [Malin Åkerman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Malin%20%C3%85kerman.jpg)
