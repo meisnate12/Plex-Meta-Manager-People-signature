@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (352 Images)
+# Plex Meta Manager People - Signature (signature) - L (353 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -338,6 +338,7 @@
 * [Luke Roberts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Roberts.jpg)
 * [Luke Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Wilson.jpg)
 * [Luminita Docan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luminita%20Docan.jpg)
+* [Luna Lauren Velez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luna%20Lauren%20Velez.jpg)
 * [Lupita Nyong'o](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lupita%20Nyong%27o.jpg)
 * [Lydia Blanco Garza](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lydia%20Blanco%20Garza.jpg)
 * [Lydia Lawson-Baird](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lydia%20Lawson-Baird.jpg)

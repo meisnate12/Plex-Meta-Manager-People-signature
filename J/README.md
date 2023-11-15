@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1036 Images)
+# Plex Meta Manager People - Signature (signature) - J (1037 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/%21_Images_grid.jpg)
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -830,6 +830,7 @@
 * [Jonathan Good](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Good.jpg)
 * [Jonathan Groff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Groff.jpg)
 * [Jonathan Haagensen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Haagensen.jpg)
+* [Jonathan Hensleigh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Hensleigh.jpg)
 * [Jonathan Hughes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Hughes.jpg)
 * [Jonathan Hyde](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Hyde.jpg)
 * [Jonathan Kasdan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jonathan%20Kasdan.jpg)

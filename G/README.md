@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (286 Images)
+# Plex Meta Manager People - Signature (signature) - G (287 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -118,6 +118,7 @@
 * [George Sanders](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Sanders.jpg)
 * [George Sear](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Sear.jpg)
 * [George Segal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Segal.jpg)
+* [George Takei](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Takei.jpg)
 * [George Wendt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Wendt.jpg)
 * [Georges Khabbaz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Georges%20Khabbaz.jpg)
 * [Georges Lopez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Georges%20Lopez.jpg)

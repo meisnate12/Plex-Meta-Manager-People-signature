@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (743 Images)
+# Plex Meta Manager People - Signature (signature) - M (745 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -280,6 +280,7 @@
 * [Mary Elizabeth Winstead](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mary%20Elizabeth%20Winstead.jpg)
 * [Mary Ellen Trainor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mary%20Ellen%20Trainor.jpg)
 * [Mary Harron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mary%20Harron.jpg)
+* [Mary Kate Schellhardt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mary%20Kate%20Schellhardt.jpg)
 * [Mary Kay Place](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mary%20Kay%20Place.jpg)
 * [Mary Lambert](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mary%20Lambert.jpg)
 * [Mary Lynn Rajskub](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mary%20Lynn%20Rajskub.jpg)
@@ -566,6 +567,7 @@
 * [Michael Parks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Parks.jpg)
 * [Michael Paré](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Par%C3%A9.jpg)
 * [Michael Patric](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Patric.jpg)
+* [Michael Patrick Jann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Patrick%20Jann.jpg)
 * [Michael Patrick McGill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Patrick%20McGill.jpg)
 * [Michael Peña](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Pe%C3%B1a.jpg)
 * [Michael Polish](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Michael%20Polish.jpg)
