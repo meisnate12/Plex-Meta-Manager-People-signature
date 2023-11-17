@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (682 Images)
+# Plex Meta Manager People - Signature (signature) - A (684 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -615,6 +615,7 @@
 * [Arthur J. Nascarella](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arthur%20J.%20Nascarella.jpg)
 * [Arthur Kennedy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arthur%20Kennedy.jpg)
 * [Arthur Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arthur%20Lee.jpg)
+* [Arthur Lubin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arthur%20Lubin.jpg)
 * [Arthur M. Sarkissian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arthur%20M.%20Sarkissian.jpg)
 * [Arthur Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arthur%20Penn.jpg)
 * [Arthur Q. Bryan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arthur%20Q.%20Bryan.jpg)
@@ -641,6 +642,7 @@
 * [Ashley Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ashley%20Williams.jpg)
 * [Ashley Zukerman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ashley%20Zukerman.jpg)
 * [Ashlyn Lundahl](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ashlyn%20Lundahl.jpg)
+* [Ashok Kumar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ashok%20Kumar.jpg)
 * [Ashton Kutcher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ashton%20Kutcher.jpg)
 * [Ashutosh Gowariker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ashutosh%20Gowariker.jpg)
 * [Asia Argento](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Asia%20Argento.jpg)

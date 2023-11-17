@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (528 Images)
+# Plex Meta Manager People - Signature (signature) - R (530 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/%21_Images_grid.jpg)
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -35,6 +35,7 @@
 * [Raini Rodriguez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Raini%20Rodriguez.jpg)
 * [Rainn Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rainn%20Wilson.jpg)
 * [Raja Gosnell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Raja%20Gosnell.jpg)
+* [Rajesh Khanna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rajesh%20Khanna.jpg)
 * [Rajesh Sharma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rajesh%20Sharma.jpg)
 * [Rajkumar Hirani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rajkumar%20Hirani.jpg)
 * [Rajkummar Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rajkummar%20Rao.jpg)
@@ -248,6 +249,7 @@
 * [Rio Hackford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rio%20Hackford.jpg)
 * [Rip Torn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rip%20Torn.jpg)
 * [Rish Shah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rish%20Shah.jpg)
+* [Rishi Kapoor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rishi%20Kapoor.jpg)
 * [Risteard Cooper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Risteard%20Cooper.jpg)
 * [Rita Hayworth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rita%20Hayworth.jpg)
 * [Rita Moreno](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rita%20Moreno.jpg)

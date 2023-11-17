@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (185 Images)
+# Plex Meta Manager People - Signature (signature) - H (187 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/%21_Images_grid.jpg)
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -53,6 +53,7 @@
 * [Harold Ramis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harold%20Ramis.jpg)
 * [Harold Sakata](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harold%20Sakata.jpg)
 * [Harper Dill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harper%20Dill.jpg)
+* [Harpo Marx](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harpo%20Marx.jpg)
 * [Harriet Sansom Harris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harriet%20Sansom%20Harris.jpg)
 * [Harriet Walter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harriet%20Walter.jpg)
 * [Harris Dickinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Harris%20Dickinson.jpg)
@@ -104,6 +105,7 @@
 * [Helena Bonham Carter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helena%20Bonham%20Carter.jpg)
 * [Helmut Bakaitis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helmut%20Bakaitis.jpg)
 * [Helmut Berger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helmut%20Berger.jpg)
+* [Hema Malini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hema%20Malini.jpg)
 * [Henri-Georges Clouzot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Henri-Georges%20Clouzot.jpg)
 * [Henry Bergman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Henry%20Bergman.jpg)
 * [Henry Cavill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Henry%20Cavill.jpg)

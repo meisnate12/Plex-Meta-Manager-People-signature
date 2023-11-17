@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (287 Images)
+# Plex Meta Manager People - Signature (signature) - G (288 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -266,6 +266,7 @@
 * [Griffin Kane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Griffin%20Kane.jpg)
 * [Griffin Matthews](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Griffin%20Matthews.jpg)
 * [Griffin Santopietro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Griffin%20Santopietro.jpg)
+* [Groucho Marx](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Groucho%20Marx.jpg)
 * [Gugu Mbatha-Raw](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gugu%20Mbatha-Raw.jpg)
 * [Guillaume Faure](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Guillaume%20Faure.jpg)
 * [Guillermo del Toro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Guillermo%20del%20Toro.jpg)

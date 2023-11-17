@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (150 Images)
+# Plex Meta Manager People - Signature (signature) - W (152 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/%21_Images_grid.jpg)
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -68,6 +68,7 @@
 * [Will Fletcher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Fletcher.jpg)
 * [Will Forte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Forte.jpg)
 * [Will Hare](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Hare.jpg)
+* [Will Hay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Hay.jpg)
 * [Will Kemp](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Kemp.jpg)
 * [Will Lyman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Lyman.jpg)
 * [Will McCormack](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20McCormack.jpg)
@@ -82,6 +83,7 @@
 * [Willard E. Pugh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Willard%20E.%20Pugh.jpg)
 * [Willard Huyck](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Willard%20Huyck.jpg)
 * [Willem Dafoe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Willem%20Dafoe.jpg)
+* [William A. Seiter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20A.%20Seiter.jpg)
 * [William Asher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Asher.jpg)
 * [William Atherton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Atherton.jpg)
 * [William B. Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20B.%20Davis.jpg)

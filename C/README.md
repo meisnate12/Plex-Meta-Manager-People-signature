@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (545 Images)
+# Plex Meta Manager People - Signature (signature) - C (547 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -164,6 +164,7 @@
 * [Charles Finch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Finch.jpg)
 * [Charles Fournier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Fournier.jpg)
 * [Charles Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Gray.jpg)
+* [Charles Lamont](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Lamont.jpg)
 * [Charles Laughton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Laughton.jpg)
 * [Charles M. Schulz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20M.%20Schulz.jpg)
 * [Charles Martin Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charles%20Martin%20Smith.jpg)
@@ -220,6 +221,7 @@
 * [Cheyenne Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cheyenne%20Jackson.jpg)
 * [Chi McBride](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chi%20McBride.jpg)
 * [Chiaki Kuriyama](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chiaki%20Kuriyama.jpg)
+* [Chico Marx](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chico%20Marx.jpg)
 * [Chidi Ajufo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chidi%20Ajufo.jpg)
 * [Chie Nakamura](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chie%20Nakamura.jpg)
 * [Chike Chan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chike%20Chan.jpg)

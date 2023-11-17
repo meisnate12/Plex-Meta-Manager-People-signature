@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (568 Images)
+# Plex Meta Manager People - Signature (signature) - S (569 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -287,6 +287,7 @@
 * [Shirley Henderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shirley%20Henderson.jpg)
 * [Shirley L. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shirley%20L.%20Jones.jpg)
 * [Shirley MacLaine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shirley%20MacLaine.jpg)
+* [Shirley Temple](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shirley%20Temple.jpg)
 * [Shishir Sharma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shishir%20Sharma.jpg)
 * [Sho Aikawa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sho%20Aikawa.jpg)
 * [Shohreh Aghdashloo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shohreh%20Aghdashloo.jpg)
