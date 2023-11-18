@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8273 Images)
+# Plex Meta Manager People - Signature (signature) (8275 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -2999,7 +2999,7 @@
 * [Götz Otto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G%C3%B6tz%20Otto.jpg)
 * [Günther Stoll](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G%C3%BCnther%20Stoll.jpg)
 </details>
-<details><summary><a href="H">H (187 Images)</a></summary>
+<details><summary><a href="H">H (188 Images)</a></summary>
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/%21_Images_grid.jpg)
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -3152,6 +3152,7 @@
 * [Holden William Hagelberger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holden%20William%20Hagelberger.jpg)
 * [Holland Roden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holland%20Roden.jpg)
 * [Holland Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holland%20Taylor.jpg)
+* [Hollis Frampton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hollis%20Frampton.jpg)
 * [Holly Hunter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holly%20Hunter.jpg)
 * [Holly Robinson Peete](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holly%20Robinson%20Peete.jpg)
 * [Holt McCallany](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holt%20McCallany.jpg)
@@ -5052,7 +5053,7 @@
 * [Léa Seydoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%A9a%20Seydoux.jpg)
 * [Lúcio Andrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%BAcio%20Andrey.jpg)
 </details>
-<details><summary><a href="M">M (749 Images)</a></summary>
+<details><summary><a href="M">M (750 Images)</a></summary>
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -5511,6 +5512,7 @@
 * [Merrin Dungey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Merrin%20Dungey.jpg)
 * [Merritt Patterson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Merritt%20Patterson.jpg)
 * [Merritt Wever](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Merritt%20Wever.jpg)
+* [Mervyn LeRoy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mervyn%20LeRoy.jpg)
 * [Meryl Streep](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Meryl%20Streep.jpg)
 * [Mette Agnete Horn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mette%20Agnete%20Horn.jpg)
 * [Mette Towley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mette%20Towley.jpg)

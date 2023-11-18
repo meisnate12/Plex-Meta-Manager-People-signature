@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (749 Images)
+# Plex Meta Manager People - Signature (signature) - M (750 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -457,6 +457,7 @@
 * [Merrin Dungey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Merrin%20Dungey.jpg)
 * [Merritt Patterson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Merritt%20Patterson.jpg)
 * [Merritt Wever](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Merritt%20Wever.jpg)
+* [Mervyn LeRoy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mervyn%20LeRoy.jpg)
 * [Meryl Streep](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Meryl%20Streep.jpg)
 * [Mette Agnete Horn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mette%20Agnete%20Horn.jpg)
 * [Mette Towley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mette%20Towley.jpg)
