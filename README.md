@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8275 Images)
+# Plex Meta Manager People - Signature (signature) (8276 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -6998,7 +6998,7 @@
 * [Ryunosuke Kamiki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryunosuke%20Kamiki.jpg)
 * [Ryusuke Hamaguchi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryusuke%20Hamaguchi.jpg)
 </details>
-<details><summary><a href="S">S (569 Images)</a></summary>
+<details><summary><a href="S">S (570 Images)</a></summary>
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -7381,6 +7381,7 @@
 * [Stacy Keach](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stacy%20Keach.jpg)
 * [Stacy Martin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stacy%20Martin.jpg)
 * [Stag Theodore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stag%20Theodore.jpg)
+* [Stan Brakhage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Brakhage.jpg)
 * [Stan Freberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Freberg.jpg)
 * [Stan Lathan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Lathan.jpg)
 * [Stan Laurel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Laurel.jpg)
