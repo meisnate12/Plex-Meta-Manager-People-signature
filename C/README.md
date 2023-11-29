@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (547 Images)
+# Plex Meta Manager People - Signature (signature) - C (548 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -183,6 +183,7 @@
 * [Charlie Chaplin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Chaplin.jpg)
 * [Charlie Cox](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Cox.jpg)
 * [Charlie Day](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Day.jpg)
+* [Charlie Drake](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Drake.jpg)
 * [Charlie Heaton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Heaton.jpg)
 * [Charlie Hiscock](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Hiscock.jpg)
 * [Charlie Hunnam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlie%20Hunnam.jpg)
