@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (567 Images)
+# Plex Meta Manager People - Signature (signature) - D (568 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -163,6 +163,7 @@
 * [Dash Mihok](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dash%20Mihok.jpg)
 * [Daston Kalili](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daston%20Kalili.jpg)
 * [Dave Attell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Attell.jpg)
+* [Dave B. Mitchell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20B.%20Mitchell.jpg)
 * [Dave Barry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Barry.jpg)
 * [Dave Bautista](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Bautista.jpg)
 * [Dave Callaham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Callaham.jpg)

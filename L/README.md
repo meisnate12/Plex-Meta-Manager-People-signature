@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (353 Images)
+# Plex Meta Manager People - Signature (signature) - L (355 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -210,6 +210,7 @@
 * [Lindsey Morgan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lindsey%20Morgan.jpg)
 * [Lindy Booth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lindy%20Booth.jpg)
 * [Linus Roache](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Linus%20Roache.jpg)
+* [Lionel Boyce](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lionel%20Boyce.jpg)
 * [Lionel Wigram](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lionel%20Wigram.jpg)
 * [Liran Nathan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liran%20Nathan.jpg)
 * [Lisa Ann Hadley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lisa%20Ann%20Hadley.jpg)
@@ -232,6 +233,7 @@
 * [Livvy Stubenrauch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Livvy%20Stubenrauch.jpg)
 * [Liz Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liz%20Smith.jpg)
 * [Liza Chasin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liza%20Chasin.jpg)
+* [Liza Colón-Zayas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liza%20Col%C3%B3n-Zayas.jpg)
 * [Liza Minnelli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liza%20Minnelli.jpg)
 * [Lizzo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lizzo.jpg)
 * [Lizzy Caplan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lizzy%20Caplan.jpg)
