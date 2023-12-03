@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (751 Images)
+# Plex Meta Manager People - Signature (signature) - M (752 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -385,6 +385,7 @@
 * [Max Borenstein](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Max%20Borenstein.jpg)
 * [Max Carver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Max%20Carver.jpg)
 * [Max Casella](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Max%20Casella.jpg)
+* [Max Martini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Max%20Martini.jpg)
 * [Max Minghella](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Max%20Minghella.jpg)
 * [Max Perlich](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Max%20Perlich.jpg)
 * [Max Steiner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Max%20Steiner.jpg)

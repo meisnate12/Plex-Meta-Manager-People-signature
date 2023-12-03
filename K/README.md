@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (359 Images)
+# Plex Meta Manager People - Signature (signature) - K (361 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -75,6 +75,7 @@
 * [Kath Soucie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kath%20Soucie.jpg)
 * [Katharine McPhee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katharine%20McPhee.jpg)
 * [Katherine Heigl](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katherine%20Heigl.jpg)
+* [Katherine LaNasa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katherine%20LaNasa.jpg)
 * [Katherine Langford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katherine%20Langford.jpg)
 * [Katherine McNamara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katherine%20McNamara.jpg)
 * [Katherine Parkinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katherine%20Parkinson.jpg)
@@ -241,6 +242,7 @@
 * [Kevin Sorbo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20Sorbo.jpg)
 * [Kevin Spacey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20Spacey.jpg)
 * [Kevin Van Hentenryck](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20Van%20Hentenryck.jpg)
+* [Kevin Weisman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20Weisman.jpg)
 * [Kevin Williamson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20Williamson.jpg)
 * [Kevork Malikyan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevork%20Malikyan.jpg)
 * [Khalid Abdalla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Khalid%20Abdalla.jpg)
