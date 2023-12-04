@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - V (104 Images)
+# Plex Meta Manager People - Signature (signature) - V (105 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/%21_Images_grid.jpg)
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
@@ -49,6 +49,7 @@
 * [Victoria Alonso](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victoria%20Alonso.jpg)
 * [Victoria Baldesarra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victoria%20Baldesarra.jpg)
 * [Victoria Blade](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victoria%20Blade.jpg)
+* [Victoria Justice](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victoria%20Justice.jpg)
 * [Victoria Pedretti](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victoria%20Pedretti.jpg)
 * [Victoria Yeates](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Victoria%20Yeates.jpg)
 * [Vidhu Vinod Chopra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vidhu%20Vinod%20Chopra.jpg)

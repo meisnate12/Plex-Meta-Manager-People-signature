@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (684 Images)
+# Plex Meta Manager People - Signature (signature) - A (685 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -70,6 +70,7 @@
 * [Addison Timlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Addison%20Timlin.jpg)
 * [Ade](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ade.jpg)
 * [Adeel Akhtar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adeel%20Akhtar.jpg)
+* [Adelaide Kane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adelaide%20Kane.jpg)
 * [Adele Lim](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adele%20Lim.jpg)
 * [Adelle Drahos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adelle%20Drahos.jpg)
 * [Adepero Oduye](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adepero%20Oduye.jpg)

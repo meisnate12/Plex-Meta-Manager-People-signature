@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (431 Images)
+# Plex Meta Manager People - Signature (signature) - B (432 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/%21_Images_grid.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
@@ -362,6 +362,7 @@
 * [Brit Marling](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brit%20Marling.jpg)
 * [Britain Dalton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Britain%20Dalton.jpg)
 * [Britne Oldford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Britne%20Oldford.jpg)
+* [Britney Spears](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Britney%20Spears.jpg)
 * [Britt Ekland](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Britt%20Ekland.jpg)
 * [Britt Lower](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Britt%20Lower.jpg)
 * [Britt Robertson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Britt%20Robertson.jpg)
