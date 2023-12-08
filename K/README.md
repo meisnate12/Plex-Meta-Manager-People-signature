@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (361 Images)
+# Plex Meta Manager People - Signature (signature) - K (362 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -67,6 +67,7 @@
 * [Kate Miner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20Miner.jpg)
 * [Kate O'Mara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20O%27Mara.jpg)
 * [Kate Phillips](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20Phillips.jpg)
+* [Kate Siegel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20Siegel.jpg)
 * [Kate Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20Walsh.jpg)
 * [Kate Winslet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20Winslet.jpg)
 * [Kate del Castillo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kate%20del%20Castillo.jpg)

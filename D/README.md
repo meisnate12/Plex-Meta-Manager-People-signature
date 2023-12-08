@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (568 Images)
+# Plex Meta Manager People - Signature (signature) - D (569 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -30,6 +30,7 @@
 * [Damien Chazelle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Damien%20Chazelle.jpg)
 * [Damion Poitier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Damion%20Poitier.jpg)
 * [Damon Driver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Damon%20Driver.jpg)
+* [Damon Herriman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Damon%20Herriman.jpg)
 * [Damon Lawner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Damon%20Lawner.jpg)
 * [Damon Lindelof](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Damon%20Lindelof.jpg)
 * [Damon Wayans Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Damon%20Wayans%20Jr..jpg)

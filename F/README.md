@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (154 Images)
+# Plex Meta Manager People - Signature (signature) - F (155 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/%21_Images_grid.jpg)
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -118,6 +118,7 @@
 * [Frank Pietrangolare](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Pietrangolare.jpg)
 * [Frank Sinatra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Sinatra.jpg)
 * [Frank Sivero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Sivero.jpg)
+* [Frank Todaro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Todaro.jpg)
 * [Frank Trigg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Trigg.jpg)
 * [Frank Vincent](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Vincent.jpg)
 * [Frank Welker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frank%20Welker.jpg)
