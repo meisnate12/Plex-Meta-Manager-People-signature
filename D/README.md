@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (569 Images)
+# Plex Meta Manager People - Signature (signature) - D (570 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -76,6 +76,7 @@
 * [Dania Ramirez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dania%20Ramirez.jpg)
 * [Danica Curcic](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Danica%20Curcic.jpg)
 * [Danica McKellar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Danica%20McKellar.jpg)
+* [Daniel Auteuil](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Auteuil.jpg)
 * [Daniel Bernhardt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Bernhardt.jpg)
 * [Daniel Brühl](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Br%C3%BChl.jpg)
 * [Daniel Casey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Casey.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (232 Images)
+# Plex Meta Manager People - Signature (signature) - N (233 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/%21_Images_grid.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -87,6 +87,7 @@
 * [Neil Simon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Neil%20Simon.jpg)
 * [Neil Webb](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Neil%20Webb.jpg)
 * [Neil Young](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Neil%20Young.jpg)
+* [Neil deGrasse Tyson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Neil%20deGrasse%20Tyson.jpg)
 * [Neill Blomkamp](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Neill%20Blomkamp.jpg)
 * [Nell Tiger Free](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nell%20Tiger%20Free.jpg)
 * [Nellie Sciutto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nellie%20Sciutto.jpg)

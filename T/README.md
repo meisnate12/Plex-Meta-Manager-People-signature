@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (397 Images)
+# Plex Meta Manager People - Signature (signature) - T (398 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -115,6 +115,7 @@
 * [Theodore von Eltz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Theodore%20von%20Eltz.jpg)
 * [Theresa Randle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Theresa%20Randle.jpg)
 * [Thiago Martins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Thiago%20Martins.jpg)
+* [Thom Barry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Thom%20Barry.jpg)
 * [Thom Gossom Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Thom%20Gossom%20Jr..jpg)
 * [Thom Green](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Thom%20Green.jpg)
 * [Thom Hoffman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Thom%20Hoffman.jpg)
