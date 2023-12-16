@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (531 Images)
+# Plex Meta Manager People - Signature (signature) - R (532 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/%21_Images_grid.jpg)
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -397,6 +397,7 @@
 * [Roisin Conaty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roisin%20Conaty.jpg)
 * [Roland Emmerich](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roland%20Emmerich.jpg)
 * [Rolando Boyce](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rolando%20Boyce.jpg)
+* [Rolf Lassgård](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rolf%20Lassg%C3%A5rd.jpg)
 * [Rolf de Heer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rolf%20de%20Heer.jpg)
 * [Romain Duris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Romain%20Duris.jpg)
 * [Roman Coppola](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roman%20Coppola.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (188 Images)
+# Plex Meta Manager People - Signature (signature) - H (189 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/%21_Images_grid.jpg)
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -151,6 +151,7 @@
 * [Holden William Hagelberger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holden%20William%20Hagelberger.jpg)
 * [Holland Roden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holland%20Roden.jpg)
 * [Holland Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holland%20Taylor.jpg)
+* [Holliday Grainger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holliday%20Grainger.jpg)
 * [Hollis Frampton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hollis%20Frampton.jpg)
 * [Holly Hunter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holly%20Hunter.jpg)
 * [Holly Robinson Peete](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Holly%20Robinson%20Peete.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (155 Images)
+# Plex Meta Manager People - Signature (signature) - F (156 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/%21_Images_grid.jpg)
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -130,6 +130,7 @@
 * [Frankie Faison](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frankie%20Faison.jpg)
 * [Franklin J. Schaffner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Franklin%20J.%20Schaffner.jpg)
 * [Franz Robert Wagner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Franz%20Robert%20Wagner.jpg)
+* [François Arnaud](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fran%C3%A7ois%20Arnaud.jpg)
 * [François Chau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fran%C3%A7ois%20Chau.jpg)
 * [François Ruel-Côté](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fran%C3%A7ois%20Ruel-C%C3%B4t%C3%A9.jpg)
 * [François Truffaut](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fran%C3%A7ois%20Truffaut.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (432 Images)
+# Plex Meta Manager People - Signature (signature) - B (433 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/%21_Images_grid.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
@@ -199,6 +199,7 @@
 * [Biswa Kalyan Rath](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Biswa%20Kalyan%20Rath.jpg)
 * [Bjorgvin Arnarson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bjorgvin%20Arnarson.jpg)
 * [Björk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bj%C3%B6rk.jpg)
+* [Bjørn Floberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bj%C3%B8rn%20Floberg.jpg)
 * [Blair Jasin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Blair%20Jasin.jpg)
 * [Blake Baumgartner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Blake%20Baumgartner.jpg)
 * [Blake Clark](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Blake%20Clark.jpg)

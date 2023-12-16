@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (685 Images)
+# Plex Meta Manager People - Signature (signature) - A (687 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -283,6 +283,7 @@
 * [Alicia Vela-Bailey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alicia%20Vela-Bailey.jpg)
 * [Alicia Vikander](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alicia%20Vikander.jpg)
 * [Alida Valli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alida%20Valli.jpg)
+* [Aliette Opheim](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aliette%20Opheim.jpg)
 * [Aline Brosh McKenna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aline%20Brosh%20McKenna.jpg)
 * [Alisha Boe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alisha%20Boe.jpg)
 * [Alison Brie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alison%20Brie.jpg)
@@ -462,6 +463,7 @@
 * [Angus Sampson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angus%20Sampson.jpg)
 * [Anita Caprioli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anita%20Caprioli.jpg)
 * [Anita Ekberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anita%20Ekberg.jpg)
+* [Anja Lundqvist](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anja%20Lundqvist.jpg)
 * [Anjali Bhimani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anjali%20Bhimani.jpg)
 * [Anjelica Huston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anjelica%20Huston.jpg)
 * [Ann Akinjirin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ann%20Akinjirin.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1037 Images)
+# Plex Meta Manager People - Signature (signature) - J (1038 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/%21_Images_grid.jpg)
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -450,6 +450,7 @@
 * [Jesse Eisenberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jesse%20Eisenberg.jpg)
 * [Jesse Hutch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jesse%20Hutch.jpg)
 * [Jesse Metcalfe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jesse%20Metcalfe.jpg)
+* [Jesse Palmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jesse%20Palmer.jpg)
 * [Jesse Plemons](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jesse%20Plemons.jpg)
 * [Jesse Rath](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jesse%20Rath.jpg)
 * [Jessica Alba](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jessica%20Alba.jpg)
