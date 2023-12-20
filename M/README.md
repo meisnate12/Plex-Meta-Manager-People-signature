@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (753 Images)
+# Plex Meta Manager People - Signature (signature) - M (754 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -723,6 +723,7 @@
 * [Mongo Brownlee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mongo%20Brownlee.jpg)
 * [Monica Barbaro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Monica%20Barbaro.jpg)
 * [Monica Bellucci](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Monica%20Bellucci.jpg)
+* [Monica Dolan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Monica%20Dolan.jpg)
 * [Monica Garcia Bradley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Monica%20Garcia%20Bradley.jpg)
 * [Monique Gabriela Curnen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Monique%20Gabriela%20Curnen.jpg)
 * [Monique Ganderton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Monique%20Ganderton.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1038 Images)
+# Plex Meta Manager People - Signature (signature) - J (1039 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/%21_Images_grid.jpg)
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -936,6 +936,7 @@
 * [Josh Wiggins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josh%20Wiggins.jpg)
 * [Joshua Harto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joshua%20Harto.jpg)
 * [Joshua Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joshua%20Jackson.jpg)
+* [Joshua James](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joshua%20James.jpg)
 * [Joshua Mauga](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joshua%20Mauga.jpg)
 * [Joshua McGuire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joshua%20McGuire.jpg)
 * [Joshua Michael Stern](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joshua%20Michael%20Stern.jpg)

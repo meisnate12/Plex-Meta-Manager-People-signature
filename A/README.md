@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (687 Images)
+# Plex Meta Manager People - Signature (signature) - A (688 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -465,6 +465,7 @@
 * [Anita Ekberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anita%20Ekberg.jpg)
 * [Anja Lundqvist](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anja%20Lundqvist.jpg)
 * [Anjali Bhimani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anjali%20Bhimani.jpg)
+* [Anjana Vasan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anjana%20Vasan.jpg)
 * [Anjelica Huston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anjelica%20Huston.jpg)
 * [Ann Akinjirin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ann%20Akinjirin.jpg)
 * [Ann Cusack](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ann%20Cusack.jpg)
