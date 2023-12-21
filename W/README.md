@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (152 Images)
+# Plex Meta Manager People - Signature (signature) - W (153 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/%21_Images_grid.jpg)
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -108,6 +108,7 @@
 * [William Jackson Harper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Jackson%20Harper.jpg)
 * [William Joyce](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Joyce.jpg)
 * [William Kircher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Kircher.jpg)
+* [William Lau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Lau.jpg)
 * [William Melling](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Melling.jpg)
 * [William Monahan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Monahan.jpg)
 * [William Moseley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Moseley.jpg)

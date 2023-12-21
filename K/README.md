@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (362 Images)
+# Plex Meta Manager People - Signature (signature) - K (364 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -154,6 +154,7 @@
 * [Kelly Preston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kelly%20Preston.jpg)
 * [Kelly Reichardt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kelly%20Reichardt.jpg)
 * [Kelly Reilly](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kelly%20Reilly.jpg)
+* [Kelly Sheridan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kelly%20Sheridan.jpg)
 * [Kelly-Ruth Mercier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kelly-Ruth%20Mercier.jpg)
 * [Kelsey Grammer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kelsey%20Grammer.jpg)
 * [Kelson Henderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kelson%20Henderson.jpg)
@@ -340,6 +341,7 @@
 * [Kunal Khemu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kunal%20Khemu.jpg)
 * [Kunal Nayyar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kunal%20Nayyar.jpg)
 * [Kunichi Nomura](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kunichi%20Nomura.jpg)
+* [Kunihiko Yuyama](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kunihiko%20Yuyama.jpg)
 * [Kurt Braunohler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kurt%20Braunohler.jpg)
 * [Kurt David Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kurt%20David%20Anderson.jpg)
 * [Kurt Fuller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kurt%20Fuller.jpg)

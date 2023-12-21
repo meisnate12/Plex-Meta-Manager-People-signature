@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1039 Images)
+# Plex Meta Manager People - Signature (signature) - J (1040 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/%21_Images_grid.jpg)
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -407,6 +407,7 @@
 * [Jeremiah Bitsui](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremiah%20Bitsui.jpg)
 * [Jeremy Allen White](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Allen%20White.jpg)
 * [Jeremy Bulloch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Bulloch.jpg)
+* [Jeremy Clarkson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Clarkson.jpg)
 * [Jeremy Dawson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Dawson.jpg)
 * [Jeremy Gardner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Gardner.jpg)
 * [Jeremy Gillespie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Gillespie.jpg)

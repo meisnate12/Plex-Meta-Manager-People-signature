@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (570 Images)
+# Plex Meta Manager People - Signature (signature) - S (572 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -123,6 +123,7 @@
 * [Sasha Hutchings](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Hutchings.jpg)
 * [Sasha Lane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Lane.jpg)
 * [Satoshi Kon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Satoshi%20Kon.jpg)
+* [Satoshi Tajiri](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Satoshi%20Tajiri.jpg)
 * [Satyajit Ray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Satyajit%20Ray.jpg)
 * [Saul Rubinek](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saul%20Rubinek.jpg)
 * [Saverio Guerra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saverio%20Guerra.jpg)
@@ -279,6 +280,7 @@
 * [Shia LaBeouf](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shia%20LaBeouf.jpg)
 * [Shiloh Coke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shiloh%20Coke.jpg)
 * [Shin Ha-kyun](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shin%20Ha-kyun.jpg)
+* [Shin-ichiro Miki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shin-ichiro%20Miki.jpg)
 * [Shinnosuke Ikehata](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shinnosuke%20Ikehata.jpg)
 * [Shintarō Katsu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shintar%C5%8D%20Katsu.jpg)
 * [Shioli Kutsuna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Shioli%20Kutsuna.jpg)

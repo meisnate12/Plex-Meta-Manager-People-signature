@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (398 Images)
+# Plex Meta Manager People - Signature (signature) - T (399 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -45,6 +45,7 @@
 * [Tate Donovan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tate%20Donovan.jpg)
 * [Tate Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tate%20Taylor.jpg)
 * [Tatiana Maslany](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tatiana%20Maslany.jpg)
+* [Tatort Duisburg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tatort%20Duisburg.jpg)
 * [Tatsuya Fujiwara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tatsuya%20Fujiwara.jpg)
 * [Tatsuya Nakadai](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tatsuya%20Nakadai.jpg)
 * [Tatum O'Neal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tatum%20O%27Neal.jpg)

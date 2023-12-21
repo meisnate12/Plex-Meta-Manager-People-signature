@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (754 Images)
+# Plex Meta Manager People - Signature (signature) - M (755 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -356,6 +356,7 @@
 * [Matthew Le Nevez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matthew%20Le%20Nevez.jpg)
 * [Matthew Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matthew%20Lewis.jpg)
 * [Matthew Lillard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matthew%20Lillard.jpg)
+* [Matthew Macfadyen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matthew%20Macfadyen.jpg)
 * [Matthew Maher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matthew%20Maher.jpg)
 * [Matthew McConaughey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matthew%20McConaughey.jpg)
 * [Matthew Michael Carnahan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matthew%20Michael%20Carnahan.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (305 Images)
+# Plex Meta Manager People - Signature (signature) - E (306 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/%21_Images_grid.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
@@ -86,6 +86,7 @@
 * [Elisa Perry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elisa%20Perry.jpg)
 * [Elisabeth Moss](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elisabeth%20Moss.jpg)
 * [Elisabeth Shue](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elisabeth%20Shue.jpg)
+* [Elise Allen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elise%20Allen.jpg)
 * [Elise Bauman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elise%20Bauman.jpg)
 * [Elise Eberle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elise%20Eberle.jpg)
 * [Elise Neal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elise%20Neal.jpg)
