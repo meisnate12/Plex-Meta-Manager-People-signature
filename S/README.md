@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (572 Images)
+# Plex Meta Manager People - Signature (signature) - S (573 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -419,6 +419,7 @@
 * [Stephen Amell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Amell.jpg)
 * [Stephen Billington](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Billington.jpg)
 * [Stephen Blackehart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Blackehart.jpg)
+* [Stephen Chiodo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Chiodo.jpg)
 * [Stephen Chow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Chow.jpg)
 * [Stephen Collins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Collins.jpg)
 * [Stephen Dillane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stephen%20Dillane.jpg)

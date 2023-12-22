@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (355 Images)
+# Plex Meta Manager People - Signature (signature) - L (356 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -36,6 +36,7 @@
 * [Larry Holden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20Holden.jpg)
 * [Larry J. Franco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20J.%20Franco.jpg)
 * [Larry King](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20King.jpg)
+* [Larry Leichliter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20Leichliter.jpg)
 * [Larry Lieber](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20Lieber.jpg)
 * [Larry Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20Miller.jpg)
 * [Larry Mitchell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Larry%20Mitchell.jpg)

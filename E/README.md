@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (306 Images)
+# Plex Meta Manager People - Signature (signature) - E (307 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/%21_Images_grid.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
@@ -185,6 +185,7 @@
 * [Emmanuel Todorov](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emmanuel%20Todorov.jpg)
 * [Emmanuel Xuereb](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emmanuel%20Xuereb.jpg)
 * [Emmanuelle Chriqui](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emmanuelle%20Chriqui.jpg)
+* [Emmanuelle Pickett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emmanuelle%20Pickett.jpg)
 * [Emmanuelle Rivassoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emmanuelle%20Rivassoux.jpg)
 * [Emmy Rossum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emmy%20Rossum.jpg)
 * [Enfys Dickinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Enfys%20Dickinson.jpg)

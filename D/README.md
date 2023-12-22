@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (570 Images)
+# Plex Meta Manager People - Signature (signature) - D (572 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -483,6 +483,7 @@
 * [Don Johnson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Johnson.jpg)
 * [Don Mancini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Mancini.jpg)
 * [Don Messick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Messick.jpg)
+* [Don Michael Paul](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Michael%20Paul.jpg)
 * [Don Munsil](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Munsil.jpg)
 * [Don Murphy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Murphy.jpg)
 * [Don Novello](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Novello.jpg)
@@ -503,6 +504,7 @@
 * [Donald Glover](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donald%20Glover.jpg)
 * [Donald Haines](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donald%20Haines.jpg)
 * [Donald Li](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donald%20Li.jpg)
+* [Donald P. Bellisario](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donald%20P.%20Bellisario.jpg)
 * [Donald Petrie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donald%20Petrie.jpg)
 * [Donald Pleasence](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donald%20Pleasence.jpg)
 * [Donald Ranvaud](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donald%20Ranvaud.jpg)
