@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (291 Images)
+# Plex Meta Manager People - Signature (signature) - G (292 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -202,6 +202,7 @@
 * [Gloria Hendry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gloria%20Hendry.jpg)
 * [Gloria Katz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gloria%20Katz.jpg)
 * [Godfrey Reggio](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Godfrey%20Reggio.jpg)
+* [Godfrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Godfrey.jpg)
 * [Golda Rosheuvel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Golda%20Rosheuvel.jpg)
 * [Goldie Hawn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Goldie%20Hawn.jpg)
 * [Gong Li](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gong%20Li.jpg)

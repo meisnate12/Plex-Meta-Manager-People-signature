@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (573 Images)
+# Plex Meta Manager People - Signature (signature) - D (574 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -375,6 +375,7 @@
 * [Dennis Dugan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dennis%20Dugan.jpg)
 * [Dennis Dun](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dennis%20Dun.jpg)
 * [Dennis Farina](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dennis%20Farina.jpg)
+* [Dennis Gaxiola](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dennis%20Gaxiola.jpg)
 * [Dennis Greene](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dennis%20Greene.jpg)
 * [Dennis Haysbert](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dennis%20Haysbert.jpg)
 * [Dennis Hopper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dennis%20Hopper.jpg)

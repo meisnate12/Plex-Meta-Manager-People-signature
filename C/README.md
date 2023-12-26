@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (555 Images)
+# Plex Meta Manager People - Signature (signature) - C (556 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -507,6 +507,7 @@
 * [Corey Hendrix](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Corey%20Hendrix.jpg)
 * [Corey Holcomb](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Corey%20Holcomb.jpg)
 * [Corey Johnson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Corey%20Johnson.jpg)
+* [Corey Rodrigues](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Corey%20Rodrigues.jpg)
 * [Corey Saucier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Corey%20Saucier.jpg)
 * [Corey Sevier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Corey%20Sevier.jpg)
 * [Corey Stoll](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Corey%20Stoll.jpg)

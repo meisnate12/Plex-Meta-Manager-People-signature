@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (757 Images)
+# Plex Meta Manager People - Signature (signature) - M (758 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -661,6 +661,7 @@
 * [Mike Elliott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Elliott.jpg)
 * [Mike Epps](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Epps.jpg)
 * [Mike Flanagan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Flanagan.jpg)
+* [Mike Goodwin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Goodwin.jpg)
 * [Mike Hatton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Hatton.jpg)
 * [Mike Judge](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Judge.jpg)
 * [Mike Leigh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Leigh.jpg)
