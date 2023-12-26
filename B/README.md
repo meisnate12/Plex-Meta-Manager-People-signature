@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (433 Images)
+# Plex Meta Manager People - Signature (signature) - B (434 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/%21_Images_grid.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
@@ -31,6 +31,7 @@
 * [Barrie M. Osborne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barrie%20M.%20Osborne.jpg)
 * [Barry Aird](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Aird.jpg)
 * [Barry Atsma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Atsma.jpg)
+* [Barry Brewer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Brewer.jpg)
 * [Barry Corbin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Corbin.jpg)
 * [Barry Del Sherman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Del%20Sherman.jpg)
 * [Barry Humphries](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Humphries.jpg)

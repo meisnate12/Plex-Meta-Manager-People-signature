@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (364 Images)
+# Plex Meta Manager People - Signature (signature) - K (365 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -87,6 +87,7 @@
 * [Kathleen Freeman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kathleen%20Freeman.jpg)
 * [Kathleen Kennedy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kathleen%20Kennedy.jpg)
 * [Kathleen Kinmont](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kathleen%20Kinmont.jpg)
+* [Kathleen Madigan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kathleen%20Madigan.jpg)
 * [Kathleen Quinlan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kathleen%20Quinlan.jpg)
 * [Kathleen Turner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kathleen%20Turner.jpg)
 * [Kathrine Narducci](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kathrine%20Narducci.jpg)

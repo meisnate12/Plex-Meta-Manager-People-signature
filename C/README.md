@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (553 Images)
+# Plex Meta Manager People - Signature (signature) - C (555 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -61,6 +61,7 @@
 * [Carlos Bernard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Bernard.jpg)
 * [Carlos Guerrero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Guerrero.jpg)
 * [Carlos López Estrada](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20L%C3%B3pez%20Estrada.jpg)
+* [Carlos Mencia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Mencia.jpg)
 * [Carlos Navarro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Navarro.jpg)
 * [Carlos Reygadas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Reygadas.jpg)
 * [Carlos Saldanha](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Carlos%20Saldanha.jpg)
@@ -208,6 +209,7 @@
 * [Cheech Marin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cheech%20Marin.jpg)
 * [Chekesha Van Putten](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chekesha%20Van%20Putten.jpg)
 * [Chelcie Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chelcie%20Ross.jpg)
+* [Chelsea Handler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chelsea%20Handler.jpg)
 * [Chelsea Peretti](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chelsea%20Peretti.jpg)
 * [Chen He](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chen%20He.jpg)
 * [Chen Kaige](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chen%20Kaige.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (289 Images)
+# Plex Meta Manager People - Signature (signature) - G (291 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -244,6 +244,7 @@
 * [Greg Cipes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Cipes.jpg)
 * [Greg Davies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Davies.jpg)
 * [Greg Evigan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Evigan.jpg)
+* [Greg Giraldo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Giraldo.jpg)
 * [Greg Grunberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Grunberg.jpg)
 * [Greg Haines](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Haines.jpg)
 * [Greg Kinnear](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Kinnear.jpg)
@@ -251,6 +252,7 @@
 * [Greg Mottola](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Mottola.jpg)
 * [Greg Proops](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Proops.jpg)
 * [Greg Tarzan Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Tarzan%20Davis.jpg)
+* [Greg Warren](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Warren.jpg)
 * [Gregg Araki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gregg%20Araki.jpg)
 * [Gregg Berger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gregg%20Berger.jpg)
 * [Gregg Henry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gregg%20Henry.jpg)

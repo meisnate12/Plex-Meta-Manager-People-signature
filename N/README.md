@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (234 Images)
+# Plex Meta Manager People - Signature (signature) - N (235 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/%21_Images_grid.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -174,6 +174,7 @@
 * [Niki Caro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Niki%20Caro.jpg)
 * [Nikki Amuka-Bird](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nikki%20Amuka-Bird.jpg)
 * [Nikki DeLoach](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nikki%20DeLoach.jpg)
+* [Nikki Glaser](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nikki%20Glaser.jpg)
 * [Nikki M. James](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nikki%20M.%20James.jpg)
 * [Nikki Van der Zyl](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nikki%20Van%20der%20Zyl.jpg)
 * [Nikkita Chadha](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nikkita%20Chadha.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - I (104 Images)
+# Plex Meta Manager People - Signature (signature) - I (105 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/%21_Images_grid.jpg)
 * [Iain Armitage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Armitage.jpg)
@@ -11,6 +11,7 @@
 * [Ian Bonar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ian%20Bonar.jpg)
 * [Ian Bryce](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ian%20Bryce.jpg)
 * [Ian Chen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ian%20Chen.jpg)
+* [Ian Edwards](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ian%20Edwards.jpg)
 * [Ian Fleming](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ian%20Fleming.jpg)
 * [Ian Harding](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ian%20Harding.jpg)
 * [Ian Hart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ian%20Hart.jpg)

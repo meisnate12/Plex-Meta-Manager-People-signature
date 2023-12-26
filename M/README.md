@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (755 Images)
+# Plex Meta Manager People - Signature (signature) - M (757 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -207,8 +207,10 @@
 * [Mark LoMonaco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20LoMonaco.jpg)
 * [Mark Margolis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Margolis.jpg)
 * [Mark Millar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Millar.jpg)
+* [Mark Monroe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Monroe.jpg)
 * [Mark Moraghan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Moraghan.jpg)
 * [Mark Neveldine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Neveldine.jpg)
+* [Mark Normand](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Normand.jpg)
 * [Mark O'Brien](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20O%27Brien.jpg)
 * [Mark O'Halloran](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20O%27Halloran.jpg)
 * [Mark Osborne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Osborne.jpg)
