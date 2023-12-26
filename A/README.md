@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (689 Images)
+# Plex Meta Manager People - Signature (signature) - A (690 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -46,6 +46,7 @@
 * [Adam Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Brown.jpg)
 * [Adam Colborne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Colborne.jpg)
 * [Adam Curtis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Curtis.jpg)
+* [Adam Devine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Devine.jpg)
 * [Adam Driver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Driver.jpg)
 * [Adam Dubin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Dubin.jpg)
 * [Adam Fergus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Fergus.jpg)

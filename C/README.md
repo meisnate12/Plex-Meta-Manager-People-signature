@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (554 Images)
+# Plex Meta Manager People - Signature (signature) - C (555 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -254,6 +254,7 @@
 * [Chris Cooper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Cooper.jpg)
 * [Chris D'Elia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20D%27Elia.jpg)
 * [Chris Diamantopoulos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Diamantopoulos.jpg)
+* [Chris Distefano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Distefano.jpg)
 * [Chris Doumitt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Doumitt.jpg)
 * [Chris Elliott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Elliott.jpg)
 * [Chris Evans](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Evans.jpg)
