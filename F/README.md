@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (157 Images)
+# Plex Meta Manager People - Signature (signature) - F (158 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/%21_Images_grid.jpg)
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -139,6 +139,7 @@
 * [Fred Armisen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Armisen.jpg)
 * [Fred Astaire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Astaire.jpg)
 * [Fred Galle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Galle.jpg)
+* [Fred Olen Ray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Olen%20Ray.jpg)
 * [Fred Roos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Roos.jpg)
 * [Fred Tatasciore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Tatasciore.jpg)
 * [Fred Ward](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fred%20Ward.jpg)

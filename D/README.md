@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (572 Images)
+# Plex Meta Manager People - Signature (signature) - D (573 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -173,6 +173,7 @@
 * [Dave Chappelle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Chappelle.jpg)
 * [Dave England](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20England.jpg)
 * [Dave Filoni](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Filoni.jpg)
+* [Dave Fleischer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Fleischer.jpg)
 * [Dave Foley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Foley.jpg)
 * [Dave Franco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Franco.jpg)
 * [Dave Gibbons](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dave%20Gibbons.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (357 Images)
+# Plex Meta Manager People - Signature (signature) - L (358 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -239,6 +239,7 @@
 * [Liza Minnelli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Liza%20Minnelli.jpg)
 * [Lizzo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lizzo.jpg)
 * [Lizzy Caplan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lizzy%20Caplan.jpg)
+* [Lloyd Bridges](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lloyd%20Bridges.jpg)
 * [Lloyd Kaufman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lloyd%20Kaufman.jpg)
 * [Lochlyn Munro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lochlyn%20Munro.jpg)
 * [Logan Kim](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Logan%20Kim.jpg)

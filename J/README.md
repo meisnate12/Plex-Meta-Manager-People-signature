@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1042 Images)
+# Plex Meta Manager People - Signature (signature) - J (1043 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/%21_Images_grid.jpg)
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -63,6 +63,7 @@
 * [Jackie Gonneau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackie%20Gonneau.jpg)
 * [Jackie Mason](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackie%20Mason.jpg)
 * [Jackie Sandler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackie%20Sandler.jpg)
+* [Jackie Vernon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackie%20Vernon.jpg)
 * [Jackson Robert Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackson%20Robert%20Scott.jpg)
 * [Jackson Spidell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jackson%20Spidell.jpg)
 * [Jacob Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jacob%20Anderson.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (365 Images)
+# Plex Meta Manager People - Signature (signature) - K (366 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -11,6 +11,7 @@
 * [Kalanithi Maran](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kalanithi%20Maran.jpg)
 * [Kaley Cuoco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kaley%20Cuoco.jpg)
 * [Kamil Lemieszewski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kamil%20Lemieszewski.jpg)
+* [Kan Shimozawa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kan%20Shimozawa.jpg)
 * [Kanan Gill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kanan%20Gill.jpg)
 * [Kane Robinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kane%20Robinson.jpg)
 * [Kaneto Shindo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kaneto%20Shindo.jpg)

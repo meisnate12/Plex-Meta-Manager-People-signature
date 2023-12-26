@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - V (105 Images)
+# Plex Meta Manager People - Signature (signature) - V (106 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/%21_Images_grid.jpg)
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
@@ -71,6 +71,7 @@
 * [Vincent Fuentes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20Fuentes.jpg)
 * [Vincent Gallot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20Gallot.jpg)
 * [Vincent Maraval](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20Maraval.jpg)
+* [Vincent McEveety](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20McEveety.jpg)
 * [Vincent Pastore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20Pastore.jpg)
 * [Vincent Perez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20Perez.jpg)
 * [Vincent Price](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vincent%20Price.jpg)
