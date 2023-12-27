@@ -732,7 +732,7 @@
 * [Barry Atsma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Atsma.jpg)
 * [Barry Brewer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Brewer.jpg)
 * [Barry Corbin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Corbin.jpg)
-* [Barry Crimmins.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Crimmins..jpg)
+* [Barry Crimmins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Crimmins.jpg)
 * [Barry Del Sherman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Del%20Sherman.jpg)
 * [Barry Humphries](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Humphries.jpg)
 * [Barry Idoine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Barry%20Idoine.jpg)
