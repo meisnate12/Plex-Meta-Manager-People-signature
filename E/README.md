@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (307 Images)
+# Plex Meta Manager People - Signature (signature) - E (308 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/%21_Images_grid.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
@@ -51,6 +51,7 @@
 * [Edward Bluemel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Bluemel.jpg)
 * [Edward Burns](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Burns.jpg)
 * [Edward D. Wood Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20D.%20Wood%20Jr..jpg)
+* [Edward Drake](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Drake.jpg)
 * [Edward Fox](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Fox.jpg)
 * [Edward Furlong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Furlong.jpg)
 * [Edward Herrmann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Herrmann.jpg)

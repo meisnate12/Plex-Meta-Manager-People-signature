@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (690 Images)
+# Plex Meta Manager People - Signature (signature) - A (691 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -95,6 +95,7 @@
 * [Adriana Barraza](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adriana%20Barraza.jpg)
 * [Adrianne Palicki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adrianne%20Palicki.jpg)
 * [Adrien Brody](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adrien%20Brody.jpg)
+* [Adrián Lastra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adri%C3%A1n%20Lastra.jpg)
 * [Aedin Mincks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aedin%20Mincks.jpg)
 * [Afemo Omilami](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Afemo%20Omilami.jpg)
 * [Affion Crockett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Affion%20Crockett.jpg)

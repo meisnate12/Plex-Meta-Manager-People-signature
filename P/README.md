@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (335 Images)
+# Plex Meta Manager People - Signature (signature) - P (336 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/%21_Images_grid.jpg)
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
@@ -162,6 +162,7 @@
 * [Pedro Almodóvar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pedro%20Almod%C3%B3var.jpg)
 * [Pedro Alonso](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pedro%20Alonso.jpg)
 * [Pedro Armendáriz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pedro%20Armend%C3%A1riz.jpg)
+* [Pedro Casablanc](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pedro%20Casablanc.jpg)
 * [Pedro Chingo Bling Herrera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pedro%20Chingo%20Bling%20Herrera.jpg)
 * [Pedro Pascal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pedro%20Pascal.jpg)
 * [Pedro Salvín](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pedro%20Salv%C3%ADn.jpg)

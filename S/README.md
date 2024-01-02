@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (576 Images)
+# Plex Meta Manager People - Signature (signature) - S (577 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -169,6 +169,7 @@
 * [Sean Carrigan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Carrigan.jpg)
 * [Sean Connery](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Connery.jpg)
 * [Sean Cronin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Cronin.jpg)
+* [Sean Giambrone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Giambrone.jpg)
 * [Sean Gunn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Gunn.jpg)
 * [Sean Harris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Harris.jpg)
 * [Sean Hughes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Hughes.jpg)
