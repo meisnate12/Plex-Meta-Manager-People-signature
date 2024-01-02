@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (691 Images)
+# Plex Meta Manager People - Signature (signature) - A (693 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -225,6 +225,8 @@
 * [Alex Russell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alex%20Russell.jpg)
 * [Alex Sol](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alex%20Sol.jpg)
 * [Alex Solowitz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alex%20Solowitz.jpg)
+* [Alex Winter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alex%20Winter.jpg)
+* [Alex Winters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alex%20Winters.jpg)
 * [Alex Wolff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alex%20Wolff.jpg)
 * [Alexa Demie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alexa%20Demie.jpg)
 * [Alexa GyÖrgy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alexa%20Gy%C3%96rgy.jpg)

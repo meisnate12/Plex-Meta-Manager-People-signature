@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (541 Images)
+# Plex Meta Manager People - Signature (signature) - R (543 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/%21_Images_grid.jpg)
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -445,6 +445,8 @@
 * [Rory Kinnear](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rory%20Kinnear.jpg)
 * [Rory McCann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rory%20McCann.jpg)
 * [Rory Scovel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rory%20Scovel.jpg)
+* [Rosa Salazar Arenas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosa%20Salazar%20Arenas.jpg)
+* [Rosa Salazar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosa%20Salazar.jpg)
 * [Rosalie Craig](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosalie%20Craig.jpg)
 * [Rosalind Chao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosalind%20Chao.jpg)
 * [Rosamund Pike](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosamund%20Pike.jpg)

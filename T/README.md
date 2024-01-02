@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (401 Images)
+# Plex Meta Manager People - Signature (signature) - T (402 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -374,6 +374,7 @@
 * [Trina Parks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trina%20Parks.jpg)
 * [Trinity Bliss](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trinity%20Bliss.jpg)
 * [Tristin Mays](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tristin%20Mays.jpg)
+* [Tristán Ulloa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trist%C3%A1n%20Ulloa.jpg)
 * [Trivikram Srinivas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trivikram%20Srinivas.jpg)
 * [Troels Lyby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Troels%20Lyby.jpg)
 * [Troy Baker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Troy%20Baker.jpg)

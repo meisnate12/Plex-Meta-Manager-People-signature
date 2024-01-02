@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (577 Images)
+# Plex Meta Manager People - Signature (signature) - S (578 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -183,6 +183,7 @@
 * [Sean Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Penn.jpg)
 * [Sean Pertwee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Pertwee.jpg)
 * [Sean Quan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Quan.jpg)
+* [Sean Young](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sean%20Young.jpg)
 * [Seann William Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Seann%20William%20Scott.jpg)
 * [Sebastian Maniscalco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sebastian%20Maniscalco.jpg)
 * [Sebastian Stan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sebastian%20Stan.jpg)
