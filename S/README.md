@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (578 Images)
+# Plex Meta Manager People - Signature (signature) - S (580 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -52,6 +52,7 @@
 * [Sam Raimi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Raimi.jpg)
 * [Sam Redford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Redford.jpg)
 * [Sam Richardson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Richardson.jpg)
+* [Sam Riegel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Riegel.jpg)
 * [Sam Riley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Riley.jpg)
 * [Sam Robards](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Robards.jpg)
 * [Sam Rockwell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sam%20Rockwell.jpg)
@@ -119,6 +120,7 @@
 * [Sarah-Nicole Robles](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah-Nicole%20Robles.jpg)
 * [Sarita Choudhury](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarita%20Choudhury.jpg)
 * [Sasha Barrese](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Barrese.jpg)
+* [Sasha Behar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Behar.jpg)
 * [Sasha Compère](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Comp%C3%A8re.jpg)
 * [Sasha Hutchings](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Hutchings.jpg)
 * [Sasha Lane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Lane.jpg)

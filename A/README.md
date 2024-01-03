@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (693 Images)
+# Plex Meta Manager People - Signature (signature) - A (694 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -454,6 +454,7 @@
 * [Angela Bassett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Bassett.jpg)
 * [Angela Goethals](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Goethals.jpg)
 * [Angela Lansbury](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Lansbury.jpg)
+* [Angela Little](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Little.jpg)
 * [Angela Narth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Narth.jpg)
 * [Angela Sarafyan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Sarafyan.jpg)
 * [Angelina Jolie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angelina%20Jolie.jpg)

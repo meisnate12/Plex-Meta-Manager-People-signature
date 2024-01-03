@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (574 Images)
+# Plex Meta Manager People - Signature (signature) - D (575 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -94,6 +94,7 @@
 * [Daniel Lapaine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Lapaine.jpg)
 * [Daniel Lindsay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Lindsay.jpg)
 * [Daniel Logan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Logan.jpg)
+* [Daniel MacPherson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20MacPherson.jpg)
 * [Daniel Mays](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Mays.jpg)
 * [Daniel Nelson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20Nelson.jpg)
 * [Daniel P. Conte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daniel%20P.%20Conte.jpg)

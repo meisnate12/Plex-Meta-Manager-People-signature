@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (292 Images)
+# Plex Meta Manager People - Signature (signature) - G (293 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -287,6 +287,7 @@
 * [Guy Torry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Guy%20Torry.jpg)
 * [Guymon Casady](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Guymon%20Casady.jpg)
 * [Gwendoline Christie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gwendoline%20Christie.jpg)
+* [Gwendoline Yeo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gwendoline%20Yeo.jpg)
 * [Gwyneth Keyworth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gwyneth%20Keyworth.jpg)
 * [Gwyneth Paltrow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gwyneth%20Paltrow.jpg)
 * [Gérard Depardieu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G%C3%A9rard%20Depardieu.jpg)

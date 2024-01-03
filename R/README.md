@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (543 Images)
+# Plex Meta Manager People - Signature (signature) - R (544 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/%21_Images_grid.jpg)
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -151,6 +151,7 @@
 * [Rey Hernandez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rey%20Hernandez.jpg)
 * [Reynaldo Gallegos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Reynaldo%20Gallegos.jpg)
 * [Rhashan Stone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rhashan%20Stone.jpg)
+* [Rhea Perlman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rhea%20Perlman.jpg)
 * [Rhea Seehorn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rhea%20Seehorn.jpg)
 * [Rhenzy Feliz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rhenzy%20Feliz.jpg)
 * [Rhett Reese](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rhett%20Reese.jpg)

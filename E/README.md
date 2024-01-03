@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (308 Images)
+# Plex Meta Manager People - Signature (signature) - E (309 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/%21_Images_grid.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
@@ -126,6 +126,7 @@
 * [Ellen Greene](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ellen%20Greene.jpg)
 * [Ellen Hillingsø](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ellen%20Hillings%C3%B8.jpg)
 * [Elliot Barnes-Worrell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elliot%20Barnes-Worrell.jpg)
+* [Elliot Cowan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elliot%20Cowan.jpg)
 * [Elliot Page](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elliot%20Page.jpg)
 * [Elliott Gould](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elliott%20Gould.jpg)
 * [Ellory Elkayem](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ellory%20Elkayem.jpg)
