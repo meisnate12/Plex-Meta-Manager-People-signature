@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (557 Images)
+# Plex Meta Manager People - Signature (signature) - C (558 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -203,6 +203,7 @@
 * [Charlotte Rampling](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlotte%20Rampling.jpg)
 * [Charlotte Wells](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlotte%20Wells.jpg)
 * [Charlton Heston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlton%20Heston.jpg)
+* [Charlyne Yi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Charlyne%20Yi.jpg)
 * [Chase Mullins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chase%20Mullins.jpg)
 * [Chase River McGhee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chase%20River%20McGhee.jpg)
 * [Chase Victoria](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chase%20Victoria.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (367 Images)
+# Plex Meta Manager People - Signature (signature) - K (368 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -338,6 +338,7 @@
 * [Krysten Ritter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Krysten%20Ritter.jpg)
 * [Krysty Wilson-Cairns](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Krysty%20Wilson-Cairns.jpg)
 * [Krzysztof Kieślowski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Krzysztof%20Kie%C5%9Blowski.jpg)
+* [Krzysztof Luft](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Krzysztof%20Luft.jpg)
 * [Kumail Nanjiani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kumail%20Nanjiani.jpg)
 * [Kumud Mishra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kumud%20Mishra.jpg)
 * [Kunal Dudheker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kunal%20Dudheker.jpg)
