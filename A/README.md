@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (695 Images)
+# Plex Meta Manager People - Signature (signature) - A (696 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -183,6 +183,7 @@
 * [Albert Brooks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Brooks.jpg)
 * [Albert Finney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Finney.jpg)
 * [Albert Hughes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Hughes.jpg)
+* [Albert Misak](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Misak.jpg)
 * [Albert R. Broccoli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20R.%20Broccoli.jpg)
 * [Albert Tsai](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Tsai.jpg)
 * [Albert Uderzo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Albert%20Uderzo.jpg)
