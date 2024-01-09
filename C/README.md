@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (558 Images)
+# Plex Meta Manager People - Signature (signature) - C (559 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -107,6 +107,7 @@
 * [Cate Blanchett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cate%20Blanchett.jpg)
 * [Cate Shortland](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cate%20Shortland.jpg)
 * [Caterina Murino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Caterina%20Murino.jpg)
+* [Catherine Cohen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Catherine%20Cohen.jpg)
 * [Catherine Curtin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Catherine%20Curtin.jpg)
 * [Catherine Deneuve](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Catherine%20Deneuve.jpg)
 * [Catherine Haena Kim](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Catherine%20Haena%20Kim.jpg)

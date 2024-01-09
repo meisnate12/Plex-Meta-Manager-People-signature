@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (575 Images)
+# Plex Meta Manager People - Signature (signature) - D (577 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -318,7 +318,9 @@
 * [Dawn French](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dawn%20French.jpg)
 * [Daws Butler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Daws%20Butler.jpg)
 * [Dax Griffin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dax%20Griffin.jpg)
+* [Dax Shepard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dax%20Shepard.jpg)
 * [De'voreaux White](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/De%27voreaux%20White.jpg)
+* [DeForest Kelley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/DeForest%20Kelley.jpg)
 * [DeRay Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/DeRay%20Davis.jpg)
 * [Dean Cain](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dean%20Cain.jpg)
 * [Dean DeBlois](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dean%20DeBlois.jpg)

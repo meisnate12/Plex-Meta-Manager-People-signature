@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (191 Images)
+# Plex Meta Manager People - Signature (signature) - H (192 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/%21_Images_grid.jpg)
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -18,6 +18,7 @@
 * [Hal Roach](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hal%20Roach.jpg)
 * [Hal Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hal%20Smith.jpg)
 * [Hal Sparks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hal%20Sparks.jpg)
+* [Haley Bennett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haley%20Bennett.jpg)
 * [Haley Joel Osment](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haley%20Joel%20Osment.jpg)
 * [Haley Webb](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haley%20Webb.jpg)
 * [Halle Berry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Halle%20Berry.jpg)

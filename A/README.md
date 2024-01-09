@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (696 Images)
+# Plex Meta Manager People - Signature (signature) - A (698 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -502,6 +502,7 @@
 * [Anna Popplewell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Popplewell.jpg)
 * [Anna Sawai](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Sawai.jpg)
 * [Anna Shaffer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Shaffer.jpg)
+* [Anna Silk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Silk.jpg)
 * [Anna Slotky](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Slotky.jpg)
 * [Anna Torv](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Torv.jpg)
 * [Anna Wilson-Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anna%20Wilson-Jones.jpg)
@@ -598,6 +599,7 @@
 * [Ariana Greenblatt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ariana%20Greenblatt.jpg)
 * [Ariane Labed](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ariane%20Labed.jpg)
 * [Ariel Schulman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ariel%20Schulman.jpg)
+* [Ariel Winter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ariel%20Winter.jpg)
 * [Aries Spears](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aries%20Spears.jpg)
 * [Ariyon Bakare](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ariyon%20Bakare.jpg)
 * [Arj Barker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arj%20Barker.jpg)
