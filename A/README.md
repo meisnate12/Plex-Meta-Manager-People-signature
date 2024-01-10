@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (698 Images)
+# Plex Meta Manager People - Signature (signature) - A (701 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -61,6 +61,7 @@
 * [Adam Newman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Newman.jpg)
 * [Adam Pally](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Pally.jpg)
 * [Adam Pelta-Pauls](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Pelta-Pauls.jpg)
+* [Adam Quezada](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Quezada.jpg)
 * [Adam Sandler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Sandler.jpg)
 * [Adam Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Scott.jpg)
 * [Adam Shankman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Adam%20Shankman.jpg)
@@ -678,6 +679,8 @@
 * [Aura Garrido](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aura%20Garrido.jpg)
 * [Aurora Aksnes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aurora%20Aksnes.jpg)
 * [Austin Abrams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Austin%20Abrams.jpg)
+* [Austin Craig](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Austin%20Craig.jpg)
+* [Austin M. Craig](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Austin%20M.%20Craig.jpg)
 * [Austin Pendleton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Austin%20Pendleton.jpg)
 * [Austin Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Austin%20Smith.jpg)
 * [Austin Willis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Austin%20Willis.jpg)

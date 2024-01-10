@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - H (192 Images)
+# Plex Meta Manager People - Signature (signature) - H (194 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/%21_Images_grid.jpg)
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -36,6 +36,7 @@
 * [Hanna Hall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hanna%20Hall.jpg)
 * [Hannah Dodd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hannah%20Dodd.jpg)
 * [Hannah Gottesman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hannah%20Gottesman.jpg)
+* [Hannah Gross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hannah%20Gross.jpg)
 * [Hannah John-Kamen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hannah%20John-Kamen.jpg)
 * [Hannah John](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hannah%20John.jpg)
 * [Hannah Kepple](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Hannah%20Kepple.jpg)
@@ -102,6 +103,7 @@
 * [Helen Baxendale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helen%20Baxendale.jpg)
 * [Helen Estabrook](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helen%20Estabrook.jpg)
 * [Helen Fielding](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helen%20Fielding.jpg)
+* [Helen Horton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helen%20Horton.jpg)
 * [Helen Hunt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helen%20Hunt.jpg)
 * [Helen McCrory](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helen%20McCrory.jpg)
 * [Helen Mirren](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Helen%20Mirren.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (403 Images)
+# Plex Meta Manager People - Signature (signature) - T (405 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -314,6 +314,7 @@
 * [Toni Collette](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Toni%20Collette.jpg)
 * [Toni Servillo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Toni%20Servillo.jpg)
 * [Tony Curran](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Curran.jpg)
+* [Tony D. Head](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20D.%20Head.jpg)
 * [Tony Dalton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Dalton.jpg)
 * [Tony Darrow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Darrow.jpg)
 * [Tony Gilroy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Gilroy.jpg)
@@ -383,6 +384,7 @@
 * [Troy Garity](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Troy%20Garity.jpg)
 * [Troy Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Troy%20Miller.jpg)
 * [Troy Quane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Troy%20Quane.jpg)
+* [Troy Roberts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Troy%20Roberts.jpg)
 * [Trystan Gravelle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trystan%20Gravelle.jpg)
 * [Tsai Chin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tsai%20Chin.jpg)
 * [Tuppence Middleton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tuppence%20Middleton.jpg)
