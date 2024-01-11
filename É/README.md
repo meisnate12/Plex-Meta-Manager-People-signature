@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Signature (signature) - É (4 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/É/Images/%21_Images_grid.jpg)
 * [Élodie Yung](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/É/Images/%C3%89lodie%20Yung.jpg)

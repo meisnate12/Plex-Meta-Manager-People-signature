@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Signature (signature) - X (6 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/X/Images/%21_Images_grid.jpg)
 * [Xander Berkeley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/X/Images/Xander%20Berkeley.jpg)
