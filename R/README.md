@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (550 Images)
+# Plex Meta Manager People - Signature (signature) - R (551 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/%21_Images_grid.jpg)
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -119,6 +119,7 @@
 * [Rebecca Spence](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rebecca%20Spence.jpg)
 * [Rebecca Staab](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rebecca%20Staab.jpg)
 * [Rebel Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rebel%20Wilson.jpg)
+* [Redd Foxx](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Redd%20Foxx.jpg)
 * [Reese Witherspoon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Reese%20Witherspoon.jpg)
 * [Reeve Carney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Reeve%20Carney.jpg)
 * [Reggie Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Reggie%20Lee.jpg)
