@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Signature (signature) - L (371 Images)
+# Plex Meta Manager People - Signature (signature) - L (370 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
 * [Lacey Chabert](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lacey%20Chabert.jpg)

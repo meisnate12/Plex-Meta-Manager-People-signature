@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Signature (signature) - T (405 Images)
+# Plex Meta Manager People - Signature (signature) - T (404 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20Love.jpg)
 * [T.C. Christensen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.C.%20Christensen.jpg)

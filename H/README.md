@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Signature (signature) - H (194 Images)
+# Plex Meta Manager People - Signature (signature) - H (193 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/%21_Images_grid.jpg)
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
 * [H.M. Walker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.M.%20Walker.jpg)
 * [Haaz Sleiman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haaz%20Sleiman.jpg)

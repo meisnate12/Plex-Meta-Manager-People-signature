@@ -1,7 +1,6 @@
 # Plex Meta Manager People - Signature (signature) - D (581 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.R.%20Nanayakkara.jpg)
 * [D.W. Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.W.%20Brown.jpg)
@@ -74,6 +73,7 @@
 * [Dane Cook](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dane%20Cook.jpg)
 * [Dane Rhodes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dane%20Rhodes.jpg)
 * [Dani Deetté](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dani%20Deett%C3%A9.jpg)
+* [Dani Kind](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dani%20Kind.jpg)
 * [Dani Rovira](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dani%20Rovira.jpg)
 * [Dania Ramirez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dania%20Ramirez.jpg)
 * [Danica Curcic](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Danica%20Curcic.jpg)

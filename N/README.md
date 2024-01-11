@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Signature (signature) - N (238 Images)
+# Plex Meta Manager People - Signature (signature) - N (237 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/%21_Images_grid.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
 * [Na Hong-jin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Na%20Hong-jin.jpg)
 * [Nabhaan Rizwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nabhaan%20Rizwan.jpg)

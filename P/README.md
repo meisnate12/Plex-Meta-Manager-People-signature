@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Signature (signature) - P (338 Images)
+# Plex Meta Manager People - Signature (signature) - P (337 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/%21_Images_grid.jpg)
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
 * [Pablo Derqui](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pablo%20Derqui.jpg)

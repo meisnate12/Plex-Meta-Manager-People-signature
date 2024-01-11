@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Signature (signature) - Q (9 Images)
+# Plex Meta Manager People - Signature (signature) - Q (8 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/%21_Images_grid.jpg)
 * [Queen Latifah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Queen%20Latifah.jpg)
 * [Quentin Dupieux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quentin%20Dupieux.jpg)
 * [Quentin Tarantino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quentin%20Tarantino.jpg)

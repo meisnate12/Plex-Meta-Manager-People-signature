@@ -1,7 +1,6 @@
 # Plex Meta Manager People - Signature (signature) - G (296 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G.%20D.%20Spradlin.jpg)
 * [Gabourey Sidibe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gabourey%20Sidibe.jpg)
@@ -103,6 +102,7 @@
 * [George Dewey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Dewey.jpg)
 * [George DiCenzo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20DiCenzo.jpg)
 * [George Eads](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Eads.jpg)
+* [George Foreman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Foreman.jpg)
 * [George Furla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Furla.jpg)
 * [George Gallo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Gallo.jpg)
 * [George Hamilton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Hamilton.jpg)

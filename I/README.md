@@ -1,7 +1,6 @@
 # Plex Meta Manager People - Signature (signature) - I (106 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/%21_Images_grid.jpg)
 * [Iain Armitage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Armitage.jpg)
 * [Iain De Caestecker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20De%20Caestecker.jpg)
 * [Iain Glen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Glen.jpg)
@@ -103,6 +102,7 @@
 * [Ivana Milicevic](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivana%20Milicevic.jpg)
 * [Ivana Miličević](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivana%20Mili%C4%8Devi%C4%87.jpg)
 * [Ivanna Sakhno](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivanna%20Sakhno.jpg)
+* [Ivar Brogger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivar%20Brogger.jpg)
 * [Ivor Powell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivor%20Powell.jpg)
 * [Iwan Rheon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iwan%20Rheon.jpg)
 * [Izaac Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izaac%20Wang.jpg)

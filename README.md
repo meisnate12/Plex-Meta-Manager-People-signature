@@ -1,12 +1,11 @@
-# Plex Meta Manager People - Signature (signature) (8524 Images)
+# Plex Meta Manager People - Signature (signature) (8511 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
 * ['Weird Al' Yankovic](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/'/Images/%27Weird%20Al%27%20Yankovic.jpg)
 </details>
-<details><summary><a href="A">A (701 Images)</a></summary>
+<details><summary><a href="A">A (703 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
 * [Aanand L. Rai](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aanand%20L.%20Rai.jpg)
 * [Aaron Ashmore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aaron%20Ashmore.jpg)
@@ -128,6 +127,7 @@
 * [Aimee Teegarden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aimee%20Teegarden.jpg)
 * [Aimee-Ffion Edwards](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aimee-Ffion%20Edwards.jpg)
 * [Aisling Bea](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aisling%20Bea.jpg)
+* [Aja Naomi King](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aja%20Naomi%20King.jpg)
 * [Ajay Devgn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ajay%20Devgn.jpg)
 * [Akaji Maro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Akaji%20Maro.jpg)
 * [Akarsh Khurana](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Akarsh%20Khurana.jpg)
@@ -464,6 +464,7 @@
 * [Angela Lansbury](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Lansbury.jpg)
 * [Angela Little](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Little.jpg)
 * [Angela Narth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Narth.jpg)
+* [Angela Paton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Paton.jpg)
 * [Angela Sarafyan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angela%20Sarafyan.jpg)
 * [Angelina Jolie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angelina%20Jolie.jpg)
 * [Angelo Tsarouchas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Angelo%20Tsarouchas.jpg)
@@ -612,6 +613,7 @@
 * [Arj Barker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arj%20Barker.jpg)
 * [Arlene Duncan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arlene%20Duncan.jpg)
 * [Arlo White](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Arlo%20White.jpg)
+* [Armand Aucamp](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Armand%20Aucamp.jpg)
 * [Armen Garo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Armen%20Garo.jpg)
 * [Armida Lopez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Armida%20Lopez.jpg)
 * [Armie Hammer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Armie%20Hammer.jpg)
@@ -708,9 +710,8 @@
 * [Azhar Usman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Azhar%20Usman.jpg)
 * [Aziz Ansari](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aziz%20Ansari.jpg)
 </details>
-<details><summary><a href="B">B (444 Images)</a></summary>
+<details><summary><a href="B">B (443 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/%21_Images_grid.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/BD%20Wong.jpg)
 * [Babak Karimi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Babak%20Karimi.jpg)
@@ -1155,9 +1156,8 @@
 * [Béla Tarr](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B%C3%A9la%20Tarr.jpg)
 * [Bérénice Bejo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B%C3%A9r%C3%A9nice%20Bejo.jpg)
 </details>
-<details><summary><a href="C">C (567 Images)</a></summary>
+<details><summary><a href="C">C (566 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
 * [C.C. Smiff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.C.%20Smiff.jpg)
@@ -1727,7 +1727,6 @@
 </details>
 <details><summary><a href="D">D (581 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/%21_Images_grid.jpg)
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.R.%20Nanayakkara.jpg)
 * [D.W. Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.W.%20Brown.jpg)
@@ -1800,6 +1799,7 @@
 * [Dane Cook](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dane%20Cook.jpg)
 * [Dane Rhodes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dane%20Rhodes.jpg)
 * [Dani Deetté](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dani%20Deett%C3%A9.jpg)
+* [Dani Kind](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dani%20Kind.jpg)
 * [Dani Rovira](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dani%20Rovira.jpg)
 * [Dania Ramirez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dania%20Ramirez.jpg)
 * [Danica Curcic](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Danica%20Curcic.jpg)
@@ -2309,9 +2309,8 @@
 * [Débora Nascimento](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D%C3%A9bora%20Nascimento.jpg)
 * [Díana Bermudez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D%C3%ADana%20Bermudez.jpg)
 </details>
-<details><summary><a href="E">E (312 Images)</a></summary>
+<details><summary><a href="E">E (315 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/%21_Images_grid.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
 * [Eamon Farren](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eamon%20Farren.jpg)
@@ -2343,7 +2342,9 @@
 * [Eddie Griffin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eddie%20Griffin.jpg)
 * [Eddie Izzard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eddie%20Izzard.jpg)
 * [Eddie J. Fernandez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eddie%20J.%20Fernandez.jpg)
+* [Eddie Mariano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eddie%20Mariano.jpg)
 * [Eddie Marsan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eddie%20Marsan.jpg)
+* [Eddie Martinez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eddie%20Martinez.jpg)
 * [Eddie Murphy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eddie%20Murphy.jpg)
 * [Eddie Powell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eddie%20Powell.jpg)
 * [Eddie Redmayne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eddie%20Redmayne.jpg)
@@ -2358,6 +2359,7 @@
 * [Edoardo Leo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edoardo%20Leo.jpg)
 * [Edoardo Ponti](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edoardo%20Ponti.jpg)
 * [Edouard Philipponnat](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edouard%20Philipponnat.jpg)
+* [Eduardo N. Martinez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eduardo%20N.%20Martinez.jpg)
 * [Eduardo Sánchez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eduardo%20S%C3%A1nchez.jpg)
 * [Edward Berger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Berger.jpg)
 * [Edward Bluemel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Edward%20Bluemel.jpg)
@@ -2473,6 +2475,7 @@
 * [Emily Haine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Haine.jpg)
 * [Emily Hampshire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Hampshire.jpg)
 * [Emily Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Jones.jpg)
+* [Emily Meade](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Meade.jpg)
 * [Emily Mortimer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Mortimer.jpg)
 * [Emily Rios](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Rios.jpg)
 * [Emily Swallow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emily%20Swallow.jpg)
@@ -2626,7 +2629,6 @@
 </details>
 <details><summary><a href="F">F (158 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/%21_Images_grid.jpg)
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Murray%20Abraham.jpg)
 * [F. W. Murnau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20W.%20Murnau.jpg)
@@ -2665,6 +2667,7 @@
 * [Felix Chong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Felix%20Chong.jpg)
 * [Felix Kammerer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Felix%20Kammerer.jpg)
 * [Felix Mallard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Felix%20Mallard.jpg)
+* [Felix Silla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Felix%20Silla.jpg)
 * [Femi Benussi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Femi%20Benussi.jpg)
 * [Ferdia Shaw](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Ferdia%20Shaw.jpg)
 * [Fernanda Dorogi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fernanda%20Dorogi.jpg)
@@ -2787,7 +2790,6 @@
 </details>
 <details><summary><a href="G">G (296 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G.%20D.%20Spradlin.jpg)
 * [Gabourey Sidibe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gabourey%20Sidibe.jpg)
@@ -2889,6 +2891,7 @@
 * [George Dewey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Dewey.jpg)
 * [George DiCenzo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20DiCenzo.jpg)
 * [George Eads](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Eads.jpg)
+* [George Foreman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Foreman.jpg)
 * [George Furla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Furla.jpg)
 * [George Gallo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Gallo.jpg)
 * [George Hamilton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Hamilton.jpg)
@@ -3084,9 +3087,8 @@
 * [Götz Otto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G%C3%B6tz%20Otto.jpg)
 * [Günther Stoll](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G%C3%BCnther%20Stoll.jpg)
 </details>
-<details><summary><a href="H">H (194 Images)</a></summary>
+<details><summary><a href="H">H (193 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/%21_Images_grid.jpg)
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.%20Jon%20Benjamin.jpg)
 * [H.M. Walker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/H.M.%20Walker.jpg)
 * [Haaz Sleiman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/H/Images/Haaz%20Sleiman.jpg)
@@ -3283,7 +3285,6 @@
 </details>
 <details><summary><a href="I">I (106 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/%21_Images_grid.jpg)
 * [Iain Armitage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Armitage.jpg)
 * [Iain De Caestecker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20De%20Caestecker.jpg)
 * [Iain Glen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Glen.jpg)
@@ -3385,14 +3386,14 @@
 * [Ivana Milicevic](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivana%20Milicevic.jpg)
 * [Ivana Miličević](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivana%20Mili%C4%8Devi%C4%87.jpg)
 * [Ivanna Sakhno](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivanna%20Sakhno.jpg)
+* [Ivar Brogger](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivar%20Brogger.jpg)
 * [Ivor Powell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivor%20Powell.jpg)
 * [Iwan Rheon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iwan%20Rheon.jpg)
 * [Izaac Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izaac%20Wang.jpg)
 * [Izabella Scorupco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izabella%20Scorupco.jpg)
 </details>
-<details><summary><a href="J">J (1056 Images)</a></summary>
+<details><summary><a href="J">J (1058 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/%21_Images_grid.jpg)
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
 * [J. C. MacKenzie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20C.%20MacKenzie.jpg)
@@ -3633,6 +3634,7 @@
 * [Jason Blum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Blum.jpg)
 * [Jason Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Byrne.jpg)
 * [Jason Clarke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Clarke.jpg)
+* [Jason Connery](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Connery.jpg)
 * [Jason Flemyng](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Flemyng.jpg)
 * [Jason Fuchs](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Fuchs.jpg)
 * [Jason Gray-Stanford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Gray-Stanford.jpg)
@@ -3663,6 +3665,7 @@
 * [Jason Statham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Statham.jpg)
 * [Jason Sudeikis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Sudeikis.jpg)
 * [Jason Tobin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Tobin.jpg)
+* [Jason Wahler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Wahler.jpg)
 * [Jason Watkins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Watkins.jpg)
 * [Jason Whyte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Whyte.jpg)
 * [Jason Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Wong.jpg)
@@ -4160,6 +4163,7 @@
 * [John Schnabel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Schnabel.jpg)
 * [John Schneider](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Schneider.jpg)
 * [John Schwab](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Schwab.jpg)
+* [John Sessions](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Sessions.jpg)
 * [John Shrapnel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Shrapnel.jpg)
 * [John Simm](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Simm.jpg)
 * [John Singleton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Singleton.jpg)
@@ -4449,18 +4453,19 @@
 * [Jürgen Prochnow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C3%BCrgen%20Prochnow.jpg)
 * [Jūzō Itami](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C5%ABz%C5%8D%20Itami.jpg)
 </details>
-<details><summary><a href="K">K (373 Images)</a></summary>
+<details><summary><a href="K">K (375 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K.J.%20Apa.jpg)
 * [Kadan Rockett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kadan%20Rockett.jpg)
 * [Kaitlin Doubleday](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kaitlin%20Doubleday.jpg)
 * [Kaitlyn Dever](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kaitlyn%20Dever.jpg)
 * [Kaitlyn Dias](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kaitlyn%20Dias.jpg)
+* [Kaitlyn Maher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kaitlyn%20Maher.jpg)
 * [Kal Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kal%20Penn.jpg)
 * [Kalanithi Maran](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kalanithi%20Maran.jpg)
 * [Kaley Cuoco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kaley%20Cuoco.jpg)
+* [Kaliko Kauahi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kaliko%20Kauahi.jpg)
 * [Kamil Lemieszewski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kamil%20Lemieszewski.jpg)
 * [Kan Shimozawa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kan%20Shimozawa.jpg)
 * [Kanan Gill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kanan%20Gill.jpg)
@@ -4718,6 +4723,7 @@
 * [Kim Brockington](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Brockington.jpg)
 * [Kim Cattrall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Cattrall.jpg)
 * [Kim Coates](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Coates.jpg)
+* [Kim Coles](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Coles.jpg)
 * [Kim Dae-hwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Dae-hwan.jpg)
 * [Kim Dickens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Dickens.jpg)
 * [Kim Dong-hyun](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kim%20Dong-hyun.jpg)
@@ -4825,9 +4831,8 @@
 * [Kym Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kym%20Miller.jpg)
 * [Kyra Sedgwick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kyra%20Sedgwick.jpg)
 </details>
-<details><summary><a href="L">L (371 Images)</a></summary>
+<details><summary><a href="L">L (370 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [LaMonica Garrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LaMonica%20Garrett.jpg)
 * [Lacey Chabert](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lacey%20Chabert.jpg)
@@ -5199,9 +5204,8 @@
 * [Léa Seydoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%A9a%20Seydoux.jpg)
 * [Lúcio Andrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%BAcio%20Andrey.jpg)
 </details>
-<details><summary><a href="M">M (774 Images)</a></summary>
+<details><summary><a href="M">M (773 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
 * [M. Night Shyamalan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Night%20Shyamalan.jpg)
@@ -5976,9 +5980,8 @@
 * [Måns Nathanaelson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%C3%A5ns%20Nathanaelson.jpg)
 * [Mélanie Laurent](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%C3%A9lanie%20Laurent.jpg)
 </details>
-<details><summary><a href="N">N (238 Images)</a></summary>
+<details><summary><a href="N">N (237 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/%21_Images_grid.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
 * [Na Hong-jin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Na%20Hong-jin.jpg)
 * [Nabhaan Rizwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nabhaan%20Rizwan.jpg)
@@ -6217,9 +6220,8 @@
 * [Nyasha Hatendi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nyasha%20Hatendi.jpg)
 * [Nydia Rodriguez Terracina](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nydia%20Rodriguez%20Terracina.jpg)
 </details>
-<details><summary><a href="O">O (78 Images)</a></summary>
+<details><summary><a href="O">O (77 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/%21_Images_grid.jpg)
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O.T. Fagbenle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O.T.%20Fagbenle.jpg)
 * [Obie Matthew](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Obie%20Matthew.jpg)
@@ -6298,9 +6300,8 @@
 * [Owen Teale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Owen%20Teale.jpg)
 * [Owen Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Owen%20Wilson.jpg)
 </details>
-<details><summary><a href="P">P (338 Images)</a></summary>
+<details><summary><a href="P">P (337 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/%21_Images_grid.jpg)
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
 * [Pablo Derqui](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pablo%20Derqui.jpg)
@@ -6639,9 +6640,8 @@
 * [Pupi Avati](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pupi%20Avati.jpg)
 * [Putter Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Putter%20Smith.jpg)
 </details>
-<details><summary><a href="Q">Q (9 Images)</a></summary>
+<details><summary><a href="Q">Q (8 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/%21_Images_grid.jpg)
 * [Queen Latifah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Queen%20Latifah.jpg)
 * [Quentin Dupieux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quentin%20Dupieux.jpg)
 * [Quentin Tarantino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quentin%20Tarantino.jpg)
@@ -6651,9 +6651,8 @@
 * [Quinn Duffy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quinn%20Duffy.jpg)
 * [Quinton Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quinton%20Jackson.jpg)
 </details>
-<details><summary><a href="R">R (551 Images)</a></summary>
+<details><summary><a href="R">R (550 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/%21_Images_grid.jpg)
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
 * [R. Martin Klein](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Martin%20Klein.jpg)
@@ -7205,9 +7204,8 @@
 * [Ryunosuke Kamiki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryunosuke%20Kamiki.jpg)
 * [Ryusuke Hamaguchi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryusuke%20Hamaguchi.jpg)
 </details>
-<details><summary><a href="S">S (591 Images)</a></summary>
+<details><summary><a href="S">S (590 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
 * [Sabine Crossen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sabine%20Crossen.jpg)
@@ -7799,9 +7797,8 @@
 * [Søren Pilmark](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S%C3%B8ren%20Pilmark.jpg)
 * [Sō Yamanaka](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S%C5%8D%20Yamanaka.jpg)
 </details>
-<details><summary><a href="T">T (405 Images)</a></summary>
+<details><summary><a href="T">T (404 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20Love.jpg)
 * [T.C. Christensen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.C.%20Christensen.jpg)
@@ -8207,9 +8204,8 @@
 * [Tzi Ma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tzi%20Ma.jpg)
 * [Téa Leoni](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T%C3%A9a%20Leoni.jpg)
 </details>
-<details><summary><a href="U">U (15 Images)</a></summary>
+<details><summary><a href="U">U (14 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/U/Images/%21_Images_grid.jpg)
 * [Uday Krishna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/U/Images/Uday%20Krishna.jpg)
 * [Udo Kier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/U/Images/Udo%20Kier.jpg)
 * [Udo Samel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/U/Images/Udo%20Samel.jpg)
@@ -8225,9 +8221,8 @@
 * [Uwe Boll](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/U/Images/Uwe%20Boll.jpg)
 * [Uzo Aduba](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/U/Images/Uzo%20Aduba.jpg)
 </details>
-<details><summary><a href="V">V (109 Images)</a></summary>
+<details><summary><a href="V">V (108 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/%21_Images_grid.jpg)
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Vaibhav%20Sethia.jpg)
 * [Val Kilmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Val%20Kilmer.jpg)
@@ -8337,9 +8332,8 @@
 * [Von Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Von%20Lewis.jpg)
 * [Věra Chytilová](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V%C4%9Bra%20Chytilov%C3%A1.jpg)
 </details>
-<details><summary><a href="W">W (155 Images)</a></summary>
+<details><summary><a href="W">W (154 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/%21_Images_grid.jpg)
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Earl%20Brown.jpg)
 * [W. Kamau Bell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Kamau%20Bell.jpg)
@@ -8495,18 +8489,16 @@
 * [Wyck Godfrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Wyck%20Godfrey.jpg)
 * [Władysław Szpilman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W%C5%82adys%C5%82aw%20Szpilman.jpg)
 </details>
-<details><summary><a href="X">X (6 Images)</a></summary>
+<details><summary><a href="X">X (5 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/X/Images/%21_Images_grid.jpg)
 * [Xander Berkeley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/X/Images/Xander%20Berkeley.jpg)
 * [Xavier Jiménez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/X/Images/Xavier%20Jim%C3%A9nez.jpg)
 * [Xavyer Ureña](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/X/Images/Xavyer%20Ure%C3%B1a.jpg)
 * [Xochitl Gomez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/X/Images/Xochitl%20Gomez.jpg)
 * [Xolo Mariduena](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/X/Images/Xolo%20Mariduena.jpg)
 </details>
-<details><summary><a href="Y">Y (37 Images)</a></summary>
+<details><summary><a href="Y">Y (36 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/%21_Images_grid.jpg)
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yahya%20Abdul-Mateen%20II.jpg)
 * [Yang Liang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yang%20Liang.jpg)
@@ -8544,9 +8536,8 @@
 * [Yvette Nicole Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yvette%20Nicole%20Brown.jpg)
 * [Yvonne Shima](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yvonne%20Shima.jpg)
 </details>
-<details><summary><a href="Z">Z (46 Images)</a></summary>
+<details><summary><a href="Z">Z (45 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/%21_Images_grid.jpg)
 * [Zac Efron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Baylin.jpg)
 * [Zach Cherry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Cherry.jpg)
@@ -8593,15 +8584,13 @@
 * [Zoë Robins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zo%C3%AB%20Robins.jpg)
 * [Zoë Wanamaker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zo%C3%AB%20Wanamaker.jpg)
 </details>
-<details><summary><a href="Á">Á (3 Images)</a></summary>
+<details><summary><a href="Á">Á (2 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Á/Images/%21_Images_grid.jpg)
 * [Álvaro Augustín](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Á/Images/%C3%81lvaro%20August%C3%ADn.jpg)
 * [Álvaro Morte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Á/Images/%C3%81lvaro%20Morte.jpg)
 </details>
-<details><summary><a href="É">É (4 Images)</a></summary>
+<details><summary><a href="É">É (3 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/É/Images/%21_Images_grid.jpg)
 * [Élodie Yung](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/É/Images/%C3%89lodie%20Yung.jpg)
 * [Éric Rohmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/É/Images/%C3%89ric%20Rohmer.jpg)
 * [Éric Toledano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/É/Images/%C3%89ric%20Toledano.jpg)
@@ -8610,13 +8599,11 @@
 
 * [Íce Mrozek](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Í/Images/%C3%8Dce%20Mrozek.jpg)
 </details>
-<details><summary><a href="Ó">Ó (2 Images)</a></summary>
+<details><summary><a href="Ó">Ó (1 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Ó/Images/%21_Images_grid.jpg)
 * [Ólafur Darri Ólafsson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Ó/Images/%C3%93lafur%20Darri%20%C3%93lafsson.jpg)
 </details>
-<details><summary><a href="Ú">Ú (2 Images)</a></summary>
+<details><summary><a href="Ú">Ú (1 Images)</a></summary>
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Ú/Images/%21_Images_grid.jpg)
 * [Úrsula Corberó](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Ú/Images/%C3%9Arsula%20Corber%C3%B3.jpg)
 </details>

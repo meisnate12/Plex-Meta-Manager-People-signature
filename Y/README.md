@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Signature (signature) - Y (37 Images)
+# Plex Meta Manager People - Signature (signature) - Y (36 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/%21_Images_grid.jpg)
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yahya%20Abdul-Mateen%20II.jpg)
 * [Yang Liang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yang%20Liang.jpg)
