@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (237 Images)
+# Plex Meta Manager People - Signature (signature) - N (238 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -31,6 +31,7 @@
 * [Natalie D. Woodard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Natalie%20D.%20Woodard.jpg)
 * [Natalie Dormer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Natalie%20Dormer.jpg)
 * [Natalie Holt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Natalie%20Holt.jpg)
+* [Natalie Lisinska](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Natalie%20Lisinska.jpg)
 * [Natalie Madueño](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Natalie%20Madue%C3%B1o.jpg)
 * [Natalie Martinez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Natalie%20Martinez.jpg)
 * [Natalie Morales](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Natalie%20Morales.jpg)

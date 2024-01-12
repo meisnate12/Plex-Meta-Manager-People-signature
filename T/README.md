@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (404 Images)
+# Plex Meta Manager People - Signature (signature) - T (406 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -317,6 +317,7 @@
 * [Tony D. Head](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20D.%20Head.jpg)
 * [Tony Dalton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Dalton.jpg)
 * [Tony Darrow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Darrow.jpg)
+* [Tony Gardner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Gardner.jpg)
 * [Tony Gilroy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Gilroy.jpg)
 * [Tony Goldwyn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Goldwyn.jpg)
 * [Tony Hale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tony%20Hale.jpg)
@@ -374,6 +375,7 @@
 * [Trey Parker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trey%20Parker.jpg)
 * [Tricia Helfer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tricia%20Helfer.jpg)
 * [Trina Parks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trina%20Parks.jpg)
+* [Trini Alvarado](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trini%20Alvarado.jpg)
 * [Trinity Bliss](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trinity%20Bliss.jpg)
 * [Tristin Mays](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tristin%20Mays.jpg)
 * [Tristán Ulloa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Trist%C3%A1n%20Ulloa.jpg)

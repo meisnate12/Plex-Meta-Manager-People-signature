@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (590 Images)
+# Plex Meta Manager People - Signature (signature) - S (593 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -115,6 +115,8 @@
 * [Sarah Paulson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Paulson.jpg)
 * [Sarah Polley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Polley.jpg)
 * [Sarah Roemer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Roemer.jpg)
+* [Sarah Shahi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Shahi.jpg)
+* [Sarah Shahin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Shahin.jpg)
 * [Sarah Silverman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Silverman.jpg)
 * [Sarah Swire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Swire.jpg)
 * [Sarah Vowell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah%20Vowell.jpg)
@@ -402,6 +404,7 @@
 * [Stag Theodore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stag%20Theodore.jpg)
 * [Stan Brakhage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Brakhage.jpg)
 * [Stan Freberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Freberg.jpg)
+* [Stan Ivar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Ivar.jpg)
 * [Stan Lathan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Lathan.jpg)
 * [Stan Laurel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Laurel.jpg)
 * [Stan Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stan%20Lee.jpg)

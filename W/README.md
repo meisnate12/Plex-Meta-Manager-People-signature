@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (154 Images)
+# Plex Meta Manager People - Signature (signature) - W (155 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -120,6 +120,7 @@
 * [William Roberts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Roberts.jpg)
 * [William Russ](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Russ.jpg)
 * [William Sadler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Sadler.jpg)
+* [William Sanderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Sanderson.jpg)
 * [William Shakespeare](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Shakespeare.jpg)
 * [William Shatner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Shatner.jpg)
 * [William Steig](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/William%20Steig.jpg)
