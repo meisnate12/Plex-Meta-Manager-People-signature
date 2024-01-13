@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (566 Images)
+# Plex Meta Manager People - Signature (signature) - C (568 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -101,6 +101,7 @@
 * [Casey Cott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Casey%20Cott.jpg)
 * [Casey Kasem](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Casey%20Kasem.jpg)
 * [Casey Siemaszko](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Casey%20Siemaszko.jpg)
+* [Caspar Phillipson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Caspar%20Phillipson.jpg)
 * [Casper Van Dien](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Casper%20Van%20Dien.jpg)
 * [Cassandra Harris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cassandra%20Harris.jpg)
 * [Cassandra Peterson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cassandra%20Peterson.jpg)
@@ -310,6 +311,7 @@
 * [Chris Webster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Webster.jpg)
 * [Chris Wedge](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Wedge.jpg)
 * [Chris Weitz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Weitz.jpg)
+* [Chris Wiggins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Wiggins.jpg)
 * [Chris Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Williams.jpg)
 * [Chris Wood](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Wood.jpg)
 * [Chris van Allsburg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20van%20Allsburg.jpg)

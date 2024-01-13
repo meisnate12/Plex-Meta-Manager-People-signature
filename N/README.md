@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (239 Images)
+# Plex Meta Manager People - Signature (signature) - N (240 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -161,6 +161,7 @@
 * [Nicolas de Pruyssenaere](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicolas%20de%20Pruyssenaere.jpg)
 * [Nicole Apelian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Apelian.jpg)
 * [Nicole Ari Parker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Ari%20Parker.jpg)
+* [Nicole Eggert](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Eggert.jpg)
 * [Nicole Kang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Kang.jpg)
 * [Nicole Kidman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20Kidman.jpg)
 * [Nicole LaPlaca](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nicole%20LaPlaca.jpg)

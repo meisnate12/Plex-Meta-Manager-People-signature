@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1058 Images)
+# Plex Meta Manager People - Signature (signature) - J (1059 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -270,6 +270,7 @@
 * [Jason Segel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Segel.jpg)
 * [Jason Spisak](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Spisak.jpg)
 * [Jason Statham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Statham.jpg)
+* [Jason Stuart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Stuart.jpg)
 * [Jason Sudeikis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Sudeikis.jpg)
 * [Jason Tobin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Tobin.jpg)
 * [Jason Wahler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jason%20Wahler.jpg)

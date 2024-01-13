@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (594 Images)
+# Plex Meta Manager People - Signature (signature) - S (595 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -400,6 +400,7 @@
 * [Spike Leighton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Spike%20Leighton.jpg)
 * [Stacey Sher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stacey%20Sher.jpg)
 * [Stacey Spears](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stacey%20Spears.jpg)
+* [Stack Pierce](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stack%20Pierce.jpg)
 * [Stacy Keach](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stacy%20Keach.jpg)
 * [Stacy Martin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stacy%20Martin.jpg)
 * [Stag Theodore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Stag%20Theodore.jpg)

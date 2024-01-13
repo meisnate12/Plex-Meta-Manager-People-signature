@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (159 Images)
+# Plex Meta Manager People - Signature (signature) - F (160 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -82,6 +82,7 @@
 * [Frances Fisher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frances%20Fisher.jpg)
 * [Frances Lee McCain](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frances%20Lee%20McCain.jpg)
 * [Frances McDormand](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frances%20McDormand.jpg)
+* [Frances Sternhagen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frances%20Sternhagen.jpg)
 * [Frances de la Tour](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frances%20de%20la%20Tour.jpg)
 * [Francesco Barilli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francesco%20Barilli.jpg)
 * [Francesco Bauco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Francesco%20Bauco.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (550 Images)
+# Plex Meta Manager People - Signature (signature) - R (552 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -258,6 +258,7 @@
 * [Riley Keough](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Riley%20Keough.jpg)
 * [Rinko Kikuchi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rinko%20Kikuchi.jpg)
 * [Rio Hackford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rio%20Hackford.jpg)
+* [Rip Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rip%20Taylor.jpg)
 * [Rip Torn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rip%20Torn.jpg)
 * [Rish Shah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rish%20Shah.jpg)
 * [Rishi Kapoor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rishi%20Kapoor.jpg)
@@ -472,6 +473,7 @@
 * [Ross Butler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Butler.jpg)
 * [Ross Douglas Noble](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Douglas%20Noble.jpg)
 * [Ross Marquand](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Marquand.jpg)
+* [Ross McCall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20McCall.jpg)
 * [Ross Noble](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Noble.jpg)
 * [Rossella Falk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rossella%20Falk.jpg)
 * [Rowan Atkinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rowan%20Atkinson.jpg)

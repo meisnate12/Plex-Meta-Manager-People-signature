@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - Y (37 Images)
+# Plex Meta Manager People - Signature (signature) - Y (38 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -37,4 +37,5 @@
 * [Yutaka Nakano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yutaka%20Nakano.jpg)
 * [Yvetta Fisher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yvetta%20Fisher.jpg)
 * [Yvette Nicole Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yvette%20Nicole%20Brown.jpg)
+* [Yvonne Senat Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yvonne%20Senat%20Jones.jpg)
 * [Yvonne Shima](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Y/Images/Yvonne%20Shima.jpg)
