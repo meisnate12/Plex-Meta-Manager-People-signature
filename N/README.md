@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (238 Images)
+# Plex Meta Manager People - Signature (signature) - N (239 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -61,6 +61,7 @@
 * [Nathaniel Oh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nathaniel%20Oh.jpg)
 * [Navid Negahban](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Navid%20Negahban.jpg)
 * [Nawazuddin Siddiqui](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nawazuddin%20Siddiqui.jpg)
+* [Naya Rivera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Naya%20Rivera.jpg)
 * [Nazanin Boniadi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nazanin%20Boniadi.jpg)
 * [Nazneen Contractor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nazneen%20Contractor.jpg)
 * [Ncuti Gatwa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Ncuti%20Gatwa.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (593 Images)
+# Plex Meta Manager People - Signature (signature) - S (594 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -338,6 +338,7 @@
 * [Simon Kunz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Kunz.jpg)
 * [Simon Pegg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Pegg.jpg)
 * [Simon Quarterman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Quarterman.jpg)
+* [Simon Russell Beale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Russell%20Beale.jpg)
 * [Simon Talbot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Talbot.jpg)
 * [Simon West](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20West.jpg)
 * [Simon Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Wong.jpg)

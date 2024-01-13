@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - I (106 Images)
+# Plex Meta Manager People - Signature (signature) - I (107 Images)
 ![Grid](grid.jpg)
 
 * [Iain Armitage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Armitage.jpg)
@@ -93,6 +93,7 @@
 * [Isla Fisher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Isla%20Fisher.jpg)
 * [Isla Johnston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Isla%20Johnston.jpg)
 * [Ismael Cruz Córdova](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ismael%20Cruz%20C%C3%B3rdova.jpg)
+* [Issa Rae](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Issa%20Rae.jpg)
 * [Ithamar Enriquez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ithamar%20Enriquez.jpg)
 * [Itziar Ituño](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Itziar%20Itu%C3%B1o.jpg)
 * [Ivan Atkinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ivan%20Atkinson.jpg)

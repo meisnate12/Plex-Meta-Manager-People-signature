@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - W (155 Images)
+# Plex Meta Manager People - Signature (signature) - W (156 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -77,6 +77,7 @@
 * [Will Patton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Patton.jpg)
 * [Will Poulter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Poulter.jpg)
 * [Will Pullen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Pullen.jpg)
+* [Will Rothhaar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Rothhaar.jpg)
 * [Will Sasso](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Sasso.jpg)
 * [Will Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Smith.jpg)
 * [Will Yun Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/W/Images/Will%20Yun%20Lee.jpg)
