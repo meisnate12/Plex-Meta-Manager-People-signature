@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (780 Images)
+# Plex Meta Manager People - Signature (signature) - M (781 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -183,6 +183,7 @@
 * [Marisol Nichols](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marisol%20Nichols.jpg)
 * [Marissa Jaret Winokur](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Marissa%20Jaret%20Winokur.jpg)
 * [Marisé Álvarez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maris%C3%A9%20%C3%81lvarez.jpg)
+* [Mark Addy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Addy.jpg)
 * [Mark Andrews](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Andrews.jpg)
 * [Mark Anthony Brighton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Anthony%20Brighton.jpg)
 * [Mark Ashworth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mark%20Ashworth.jpg)

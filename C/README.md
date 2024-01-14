@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (569 Images)
+# Plex Meta Manager People - Signature (signature) - C (570 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -349,6 +349,7 @@
 * [Christophe Gans](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christophe%20Gans.jpg)
 * [Christopher Berry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christopher%20Berry.jpg)
 * [Christopher Connelly](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christopher%20Connelly.jpg)
+* [Christopher Convery](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christopher%20Convery.jpg)
 * [Christopher Cousins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christopher%20Cousins.jpg)
 * [Christopher Darga](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christopher%20Darga.jpg)
 * [Christopher Denham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christopher%20Denham.jpg)

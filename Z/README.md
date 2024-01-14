@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - Z (45 Images)
+# Plex Meta Manager People - Signature (signature) - Z (46 Images)
 ![Grid](grid.jpg)
 
 * [Zac Efron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zac%20Efron.jpg)
@@ -6,6 +6,7 @@
 * [Zach Cherry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Cherry.jpg)
 * [Zach Dean](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Dean.jpg)
 * [Zach Galifianakis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Galifianakis.jpg)
+* [Zach Gilford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Gilford.jpg)
 * [Zach Grenier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Grenier.jpg)
 * [Zach Hudson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Hudson.jpg)
 * [Zach Lewis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Z/Images/Zach%20Lewis.jpg)
