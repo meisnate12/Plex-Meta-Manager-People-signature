@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (444 Images)
+# Plex Meta Manager People - Signature (signature) - B (446 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
@@ -182,6 +182,7 @@
 * [Bille August](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bille%20August.jpg)
 * [Billie Lourd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billie%20Lourd.jpg)
 * [Billie Piper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billie%20Piper.jpg)
+* [Billy Armstrong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Armstrong.jpg)
 * [Billy Bletcher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Bletcher.jpg)
 * [Billy Bob Thornton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Bob%20Thornton.jpg)
 * [Billy Boyd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Billy%20Boyd.jpg)
@@ -225,6 +226,7 @@
 * [Bob Balaban](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bob%20Balaban.jpg)
 * [Bob Bergen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bob%20Bergen.jpg)
 * [Bob Clark](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bob%20Clark.jpg)
+* [Bob Dishy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bob%20Dishy.jpg)
 * [Bob Fosse](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bob%20Fosse.jpg)
 * [Bob Gale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bob%20Gale.jpg)
 * [Bob Gunton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bob%20Gunton.jpg)

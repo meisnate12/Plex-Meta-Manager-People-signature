@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (339 Images)
+# Plex Meta Manager People - Signature (signature) - P (340 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
@@ -110,6 +110,7 @@
 * [Paul Greengrass](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Greengrass.jpg)
 * [Paul Guilfoyle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Guilfoyle.jpg)
 * [Paul Haggis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Haggis.jpg)
+* [Paul Henreid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Henreid.jpg)
 * [Paul Herman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Herman.jpg)
 * [Paul Jarrett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Jarrett.jpg)
 * [Paul Kasey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Kasey.jpg)

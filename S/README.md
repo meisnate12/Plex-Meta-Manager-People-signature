@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (595 Images)
+# Plex Meta Manager People - Signature (signature) - S (596 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -86,6 +86,7 @@
 * [Santino Fontana](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Santino%20Fontana.jpg)
 * [Sanya Malhotra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sanya%20Malhotra.jpg)
 * [Saoirse Ronan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saoirse%20Ronan.jpg)
+* [Sara Berner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sara%20Berner.jpg)
 * [Sara Pascoe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sara%20Pascoe.jpg)
 * [Sara Ramirez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sara%20Ramirez.jpg)
 * [Sara Stewart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sara%20Stewart.jpg)

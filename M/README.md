@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (778 Images)
+# Plex Meta Manager People - Signature (signature) - M (780 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -321,6 +321,7 @@
 * [Mathew Horne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mathew%20Horne.jpg)
 * [Mathieu Kassovitz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mathieu%20Kassovitz.jpg)
 * [Mathilde Ollivier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mathilde%20Ollivier.jpg)
+* [Matt Barr](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Barr.jpg)
 * [Matt Berry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Berry.jpg)
 * [Matt Besser](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Besser.jpg)
 * [Matt Bettinelli-Olpin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Bettinelli-Olpin.jpg)
@@ -690,6 +691,7 @@
 * [Mike Shaw](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Shaw.jpg)
 * [Mike Starr](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Starr.jpg)
 * [Mike Troll](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Troll.jpg)
+* [Mike Vogel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mike%20Vogel.jpg)
 * [Mikhail Gorevoy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mikhail%20Gorevoy.jpg)
 * [Miki Esparbé](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Miki%20Esparb%C3%A9.jpg)
 * [Mikkel Boe Følsgaard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mikkel%20Boe%20F%C3%B8lsgaard.jpg)

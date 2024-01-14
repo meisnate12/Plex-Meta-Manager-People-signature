@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (552 Images)
+# Plex Meta Manager People - Signature (signature) - R (554 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -349,6 +349,7 @@
 * [Robert Schwentke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Schwentke.jpg)
 * [Robert Shaw](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Shaw.jpg)
 * [Robert Simonds](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Simonds.jpg)
+* [Robert Stack](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Stack.jpg)
 * [Robert Stevenson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Stevenson.jpg)
 * [Robert Tapert](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Tapert.jpg)
 * [Robert Tinsley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Robert%20Tinsley.jpg)
@@ -383,6 +384,7 @@
 * [Rod Holcomb](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rod%20Holcomb.jpg)
 * [Rod Hunt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rod%20Hunt.jpg)
 * [Rod Lurie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rod%20Lurie.jpg)
+* [Rod Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rod%20Taylor.jpg)
 * [Roddy McDowall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roddy%20McDowall.jpg)
 * [Roderick Thorp](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roderick%20Thorp.jpg)
 * [Rodger Bumpass](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rodger%20Bumpass.jpg)

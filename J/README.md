@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1059 Images)
+# Plex Meta Manager People - Signature (signature) - J (1061 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -435,6 +435,7 @@
 * [Jeremy Strong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Strong.jpg)
 * [Jeremy Swift](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Swift.jpg)
 * [Jeremy Theobald](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Theobald.jpg)
+* [Jeremy Wade](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeremy%20Wade.jpg)
 * [Jermaine Fowler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jermaine%20Fowler.jpg)
 * [Jeroen Krabbé](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jeroen%20Krabb%C3%A9.jpg)
 * [Jerome Flynn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jerome%20Flynn.jpg)
@@ -796,6 +797,7 @@
 * [John Wyman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/John%20Wyman.jpg)
 * [Johnathan Rice](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Johnathan%20Rice.jpg)
 * [Johnathon Schaech](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Johnathon%20Schaech.jpg)
+* [Johnny 'Bananas' Devenanzio](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Johnny%20%27Bananas%27%20Devenanzio.jpg)
 * [Johnny Cash](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Johnny%20Cash.jpg)
 * [Johnny Depp](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Johnny%20Depp.jpg)
 * [Johnny Galecki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Johnny%20Galecki.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (296 Images)
+# Plex Meta Manager People - Signature (signature) - G (298 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -122,6 +122,7 @@
 * [George Segal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Segal.jpg)
 * [George Takei](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Takei.jpg)
 * [George Wendt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Wendt.jpg)
+* [George Zucco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Zucco.jpg)
 * [Georges Khabbaz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Georges%20Khabbaz.jpg)
 * [Georges Lopez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Georges%20Lopez.jpg)
 * [Georges Rivière](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Georges%20Rivi%C3%A8re.jpg)
@@ -290,6 +291,7 @@
 * [Guy Siner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Guy%20Siner.jpg)
 * [Guy Torry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Guy%20Torry.jpg)
 * [Guymon Casady](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Guymon%20Casady.jpg)
+* [Gwen Verdon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gwen%20Verdon.jpg)
 * [Gwendoline Christie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gwendoline%20Christie.jpg)
 * [Gwendoline Yeo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gwendoline%20Yeo.jpg)
 * [Gwyneth Keyworth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gwyneth%20Keyworth.jpg)
