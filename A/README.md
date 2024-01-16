@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (708 Images)
+# Plex Meta Manager People - Signature (signature) - A (710 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -232,6 +232,7 @@
 * [Alex Winter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alex%20Winter.jpg)
 * [Alex Winters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alex%20Winters.jpg)
 * [Alex Wolff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alex%20Wolff.jpg)
+* [Alexa Davalos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alexa%20Davalos.jpg)
 * [Alexa Demie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alexa%20Demie.jpg)
 * [Alexa GyÖrgy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alexa%20Gy%C3%96rgy.jpg)
 * [Alexa PenaVega](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Alexa%20PenaVega.jpg)
@@ -674,6 +675,7 @@
 * [Asif Ali](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Asif%20Ali.jpg)
 * [Ato Essandoh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ato%20Essandoh.jpg)
 * [Atul Sharma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Atul%20Sharma.jpg)
+* [Aubree Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aubree%20Miller.jpg)
 * [Aubrey Lin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aubrey%20Lin.jpg)
 * [Aubrey Plaza](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aubrey%20Plaza.jpg)
 * [Audie Murphy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Audie%20Murphy.jpg)

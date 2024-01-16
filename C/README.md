@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (570 Images)
+# Plex Meta Manager People - Signature (signature) - C (571 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -309,6 +309,7 @@
 * [Chris Tucker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Tucker.jpg)
 * [Chris Vance](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Vance.jpg)
 * [Chris Walley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Walley.jpg)
+* [Chris Warren](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Warren.jpg)
 * [Chris Webster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Webster.jpg)
 * [Chris Wedge](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Wedge.jpg)
 * [Chris Weitz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Chris%20Weitz.jpg)

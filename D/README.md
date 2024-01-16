@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (584 Images)
+# Plex Meta Manager People - Signature (signature) - D (586 Images)
 ![Grid](grid.jpg)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -532,6 +532,7 @@
 * [Donny Dust](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donny%20Dust.jpg)
 * [Donovan Leitch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Donovan%20Leitch.jpg)
 * [Doon Mackichan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Doon%20Mackichan.jpg)
+* [Dorian Missick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dorian%20Missick.jpg)
 * [Doris Day](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Doris%20Day.jpg)
 * [Doris Roberts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Doris%20Roberts.jpg)
 * [Dorothy  Steel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dorothy%20%20Steel.jpg)
@@ -549,6 +550,7 @@
 * [Dougray Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dougray%20Scott.jpg)
 * [Doutzen Kroes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Doutzen%20Kroes.jpg)
 * [Dov Davidoff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dov%20Davidoff.jpg)
+* [Dove Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dove%20Cameron.jpg)
 * [Dr. Seuss](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dr.%20Seuss.jpg)
 * [Drea de Matteo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Drea%20de%20Matteo.jpg)
 * [Drew Barrymore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Drew%20Barrymore.jpg)

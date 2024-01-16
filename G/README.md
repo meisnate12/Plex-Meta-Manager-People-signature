@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (299 Images)
+# Plex Meta Manager People - Signature (signature) - G (300 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -116,6 +116,7 @@
 * [George Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Miller.jpg)
 * [George Nolfi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Nolfi.jpg)
 * [George Pastell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Pastell.jpg)
+* [George Peppard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Peppard.jpg)
 * [George Roy Hill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Roy%20Hill.jpg)
 * [George Sanders](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Sanders.jpg)
 * [George Sear](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/George%20Sear.jpg)
