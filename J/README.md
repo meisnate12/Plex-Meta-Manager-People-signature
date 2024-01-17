@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1066 Images)
+# Plex Meta Manager People - Signature (signature) - J (1067 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -317,6 +317,7 @@
 * [Jean Smart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jean%20Smart.jpg)
 * [Jean Sorel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jean%20Sorel.jpg)
 * [Jean Vander Pyl](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jean%20Vander%20Pyl.jpg)
+* [Jean Yarbrough](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jean%20Yarbrough.jpg)
 * [Jean-Claude Van Damme](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jean-Claude%20Van%20Damme.jpg)
 * [Jean-François Richet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jean-Fran%C3%A7ois%20Richet.jpg)
 * [Jean-Louis Livi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jean-Louis%20Livi.jpg)
