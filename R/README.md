@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (557 Images)
+# Plex Meta Manager People - Signature (signature) - R (560 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -401,6 +401,8 @@
 * [Roger Avary](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Avary.jpg)
 * [Roger Birnbaum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Birnbaum.jpg)
 * [Roger Carel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Carel.jpg)
+* [Roger Christian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Christian.jpg)
+* [Roger Christiansen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Christiansen.jpg)
 * [Roger Corman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Corman.jpg)
 * [Roger Craig Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Craig%20Smith.jpg)
 * [Roger Cross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roger%20Cross.jpg)
@@ -479,6 +481,7 @@
 * [Ross McCall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20McCall.jpg)
 * [Ross Noble](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Noble.jpg)
 * [Rossella Falk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rossella%20Falk.jpg)
+* [Rosy McEwen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosy%20McEwen.jpg)
 * [Rowan Atkinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rowan%20Atkinson.jpg)
 * [Rowan Blanchard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rowan%20Blanchard.jpg)
 * [Rowan Joffe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rowan%20Joffe.jpg)

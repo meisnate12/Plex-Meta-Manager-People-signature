@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (785 Images)
+# Plex Meta Manager People - Signature (signature) - M (787 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -339,6 +339,7 @@
 * [Matt Helm](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Helm.jpg)
 * [Matt Holloway](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Holloway.jpg)
 * [Matt Hughes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Hughes.jpg)
+* [Matt Johnson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Johnson.jpg)
 * [Matt Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Jones.jpg)
 * [Matt Keeslar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20Keeslar.jpg)
 * [Matt LeBlanc](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Matt%20LeBlanc.jpg)
@@ -416,6 +417,7 @@
 * [Maya Hawke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maya%20Hawke.jpg)
 * [Maya Rudolph](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maya%20Rudolph.jpg)
 * [Maya Saroya](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maya%20Saroya.jpg)
+* [Maynard James Keenan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maynard%20James%20Keenan.jpg)
 * [Mayumi Tanaka](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mayumi%20Tanaka.jpg)
 * [Maz Jobrani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maz%20Jobrani.jpg)
 * [McG](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/McG.jpg)

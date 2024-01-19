@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1067 Images)
+# Plex Meta Manager People - Signature (signature) - J (1069 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -150,6 +150,7 @@
 * [James Marsden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Marsden.jpg)
 * [James Marsters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Marsters.jpg)
 * [James Mason](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Mason.jpg)
+* [James May](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20May.jpg)
 * [James McAvoy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20McAvoy.jpg)
 * [James McGrath](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20McGrath.jpg)
 * [James McTeigue](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20McTeigue.jpg)
@@ -1062,6 +1063,7 @@
 * [Justin Roiland](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Justin%20Roiland.jpg)
 * [Justin Theroux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Justin%20Theroux.jpg)
 * [Justin Timberlake](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Justin%20Timberlake.jpg)
+* [Justine Triet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Justine%20Triet.jpg)
 * [Justyn Shippelt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Justyn%20Shippelt.jpg)
 * [Jyoti Deshpande](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jyoti%20Deshpande.jpg)
 * [Jóhannes Haukur Jóhannesson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C3%B3hannes%20Haukur%20J%C3%B3hannesson.jpg)
