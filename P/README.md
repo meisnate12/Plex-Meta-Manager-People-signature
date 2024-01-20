@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (341 Images)
+# Plex Meta Manager People - Signature (signature) - P (342 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
@@ -262,6 +262,7 @@
 * [Pezhmaan Alinia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pezhmaan%20Alinia.jpg)
 * [Pharrell Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pharrell%20Williams.jpg)
 * [Phellipe Haagensen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phellipe%20Haagensen.jpg)
+* [Phil Churchward](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Churchward.jpg)
 * [Phil Daniels](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Daniels.jpg)
 * [Phil Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Davis.jpg)
 * [Phil Dunster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Dunster.jpg)

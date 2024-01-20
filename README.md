@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8627 Images)
+# Plex Meta Manager People - Signature (signature) (8628 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -6381,7 +6381,7 @@
 * [Owen Teale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Owen%20Teale.jpg)
 * [Owen Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Owen%20Wilson.jpg)
 </details>
-<details><summary><a href="P">P (341 Images)</a></summary>
+<details><summary><a href="P">P (342 Images)</a></summary>
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.J.%20Byrne.jpg)
@@ -6644,6 +6644,7 @@
 * [Pezhmaan Alinia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pezhmaan%20Alinia.jpg)
 * [Pharrell Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pharrell%20Williams.jpg)
 * [Phellipe Haagensen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phellipe%20Haagensen.jpg)
+* [Phil Churchward](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Churchward.jpg)
 * [Phil Daniels](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Daniels.jpg)
 * [Phil Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Davis.jpg)
 * [Phil Dunster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phil%20Dunster.jpg)
