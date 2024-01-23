@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (711 Images)
+# Plex Meta Manager People - Signature (signature) - A (713 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -377,6 +377,7 @@
 * [Amy Ryan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amy%20Ryan.jpg)
 * [Amy Schumer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amy%20Schumer.jpg)
 * [Amy Sedaris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amy%20Sedaris.jpg)
+* [Amy Slaton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amy%20Slaton.jpg)
 * [Amy Smart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amy%20Smart.jpg)
 * [Amy Sobol](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amy%20Sobol.jpg)
 * [Ana Maria Quintana](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ana%20Maria%20Quintana.jpg)
@@ -705,6 +706,7 @@
 * [Awkwafina](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Awkwafina.jpg)
 * [Aya Cash](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aya%20Cash.jpg)
 * [Ayan Mukerji](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ayan%20Mukerji.jpg)
+* [Ayane Sakura](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ayane%20Sakura.jpg)
 * [Ayesha Dharker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ayesha%20Dharker.jpg)
 * [Ayo Edebiri](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ayo%20Edebiri.jpg)
 * [Ayub Khan-Din](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Ayub%20Khan-Din.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (571 Images)
+# Plex Meta Manager People - Signature (signature) - C (572 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -8,6 +8,7 @@
 * [Cade Woodward](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cade%20Woodward.jpg)
 * [Caitríona Balfe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Caitr%C3%ADona%20Balfe.jpg)
 * [Caity Lotz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Caity%20Lotz.jpg)
+* [Cal Brunker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cal%20Brunker.jpg)
 * [Cal Johnson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cal%20Johnson.jpg)
 * [Caleb Landry Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Caleb%20Landry%20Jones.jpg)
 * [Caleb McLaughlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Caleb%20McLaughlin.jpg)

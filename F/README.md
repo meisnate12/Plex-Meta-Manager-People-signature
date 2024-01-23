@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (160 Images)
+# Plex Meta Manager People - Signature (signature) - F (161 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -29,6 +29,7 @@
 * [Fay Ripley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fay%20Ripley.jpg)
 * [Faye Dunaway](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Faye%20Dunaway.jpg)
 * [Faye Marsay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Faye%20Marsay.jpg)
+* [Faye Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Faye%20Wong.jpg)
 * [Fede Álvarez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fede%20%C3%81lvarez.jpg)
 * [Federico Fellini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Federico%20Fellini.jpg)
 * [Felicity Huffman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Felicity%20Huffman.jpg)

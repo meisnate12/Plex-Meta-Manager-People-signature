@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - I (108 Images)
+# Plex Meta Manager People - Signature (signature) - I (109 Images)
 ![Grid](grid.jpg)
 
 * [Iain Armitage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Iain%20Armitage.jpg)
@@ -60,6 +60,7 @@
 * [Ingvar Hirdwall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ingvar%20Hirdwall.jpg)
 * [Ingvar Sigurdsson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ingvar%20Sigurdsson.jpg)
 * [Ingvild Deila](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ingvild%20Deila.jpg)
+* [Inori Minase](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Inori%20Minase.jpg)
 * [Ioan Gruffudd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ioan%20Gruffudd.jpg)
 * [Ione Skye](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Ione%20Skye.jpg)
 * [Irene Mecchi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Irene%20Mecchi.jpg)

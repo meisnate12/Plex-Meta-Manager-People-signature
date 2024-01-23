@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (342 Images)
+# Plex Meta Manager People - Signature (signature) - P (344 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
@@ -132,6 +132,7 @@
 * [Paul Ritter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Ritter.jpg)
 * [Paul Rodríguez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Rodr%C3%ADguez.jpg)
 * [Paul Rudd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Rudd.jpg)
+* [Paul Rudnick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Rudnick.jpg)
 * [Paul Schrader](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Schrader.jpg)
 * [Paul Sloan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Sloan.jpg)
 * [Paul Soles](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Paul%20Soles.jpg)
@@ -294,6 +295,7 @@
 * [Philippe Rousselet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Philippe%20Rousselet.jpg)
 * [Phill Jupitus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phill%20Jupitus.jpg)
 * [Phillip Edward Van Lear](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phillip%20Edward%20Van%20Lear.jpg)
+* [Phillip Glasser](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phillip%20Glasser.jpg)
 * [Phillip Noyce](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phillip%20Noyce.jpg)
 * [Phillipa Soo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phillipa%20Soo.jpg)
 * [Phoebe Fox](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Phoebe%20Fox.jpg)

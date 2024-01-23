@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - B (446 Images)
+# Plex Meta Manager People - Signature (signature) - B (447 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B.J.%20Penn.jpg)
@@ -319,6 +319,7 @@
 * [Brenton Thwaites](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brenton%20Thwaites.jpg)
 * [Bret Easton Ellis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bret%20Easton%20Ellis.jpg)
 * [Bret Ernst](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bret%20Ernst.jpg)
+* [Bret Haaland](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bret%20Haaland.jpg)
 * [Bret McKenzie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Bret%20McKenzie.jpg)
 * [Brett Cullen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brett%20Cullen.jpg)
 * [Brett Donahue](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/Brett%20Donahue.jpg)

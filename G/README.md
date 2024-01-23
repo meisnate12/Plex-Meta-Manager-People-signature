@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (302 Images)
+# Plex Meta Manager People - Signature (signature) - G (304 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -22,6 +22,7 @@
 * [Gad Elmaleh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gad%20Elmaleh.jpg)
 * [Gael García Bernal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gael%20Garc%C3%ADa%20Bernal.jpg)
 * [Gail Mancuso](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gail%20Mancuso.jpg)
+* [Gakuto Kajiwara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gakuto%20Kajiwara.jpg)
 * [Gal Gadot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gal%20Gadot.jpg)
 * [Gale Anne Hurd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gale%20Anne%20Hurd.jpg)
 * [Galen Howard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Galen%20Howard.jpg)
@@ -43,6 +44,7 @@
 * [Gary Cooper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gary%20Cooper.jpg)
 * [Gary Dauberman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gary%20Dauberman.jpg)
 * [Gary Goetzman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gary%20Goetzman.jpg)
+* [Gary Goldman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gary%20Goldman.jpg)
 * [Gary Gulman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gary%20Gulman.jpg)
 * [Gary Kurtz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gary%20Kurtz.jpg)
 * [Gary Lucchesi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gary%20Lucchesi.jpg)

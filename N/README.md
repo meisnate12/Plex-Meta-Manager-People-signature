@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - N (241 Images)
+# Plex Meta Manager People - Signature (signature) - N (243 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -59,6 +59,7 @@
 * [Nathaniel Ellul](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nathaniel%20Ellul.jpg)
 * [Nathaniel Lees](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nathaniel%20Lees.jpg)
 * [Nathaniel Oh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nathaniel%20Oh.jpg)
+* [Natsuki Hanae](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Natsuki%20Hanae.jpg)
 * [Navid Negahban](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Navid%20Negahban.jpg)
 * [Nawazuddin Siddiqui](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nawazuddin%20Siddiqui.jpg)
 * [Naya Rivera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Naya%20Rivera.jpg)
@@ -214,6 +215,7 @@
 * [Noam Jenkins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noam%20Jenkins.jpg)
 * [Nobu Matsuhisa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nobu%20Matsuhisa.jpg)
 * [Nobuaki Shimamoto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nobuaki%20Shimamoto.jpg)
+* [Nobunaga Shimazaki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nobunaga%20Shimazaki.jpg)
 * [Noel Fisher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noel%20Fisher.jpg)
 * [Noel Gugliemi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Noel%20Gugliemi.jpg)
 * [Nolan North](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/N/Images/Nolan%20North.jpg)

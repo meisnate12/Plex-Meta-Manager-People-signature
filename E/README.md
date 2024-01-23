@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (317 Images)
+# Plex Meta Manager People - Signature (signature) - E (318 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
@@ -116,6 +116,7 @@
 * [Elizabeth Perkins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Perkins.jpg)
 * [Elizabeth Regen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Regen.jpg)
 * [Elizabeth Rodriguez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Rodriguez.jpg)
+* [Elizabeth Tabish](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Tabish.jpg)
 * [Elizabeth Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Taylor.jpg)
 * [Elizabeth Tulloch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elizabeth%20Tulloch.jpg)
 * [Ella Hunt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ella%20Hunt.jpg)
