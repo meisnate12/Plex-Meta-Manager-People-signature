@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - P (344 Images)
+# Plex Meta Manager People - Signature (signature) - P (345 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P.H.%20Moriarty.jpg)
@@ -345,3 +345,4 @@
 * [Ptolemy Slocum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Ptolemy%20Slocum.jpg)
 * [Pupi Avati](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Pupi%20Avati.jpg)
 * [Putter Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/Putter%20Smith.jpg)
+* [Pål Sverre Hagen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/P/Images/P%C3%A5l%20Sverre%20Hagen.jpg)

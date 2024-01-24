@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (380 Images)
+# Plex Meta Manager People - Signature (signature) - L (381 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -128,6 +128,7 @@
 * [Leighton Meester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Leighton%20Meester.jpg)
 * [Leland Palmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Leland%20Palmer.jpg)
 * [Len Wein](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Len%20Wein.jpg)
+* [Lena Endre](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lena%20Endre.jpg)
 * [Lena Headey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lena%20Headey.jpg)
 * [Lena Olin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lena%20Olin.jpg)
 * [Lena Waithe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lena%20Waithe.jpg)

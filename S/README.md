@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (604 Images)
+# Plex Meta Manager People - Signature (signature) - S (605 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -225,6 +225,7 @@
 * [Sergio Pablos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sergio%20Pablos.jpg)
 * [Sergio Rubini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sergio%20Rubini.jpg)
 * [Sergio Sollima](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sergio%20Sollima.jpg)
+* [Serinda Swan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Serinda%20Swan.jpg)
 * [Seth Gordon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Seth%20Gordon.jpg)
 * [Seth Green](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Seth%20Green.jpg)
 * [Seth Hurwitz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Seth%20Hurwitz.jpg)

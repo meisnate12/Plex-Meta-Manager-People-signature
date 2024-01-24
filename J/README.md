@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - J (1072 Images)
+# Plex Meta Manager People - Signature (signature) - J (1074 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
@@ -108,6 +108,7 @@
 * [Jake Picking](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jake%20Picking.jpg)
 * [Jake Tapper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jake%20Tapper.jpg)
 * [Jake Weiner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jake%20Weiner.jpg)
+* [Jakob Eklund](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jakob%20Eklund.jpg)
 * [Jameela Jamil](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Jameela%20Jamil.jpg)
 * [James Acaster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Acaster.jpg)
 * [James Algar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/James%20Algar.jpg)
@@ -571,6 +572,7 @@
 * [Joan Rivers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joan%20Rivers.jpg)
 * [Joanna Bennett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joanna%20Bennett.jpg)
 * [Joanna Cassidy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joanna%20Cassidy.jpg)
+* [Joanna Gaines](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joanna%20Gaines.jpg)
 * [Joanna Hogg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joanna%20Hogg.jpg)
 * [Joanna Lumley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joanna%20Lumley.jpg)
 * [Joanna Page](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joanna%20Page.jpg)

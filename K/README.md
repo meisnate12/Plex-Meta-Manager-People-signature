@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (387 Images)
+# Plex Meta Manager People - Signature (signature) - K (388 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -341,6 +341,7 @@
 * [Kristen Schaal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kristen%20Schaal.jpg)
 * [Kristen Stewart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kristen%20Stewart.jpg)
 * [Kristen Wiig](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kristen%20Wiig.jpg)
+* [Krister Henriksson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Krister%20Henriksson.jpg)
 * [Kristin Chenoweth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kristin%20Chenoweth.jpg)
 * [Kristin Davis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kristin%20Davis.jpg)
 * [Kristin Kreuk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kristin%20Kreuk.jpg)

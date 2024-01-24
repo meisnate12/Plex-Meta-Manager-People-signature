@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - F (161 Images)
+# Plex Meta Manager People - Signature (signature) - F (162 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -156,6 +156,7 @@
 * [Freddie Stroma](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Freddie%20Stroma.jpg)
 * [Frederic Forrest](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frederic%20Forrest.jpg)
 * [Fredric Lehne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fredric%20Lehne.jpg)
+* [Fredrik Gunnarsson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fredrik%20Gunnarsson.jpg)
 * [Fredrik Wagner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Fredrik%20Wagner.jpg)
 * [Freida Pinto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Freida%20Pinto.jpg)
 * [Frida Torresblanco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/F/Images/Frida%20Torresblanco.jpg)

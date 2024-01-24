@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (318 Images)
+# Plex Meta Manager People - Signature (signature) - E (320 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
@@ -72,6 +72,7 @@
 * [Eion Bailey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eion%20Bailey.jpg)
 * [Eiza González](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eiza%20Gonz%C3%A1lez.jpg)
 * [Ekta Kapoor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ekta%20Kapoor.jpg)
+* [Elaine Cassidy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elaine%20Cassidy.jpg)
 * [Elaine Goldsmith-Thomas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elaine%20Goldsmith-Thomas.jpg)
 * [Elden Henson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Elden%20Henson.jpg)
 * [Eleanor Columbus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eleanor%20Columbus.jpg)
@@ -176,6 +177,7 @@
 * [Eminem](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Eminem.jpg)
 * [Emma Batiz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emma%20Batiz.jpg)
 * [Emma Berman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emma%20Berman.jpg)
+* [Emma Booth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emma%20Booth.jpg)
 * [Emma Caulfield](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emma%20Caulfield.jpg)
 * [Emma Cooper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emma%20Cooper.jpg)
 * [Emma D'Arcy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emma%20D%27Arcy.jpg)
