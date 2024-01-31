@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (573 Images)
+# Plex Meta Manager People - Signature (signature) - C (576 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -107,6 +107,7 @@
 * [Cassandra Harris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cassandra%20Harris.jpg)
 * [Cassandra Peterson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cassandra%20Peterson.jpg)
 * [Cassian Bilton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cassian%20Bilton.jpg)
+* [Castille Landon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Castille%20Landon.jpg)
 * [Castulo Guerra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Castulo%20Guerra.jpg)
 * [Catalina Sandino Moreno](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Catalina%20Sandino%20Moreno.jpg)
 * [Cate Blanchett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cate%20Blanchett.jpg)
@@ -421,6 +422,8 @@
 * [Clarence Gilyard Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Clarence%20Gilyard%20Jr..jpg)
 * [Clarence Nash](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Clarence%20Nash.jpg)
 * [Clark Duke](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Clark%20Duke.jpg)
+* [Clark Gable III](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Clark%20Gable%20III.jpg)
+* [Clark Gable](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Clark%20Gable.jpg)
 * [Clark Gregg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Clark%20Gregg.jpg)
 * [Clark Spencer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Clark%20Spencer.jpg)
 * [Clarke Peters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Clarke%20Peters.jpg)

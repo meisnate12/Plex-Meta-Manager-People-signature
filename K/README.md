@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (388 Images)
+# Plex Meta Manager People - Signature (signature) - K (389 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -193,6 +193,7 @@
 * [Kenji Mizoguchi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenji%20Mizoguchi.jpg)
 * [Kenneth Branagh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenneth%20Branagh.jpg)
 * [Kenneth Choi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenneth%20Choi.jpg)
+* [Kenneth Collard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenneth%20Collard.jpg)
 * [Kenneth Colley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenneth%20Colley.jpg)
 * [Kenneth Cranham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenneth%20Cranham.jpg)
 * [Kenneth Israel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kenneth%20Israel.jpg)
