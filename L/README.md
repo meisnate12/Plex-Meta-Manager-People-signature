@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (381 Images)
+# Plex Meta Manager People - Signature (signature) - L (382 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -363,6 +363,7 @@
 * [Luke Kirby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Kirby.jpg)
 * [Luke Macfarlane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Macfarlane.jpg)
 * [Luke Mitchell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Mitchell.jpg)
+* [Luke Pasqualino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Pasqualino.jpg)
 * [Luke Perry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Perry.jpg)
 * [Luke Roberts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Roberts.jpg)
 * [Luke Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Luke%20Wilson.jpg)

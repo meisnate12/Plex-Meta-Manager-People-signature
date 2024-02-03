@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (389 Images)
+# Plex Meta Manager People - Signature (signature) - K (390 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -126,6 +126,7 @@
 * [Katt Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katt%20Williams.jpg)
 * [Katy Breier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katy%20Breier.jpg)
 * [Katy O'Brian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katy%20O%27Brian.jpg)
+* [Katy Wix](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katy%20Wix.jpg)
 * [Kay Kay Menon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kay%20Kay%20Menon.jpg)
 * [Kaya Scodelario](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kaya%20Scodelario.jpg)
 * [Kayla Adams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kayla%20Adams.jpg)
