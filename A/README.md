@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (716 Images)
+# Plex Meta Manager People - Signature (signature) - A (718 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -395,6 +395,8 @@
 * [Andie MacDowell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andie%20MacDowell.jpg)
 * [Andre Braugher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andre%20Braugher.jpg)
 * [Andre Tricoteux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andre%20Tricoteux.jpg)
+* [Andrea Anders](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrea%20Anders.jpg)
+* [Andrea Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrea%20Anderson.jpg)
 * [Andrea Arnold](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrea%20Arnold.jpg)
 * [Andrea Bartlow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrea%20Bartlow.jpg)
 * [Andrea Martin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Andrea%20Martin.jpg)
