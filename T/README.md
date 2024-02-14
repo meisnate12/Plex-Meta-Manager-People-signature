@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (414 Images)
+# Plex Meta Manager People - Signature (signature) - T (415 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -401,6 +401,7 @@
 * [Ty Hurley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Ty%20Hurley.jpg)
 * [Ty Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Ty%20Jones.jpg)
 * [Ty Olsson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Ty%20Olsson.jpg)
+* [Ty Pennington](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Ty%20Pennington.jpg)
 * [Ty Simpkins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Ty%20Simpkins.jpg)
 * [Tye Sheridan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tye%20Sheridan.jpg)
 * [Tyler Dean Flores](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tyler%20Dean%20Flores.jpg)
