@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (587 Images)
+# Plex Meta Manager People - Signature (signature) - D (588 Images)
 ![Grid](grid.jpg)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -369,6 +369,7 @@
 * [Demi Moore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Demi%20Moore.jpg)
 * [Demi Singleton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Demi%20Singleton.jpg)
 * [Demián Bichir](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Demi%C3%A1n%20Bichir.jpg)
+* [Demore Barnes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Demore%20Barnes.jpg)
 * [Denavaka Hamine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Denavaka%20Hamine.jpg)
 * [Denholm Elliott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Denholm%20Elliott.jpg)
 * [Denis Khoroshko](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Denis%20Khoroshko.jpg)

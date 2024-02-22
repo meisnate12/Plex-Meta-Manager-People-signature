@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - L (382 Images)
+# Plex Meta Manager People - Signature (signature) - L (383 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -94,6 +94,7 @@
 * [Lawrence Makoare](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lawrence%20Makoare.jpg)
 * [Laysla De Oliveira](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laysla%20De%20Oliveira.jpg)
 * [Laz Alonso](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Laz%20Alonso.jpg)
+* [LeVar Burton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/LeVar%20Burton.jpg)
 * [Lea Massari](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lea%20Massari.jpg)
 * [Lea Thompson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Lea%20Thompson.jpg)
 * [Leah Cairns](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/Leah%20Cairns.jpg)

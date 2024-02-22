@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (579 Images)
+# Plex Meta Manager People - Signature (signature) - C (580 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -135,6 +135,7 @@
 * [Catriona MacColl](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Catriona%20MacColl.jpg)
 * [Cec Linder](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cec%20Linder.jpg)
 * [Cecil B. DeMille](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cecil%20B.%20DeMille.jpg)
+* [Cedric Yarbrough](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cedric%20Yarbrough.jpg)
 * [Cedric the Entertainer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Cedric%20the%20Entertainer.jpg)
 * [Celeste O'Connor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Celeste%20O%27Connor.jpg)
 * [Celia Imrie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Celia%20Imrie.jpg)

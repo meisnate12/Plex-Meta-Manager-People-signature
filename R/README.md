@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (563 Images)
+# Plex Meta Manager People - Signature (signature) - R (564 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -190,6 +190,7 @@
 * [Richard Coyle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Coyle.jpg)
 * [Richard Curtis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Curtis.jpg)
 * [Richard D. Zanuck](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20D.%20Zanuck.jpg)
+* [Richard Dean Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Dean%20Anderson.jpg)
 * [Richard Donner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Donner.jpg)
 * [Richard Dormer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Dormer.jpg)
 * [Richard Dreyfuss](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Richard%20Dreyfuss.jpg)

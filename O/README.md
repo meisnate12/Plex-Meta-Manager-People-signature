@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - O (78 Images)
+# Plex Meta Manager People - Signature (signature) - O (79 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
@@ -53,6 +53,7 @@
 * [Omari Hardwick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omari%20Hardwick.jpg)
 * [Omi Vaidya](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omi%20Vaidya.jpg)
 * [Omid Djalili](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Omid%20Djalili.jpg)
+* [Ophelia Lovibond](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Ophelia%20Lovibond.jpg)
 * [Oprah Winfrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oprah%20Winfrey.jpg)
 * [Oren Hawxhurst](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oren%20Hawxhurst.jpg)
 * [Oren Uziel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/O/Images/Oren%20Uziel.jpg)
