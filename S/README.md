@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (605 Images)
+# Plex Meta Manager People - Signature (signature) - S (607 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -128,6 +128,7 @@
 * [Sarah-Jeanne Labrosse](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah-Jeanne%20Labrosse.jpg)
 * [Sarah-Nicole Robles](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarah-Nicole%20Robles.jpg)
 * [Sarita Choudhury](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarita%20Choudhury.jpg)
+* [Sarma Melngailis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sarma%20Melngailis.jpg)
 * [Sasha Barrese](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Barrese.jpg)
 * [Sasha Behar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Behar.jpg)
 * [Sasha Compère](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sasha%20Comp%C3%A8re.jpg)
@@ -331,6 +332,7 @@
 * [Sienna Guillory](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sienna%20Guillory.jpg)
 * [Sienna Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sienna%20Miller.jpg)
 * [Sierra Katow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sierra%20Katow.jpg)
+* [Sierra McCormick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sierra%20McCormick.jpg)
 * [Sigourney Weaver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sigourney%20Weaver.jpg)
 * [Silas Carson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Silas%20Carson.jpg)
 * [Simon Abkarian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Simon%20Abkarian.jpg)

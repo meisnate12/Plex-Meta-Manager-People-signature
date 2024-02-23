@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (564 Images)
+# Plex Meta Manager People - Signature (signature) - R (566 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -247,6 +247,7 @@
 * [Rick Gonzalez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rick%20Gonzalez.jpg)
 * [Rick Jaffa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rick%20Jaffa.jpg)
 * [Rick McCallum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rick%20McCallum.jpg)
+* [Rick McCrank](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rick%20McCrank.jpg)
 * [Rick Moranis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rick%20Moranis.jpg)
 * [Rick Rosenthal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rick%20Rosenthal.jpg)
 * [Rick Shuster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rick%20Shuster.jpg)
@@ -256,6 +257,7 @@
 * [Ricky Gervais](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ricky%20Gervais.jpg)
 * [Ricky Jay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ricky%20Jay.jpg)
 * [Ricky Velez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ricky%20Velez.jpg)
+* [Ricky Whittle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ricky%20Whittle.jpg)
 * [Ridley Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ridley%20Scott.jpg)
 * [Riki Takeuchi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Riki%20Takeuchi.jpg)
 * [Riley Keough](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Riley%20Keough.jpg)
