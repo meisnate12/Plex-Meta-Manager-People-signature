@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (607 Images)
+# Plex Meta Manager People - Signature (signature) - S (608 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -402,6 +402,7 @@
 * [Spencer Bogaert](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Spencer%20Bogaert.jpg)
 * [Spencer Drever](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Spencer%20Drever.jpg)
 * [Spencer Lacey Ganus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Spencer%20Lacey%20Ganus.jpg)
+* [Spencer Tracy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Spencer%20Tracy.jpg)
 * [Spencer Treat Clark](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Spencer%20Treat%20Clark.jpg)
 * [Spencer Wilding](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Spencer%20Wilding.jpg)
 * [Spike Jonze](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Spike%20Jonze.jpg)

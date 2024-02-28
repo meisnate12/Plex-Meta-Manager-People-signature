@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (391 Images)
+# Plex Meta Manager People - Signature (signature) - K (393 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -50,6 +50,7 @@
 * [Karoline Hamm](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Karoline%20Hamm.jpg)
 * [Karyn Kusama](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Karyn%20Kusama.jpg)
 * [Kasia Smutniak](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kasia%20Smutniak.jpg)
+* [Kasper Michaels](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kasper%20Michaels.jpg)
 * [Kat Coiro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kat%20Coiro.jpg)
 * [Kat Cunning](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kat%20Cunning.jpg)
 * [Kat Dennings](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kat%20Dennings.jpg)
@@ -80,6 +81,7 @@
 * [Katerina Tannenbaum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katerina%20Tannenbaum.jpg)
 * [Katey Sagal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katey%20Sagal.jpg)
 * [Kath Soucie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kath%20Soucie.jpg)
+* [Katharine Hepburn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katharine%20Hepburn.jpg)
 * [Katharine McPhee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katharine%20McPhee.jpg)
 * [Katherine Heigl](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katherine%20Heigl.jpg)
 * [Katherine LaNasa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Katherine%20LaNasa.jpg)

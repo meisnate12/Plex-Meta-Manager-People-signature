@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (591 Images)
+# Plex Meta Manager People - Signature (signature) - D (592 Images)
 ![Grid](grid.jpg)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -489,6 +489,7 @@
 * [Dominic Purcell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dominic%20Purcell.jpg)
 * [Dominic West](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dominic%20West.jpg)
 * [Dominique McElligott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dominique%20McElligott.jpg)
+* [Don Adams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Adams.jpg)
 * [Don Bluth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Bluth.jpg)
 * [Don Cheadle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Cheadle.jpg)
 * [Don Creech](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Don%20Creech.jpg)
