@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8759 Images)
+# Plex Meta Manager People - Signature (signature) (8761 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -1183,7 +1183,7 @@
 * [Béla Tarr](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B%C3%A9la%20Tarr.jpg)
 * [Bérénice Bejo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/B/Images/B%C3%A9r%C3%A9nice%20Bejo.jpg)
 </details>
-<details><summary><a href="C">C (581 Images)</a></summary>
+<details><summary><a href="C">C (582 Images)</a></summary>
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20S.%20Forester.jpg)
@@ -1511,6 +1511,7 @@
 * [Christian Bale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Bale.jpg)
 * [Christian Clavier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Clavier.jpg)
 * [Christian Colson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Colson.jpg)
+* [Christian De Sica](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20De%20Sica.jpg)
 * [Christian Hutcherson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Hutcherson.jpg)
 * [Christian Isaiah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Isaiah.jpg)
 * [Christian Kane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Kane.jpg)
@@ -8014,7 +8015,7 @@
 * [Søren Pilmark](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S%C3%B8ren%20Pilmark.jpg)
 * [Sō Yamanaka](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S%C5%8D%20Yamanaka.jpg)
 </details>
-<details><summary><a href="T">T (419 Images)</a></summary>
+<details><summary><a href="T">T (420 Images)</a></summary>
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20Love.jpg)
@@ -8038,6 +8039,7 @@
 * [Tam White](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tam%20White.jpg)
 * [Tamannaah Bhatia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tamannaah%20Bhatia.jpg)
 * [Tamara Smart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tamara%20Smart.jpg)
+* [Tamer Burjaq](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tamer%20Burjaq.jpg)
 * [Tamera Mowry-Housley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tamera%20Mowry-Housley.jpg)
 * [Tami Sagher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tami%20Sagher.jpg)
 * [Tammy Blanchard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tammy%20Blanchard.jpg)

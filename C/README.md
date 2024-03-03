@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (581 Images)
+# Plex Meta Manager People - Signature (signature) - C (582 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -327,6 +327,7 @@
 * [Christian Bale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Bale.jpg)
 * [Christian Clavier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Clavier.jpg)
 * [Christian Colson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Colson.jpg)
+* [Christian De Sica](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20De%20Sica.jpg)
 * [Christian Hutcherson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Hutcherson.jpg)
 * [Christian Isaiah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Isaiah.jpg)
 * [Christian Kane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christian%20Kane.jpg)

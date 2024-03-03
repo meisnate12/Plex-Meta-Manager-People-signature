@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (419 Images)
+# Plex Meta Manager People - Signature (signature) - T (420 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -23,6 +23,7 @@
 * [Tam White](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tam%20White.jpg)
 * [Tamannaah Bhatia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tamannaah%20Bhatia.jpg)
 * [Tamara Smart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tamara%20Smart.jpg)
+* [Tamer Burjaq](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tamer%20Burjaq.jpg)
 * [Tamera Mowry-Housley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tamera%20Mowry-Housley.jpg)
 * [Tami Sagher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tami%20Sagher.jpg)
 * [Tammy Blanchard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tammy%20Blanchard.jpg)
