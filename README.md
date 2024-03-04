@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8762 Images)
+# Plex Meta Manager People - Signature (signature) (8764 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -2363,7 +2363,7 @@
 * [Débora Nascimento](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D%C3%A9bora%20Nascimento.jpg)
 * [Díana Bermudez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D%C3%ADana%20Bermudez.jpg)
 </details>
-<details><summary><a href="E">E (321 Images)</a></summary>
+<details><summary><a href="E">E (322 Images)</a></summary>
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.J.%20Bonilla.jpg)
@@ -2565,6 +2565,7 @@
 * [Emmanuelle Rivassoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emmanuelle%20Rivassoux.jpg)
 * [Emmett Scanlan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emmett%20Scanlan.jpg)
 * [Emmy Rossum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emmy%20Rossum.jpg)
+* [Emun Elliott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Emun%20Elliott.jpg)
 * [Enfys Dickinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Enfys%20Dickinson.jpg)
 * [England Karam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/England%20Karam.jpg)
 * [Ennio Morricone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Ennio%20Morricone.jpg)
@@ -4554,7 +4555,7 @@
 * [Jürgen Prochnow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C3%BCrgen%20Prochnow.jpg)
 * [Jūzō Itami](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%C5%ABz%C5%8D%20Itami.jpg)
 </details>
-<details><summary><a href="K">K (393 Images)</a></summary>
+<details><summary><a href="K">K (394 Images)</a></summary>
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K.J.%20Apa.jpg)
@@ -4590,6 +4591,7 @@
 * [Karen Huie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Karen%20Huie.jpg)
 * [Karen Lynn Gorney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Karen%20Lynn%20Gorney.jpg)
 * [Karen Pittman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Karen%20Pittman.jpg)
+* [Karen Robinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Karen%20Robinson.jpg)
 * [Kari Matchett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kari%20Matchett.jpg)
 * [Kari Wahlgren](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kari%20Wahlgren.jpg)
 * [Karim El Hakim](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Karim%20El%20Hakim.jpg)
