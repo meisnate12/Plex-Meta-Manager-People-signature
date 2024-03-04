@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (806 Images)
+# Plex Meta Manager People - Signature (signature) - M (807 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -314,6 +314,7 @@
 * [Maryam d'Abo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maryam%20d%27Abo.jpg)
 * [Maryann Plunkett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maryann%20Plunkett.jpg)
 * [María Cecilia Botero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mar%C3%ADa%20Cecilia%20Botero.jpg)
+* [Masaaki Yuasa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Masaaki%20Yuasa.jpg)
 * [Masakazu Morita](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Masakazu%20Morita.jpg)
 * [Masaki Kobayashi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Masaki%20Kobayashi.jpg)
 * [Masako Nozawa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Masako%20Nozawa.jpg)

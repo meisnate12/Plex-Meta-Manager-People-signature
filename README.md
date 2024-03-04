@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8761 Images)
+# Plex Meta Manager People - Signature (signature) (8762 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -5337,7 +5337,7 @@
 * [Léa Seydoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%A9a%20Seydoux.jpg)
 * [Lúcio Andrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%BAcio%20Andrey.jpg)
 </details>
-<details><summary><a href="M">M (806 Images)</a></summary>
+<details><summary><a href="M">M (807 Images)</a></summary>
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -5652,6 +5652,7 @@
 * [Maryam d'Abo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maryam%20d%27Abo.jpg)
 * [Maryann Plunkett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Maryann%20Plunkett.jpg)
 * [María Cecilia Botero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Mar%C3%ADa%20Cecilia%20Botero.jpg)
+* [Masaaki Yuasa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Masaaki%20Yuasa.jpg)
 * [Masakazu Morita](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Masakazu%20Morita.jpg)
 * [Masaki Kobayashi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Masaki%20Kobayashi.jpg)
 * [Masako Nozawa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Masako%20Nozawa.jpg)
