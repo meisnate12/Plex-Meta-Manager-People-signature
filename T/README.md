@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (420 Images)
+# Plex Meta Manager People - Signature (signature) - T (421 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -66,6 +66,7 @@
 * [Taylor Lyons](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Lyons.jpg)
 * [Taylor Murphy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Murphy.jpg)
 * [Taylor St. Clair](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20St.%20Clair.jpg)
+* [Taylor Swift](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Swift.jpg)
 * [Taylor Tomlinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Taylor%20Tomlinson.jpg)
 * [Tchéky Karyo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Tch%C3%A9ky%20Karyo.jpg)
 * [Ted Alexandro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Ted%20Alexandro.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (566 Images)
+# Plex Meta Manager People - Signature (signature) - R (568 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -83,6 +83,7 @@
 * [Rashad Evans](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rashad%20Evans.jpg)
 * [Rashida Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rashida%20Jones.jpg)
 * [Rashmi Rustagi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rashmi%20Rustagi.jpg)
+* [Rasmus A. Sivertsen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rasmus%20A.%20Sivertsen.jpg)
 * [Rasmus Bjerg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rasmus%20Bjerg.jpg)
 * [Raven Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Raven%20Scott.jpg)
 * [Raven-Symoné](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Raven-Symon%C3%A9.jpg)
@@ -437,6 +438,7 @@
 * [Ron Funches](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Funches.jpg)
 * [Ron Howard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Howard.jpg)
 * [Ron Livingston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Livingston.jpg)
+* [Ron Oliver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Oliver.jpg)
 * [Ron Perlman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Perlman.jpg)
 * [Ron Rifkin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Rifkin.jpg)
 * [Ron Shelton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ron%20Shelton.jpg)

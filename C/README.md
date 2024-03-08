@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - C (582 Images)
+# Plex Meta Manager People - Signature (signature) - C (583 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -337,6 +337,7 @@
 * [Christiane Amanpour](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christiane%20Amanpour.jpg)
 * [Christiane Seidel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christiane%20Seidel.jpg)
 * [Christie Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christie%20Smith.jpg)
+* [Christie Will](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christie%20Will.jpg)
 * [Christina Applegate](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christina%20Applegate.jpg)
 * [Christina Cabot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christina%20Cabot.jpg)
 * [Christina Chong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/C/Images/Christina%20Chong.jpg)

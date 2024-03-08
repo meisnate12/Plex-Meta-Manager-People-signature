@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - S (608 Images)
+# Plex Meta Manager People - Signature (signature) - S (610 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -157,9 +157,11 @@
 * [Scott Frank](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20Frank.jpg)
 * [Scott Glenn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20Glenn.jpg)
 * [Scott Lawrence](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20Lawrence.jpg)
+* [Scott M. Jefferson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20M.%20Jefferson.jpg)
 * [Scott MacDonald](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20MacDonald.jpg)
 * [Scott Menville](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20Menville.jpg)
 * [Scott Michael Campbell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20Michael%20Campbell.jpg)
+* [Scott Michael Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20Michael%20Foster.jpg)
 * [Scott Moore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20Moore.jpg)
 * [Scott Mosier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20Mosier.jpg)
 * [Scott Patey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Scott%20Patey.jpg)

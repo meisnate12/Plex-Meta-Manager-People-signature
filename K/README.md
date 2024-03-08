@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - K (394 Images)
+# Plex Meta Manager People - Signature (signature) - K (395 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -252,6 +252,7 @@
 * [Kevin King Templeton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20King%20Templeton.jpg)
 * [Kevin Kline](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20Kline.jpg)
 * [Kevin LaRosa Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20LaRosa%20Jr..jpg)
+* [Kevin Lima](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20Lima.jpg)
 * [Kevin McCormick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20McCormick.jpg)
 * [Kevin McGarry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20McGarry.jpg)
 * [Kevin McKidd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/K/Images/Kevin%20McKidd.jpg)
