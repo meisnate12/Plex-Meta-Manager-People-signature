@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - V (108 Images)
+# Plex Meta Manager People - Signature (signature) - V (109 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/V.J.%20Foster.jpg)
@@ -6,6 +6,7 @@
 * [Val Kilmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Val%20Kilmer.jpg)
 * [Valarie Rae Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valarie%20Rae%20Miller.jpg)
 * [Valentina Cortese](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valentina%20Cortese.jpg)
+* [Valeria Bruni Tedeschi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valeria%20Bruni%20Tedeschi.jpg)
 * [Valerie Leon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valerie%20Leon.jpg)
 * [Valerio Aprea](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valerio%20Aprea.jpg)
 * [Valerio Mastandrea](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/V/Images/Valerio%20Mastandrea.jpg)

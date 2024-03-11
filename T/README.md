@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - T (421 Images)
+# Plex Meta Manager People - Signature (signature) - T (422 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -105,6 +105,7 @@
 * [Terry Crews](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Crews.jpg)
 * [Terry Fator](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Fator.jpg)
 * [Terry Gilliam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Gilliam.jpg)
+* [Terry Ingram](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Ingram.jpg)
 * [Terry Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Jones.jpg)
 * [Terry Notary](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20Notary.jpg)
 * [Terry O'Quinn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/T/Images/Terry%20O%27Quinn.jpg)
