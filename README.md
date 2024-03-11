@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8784 Images)
+# Plex Meta Manager People - Signature (signature) (8786 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -5348,7 +5348,7 @@
 * [Léa Seydoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%A9a%20Seydoux.jpg)
 * [Lúcio Andrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/L/Images/L%C3%BAcio%20Andrey.jpg)
 </details>
-<details><summary><a href="M">M (810 Images)</a></summary>
+<details><summary><a href="M">M (811 Images)</a></summary>
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -5482,6 +5482,7 @@
 * [Margaret Avery](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margaret%20Avery.jpg)
 * [Margaret Lacey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margaret%20Lacey.jpg)
 * [Margaret Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margaret%20Lee.jpg)
+* [Margaret Ménégoz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margaret%20M%C3%A9n%C3%A9goz.jpg)
 * [Margit Evelyn Newton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margit%20Evelyn%20Newton.jpg)
 * [Margo Martindale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margo%20Martindale.jpg)
 * [Margo Moorer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margo%20Moorer.jpg)
@@ -6853,7 +6854,7 @@
 * [Quinn Duffy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quinn%20Duffy.jpg)
 * [Quinton Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/Q/Images/Quinton%20Jackson.jpg)
 </details>
-<details><summary><a href="R">R (568 Images)</a></summary>
+<details><summary><a href="R">R (569 Images)</a></summary>
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Madhavan.jpg)
@@ -7279,6 +7280,7 @@
 * [Rolf Lassgård](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rolf%20Lassg%C3%A5rd.jpg)
 * [Rolf de Heer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rolf%20de%20Heer.jpg)
 * [Romain Duris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Romain%20Duris.jpg)
+* [Romain Goupil](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Romain%20Goupil.jpg)
 * [Roman Coppola](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roman%20Coppola.jpg)
 * [Roman Polanski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roman%20Polanski.jpg)
 * [Romeo Muller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Romeo%20Muller.jpg)

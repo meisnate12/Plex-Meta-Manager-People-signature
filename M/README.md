@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - M (810 Images)
+# Plex Meta Manager People - Signature (signature) - M (811 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -133,6 +133,7 @@
 * [Margaret Avery](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margaret%20Avery.jpg)
 * [Margaret Lacey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margaret%20Lacey.jpg)
 * [Margaret Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margaret%20Lee.jpg)
+* [Margaret Ménégoz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margaret%20M%C3%A9n%C3%A9goz.jpg)
 * [Margit Evelyn Newton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margit%20Evelyn%20Newton.jpg)
 * [Margo Martindale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margo%20Martindale.jpg)
 * [Margo Moorer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/M/Images/Margo%20Moorer.jpg)

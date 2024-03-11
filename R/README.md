@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (568 Images)
+# Plex Meta Manager People - Signature (signature) - R (569 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -425,6 +425,7 @@
 * [Rolf Lassgård](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rolf%20Lassg%C3%A5rd.jpg)
 * [Rolf de Heer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rolf%20de%20Heer.jpg)
 * [Romain Duris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Romain%20Duris.jpg)
+* [Romain Goupil](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Romain%20Goupil.jpg)
 * [Roman Coppola](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roman%20Coppola.jpg)
 * [Roman Polanski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Roman%20Polanski.jpg)
 * [Romeo Muller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Romeo%20Muller.jpg)
