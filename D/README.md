@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - D (595 Images)
+# Plex Meta Manager People - Signature (signature) - D (596 Images)
 ![Grid](grid.jpg)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/D.L.%20Hughley.jpg)
@@ -437,6 +437,7 @@
 * [Dharmadasa Kuruppu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Dharmadasa%20Kuruppu.jpg)
 * [Di Zhu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Di%20Zhu.jpg)
 * [Diana Coupland](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Diana%20Coupland.jpg)
+* [Diana Kaarina](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Diana%20Kaarina.jpg)
 * [Diana Lee Inosanto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Diana%20Lee%20Inosanto.jpg)
 * [Diane Guerrero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Diane%20Guerrero.jpg)
 * [Diane Keaton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/D/Images/Diane%20Keaton.jpg)

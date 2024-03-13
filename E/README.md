@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - E (322 Images)
+# Plex Meta Manager People - Signature (signature) - E (323 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/E.G.%20Marshall.jpg)
@@ -246,6 +246,7 @@
 * [Erica Durance](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erica%20Durance.jpg)
 * [Erica Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erica%20Lee.jpg)
 * [Erica Leerhsen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erica%20Leerhsen.jpg)
+* [Erica Lindbeck](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erica%20Lindbeck.jpg)
 * [Erich Hoeber](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erich%20Hoeber.jpg)
 * [Erich Redman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erich%20Redman.jpg)
 * [Erick Avari](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/E/Images/Erick%20Avari.jpg)

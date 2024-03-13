@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - A (725 Images)
+# Plex Meta Manager People - Signature (signature) - A (727 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Aamir%20Khan.jpg)
@@ -358,6 +358,7 @@
 * [Amelia Bullmore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amelia%20Bullmore.jpg)
 * [Amer Chadha-Patel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amer%20Chadha-Patel.jpg)
 * [America Ferrera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/America%20Ferrera.jpg)
+* [America Young](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/America%20Young.jpg)
 * [Amerigo Fontani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amerigo%20Fontani.jpg)
 * [Amerigo Tot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amerigo%20Tot.jpg)
 * [Amir Ali Said](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Amir%20Ali%20Said.jpg)
@@ -547,6 +548,7 @@
 * [Annie Girardot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annie%20Girardot.jpg)
 * [Annie Potts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annie%20Potts.jpg)
 * [Annie Ross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annie%20Ross.jpg)
+* [Annie Wersching](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Annie%20Wersching.jpg)
 * [Anouk Christiansen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anouk%20Christiansen.jpg)
 * [Anson Mount](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anson%20Mount.jpg)
 * [Anthony Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/A/Images/Anthony%20Anderson.jpg)

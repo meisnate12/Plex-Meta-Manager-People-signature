@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - G (305 Images)
+# Plex Meta Manager People - Signature (signature) - G (306 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/G-Eazy.jpg)
@@ -252,6 +252,7 @@
 * [Gray Frederickson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Gray%20Frederickson.jpg)
 * [Grayson Berry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Grayson%20Berry.jpg)
 * [Graziella Moretto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Graziella%20Moretto.jpg)
+* [Greer Barnes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greer%20Barnes.jpg)
 * [Greg Berlanti](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Berlanti.jpg)
 * [Greg Bryk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Bryk.jpg)
 * [Greg Cipes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/G/Images/Greg%20Cipes.jpg)

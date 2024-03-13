@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) - R (569 Images)
+# Plex Meta Manager People - Signature (signature) - R (570 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -484,6 +484,7 @@
 * [Rosie Cavaliero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosie%20Cavaliero.jpg)
 * [Rosie O'Donnell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosie%20O%27Donnell.jpg)
 * [Rosie Perez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Rosie%20Perez.jpg)
+* [Ross Bagdasarian, Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Bagdasarian%2C%20Jr..jpg)
 * [Ross Butler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Butler.jpg)
 * [Ross Douglas Noble](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Douglas%20Noble.jpg)
 * [Ross Marquand](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ross%20Marquand.jpg)
