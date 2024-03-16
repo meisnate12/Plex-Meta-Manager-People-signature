@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8800 Images)
+# Plex Meta Manager People - Signature (signature) (8801 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -3483,7 +3483,7 @@
 * [Izaac Wang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izaac%20Wang.jpg)
 * [Izabella Scorupco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/I/Images/Izabella%20Scorupco.jpg)
 </details>
-<details><summary><a href="J">J (1084 Images)</a></summary>
+<details><summary><a href="J">J (1085 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -4459,6 +4459,7 @@
 * [Josh Stewart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josh%20Stewart.jpg)
 * [Josh Widdicombe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josh%20Widdicombe.jpg)
 * [Josh Wiggins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josh%20Wiggins.jpg)
+* [Josha Stradowski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Josha%20Stradowski.jpg)
 * [Joshua Harto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joshua%20Harto.jpg)
 * [Joshua Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joshua%20Jackson.jpg)
 * [Joshua James](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/J/Images/Joshua%20James.jpg)
