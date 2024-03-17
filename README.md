@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Signature (signature) (8801 Images)
+# Plex Meta Manager People - Signature (signature) (8802 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -7438,7 +7438,7 @@
 * [Ryunosuke Kamiki](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryunosuke%20Kamiki.jpg)
 * [Ryusuke Hamaguchi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/R/Images/Ryusuke%20Hamaguchi.jpg)
 </details>
-<details><summary><a href="S">S (611 Images)</a></summary>
+<details><summary><a href="S">S (612 Images)</a></summary>
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saagar%20Shaikh.jpg)
@@ -7519,6 +7519,7 @@
 * [Sandra Dickinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sandra%20Dickinson.jpg)
 * [Sandra Ellis Lafferty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sandra%20Ellis%20Lafferty.jpg)
 * [Sandra Oh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sandra%20Oh.jpg)
+* [Sandra Yi Sencindiver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sandra%20Yi%20Sencindiver.jpg)
 * [Sandy Martin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sandy%20Martin.jpg)
 * [Saniyya Sidney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Saniyya%20Sidney.jpg)
 * [Sanjay Gupta](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-signature/master/S/Images/Sanjay%20Gupta.jpg)
